@@ -17,7 +17,7 @@
 
 <h3 align="left">Apps I can use:</h3>
 
-Editing
+- Editing
 
 <p align="left">
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/KevinNitroG/KevinNitroG/main/Apps'%20logo/adobe-photoshop-seeklogo.com.svg" alt="Photoshop" width="40" height="40"/> </a>
@@ -26,7 +26,7 @@ Editing
 <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/KevinNitroG/KevinNitroG/main/Apps'%20logo/microsoft-powerpoint-seeklogo.com.svg" alt="PowerPoint" width="40" height="40"/> </a>
 </p>
 
-Entertaining
+- Entertaining
 
 <p align="left">
 <a href="https://www.guitar-pro.com/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/9K5Y4LxnvY2mBrjhzN_rQFW0iXMqTN0gXA1xDytUkCZR6JEsy7OT-9X1d51CGzglYVQ" alt="GuitarPro" width="40" height="40"/> </a>

@@ -14,6 +14,8 @@
 <a href="https://instagram.com/kevinnitrok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevinnitrok" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kevin nitro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kevin nitro" height="30" width="40" /></a>
 <a href="https://discord.gg/Kevin Nitro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kevin Nitro" height="30" width="40" /></a>
+<a href="http://zaloapp.com/qr/p/8nq0w4uj7zzj" target="blank"><img align="center" src="https://github.com/KevinNitroG/KevinNitroG/raw/main/Apps'%20logo/zalo-seeklogo.com.svg" alt="Trần Nguyễn Thái Bình" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@kevinnitro2495?_t=8UrW3sr47qU&_r=1" target="blank"><img align="center" src="https://github.com/KevinNitroG/KevinNitroG/raw/main/Apps'%20logo/tiktok-app-icon-seeklogo.com.svg" alt="KevinNitro2495" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Apps I can use:</h3>

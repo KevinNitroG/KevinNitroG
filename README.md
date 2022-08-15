@@ -19,3 +19,10 @@
 <p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinnitrog&show_icons=true&locale=en" alt="kevinnitrog" /></p>
+
+![GitHub metrics](https://metrics.lecoq.io/KevinNitroG)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinNitroG)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KevinNitroG)  
+

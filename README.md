@@ -173,16 +173,16 @@
 
 <div align="center">
 	<!-- Anuraghazra Github Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
-	<a href="https://github-readme-stats.vercel.app/api?username=KevinNitroG&show_icons=true&theme=tokyonight&card_width=570"><img src="https://github-readme-stats.vercel.app/api?username=KevinNitroG&show_icons=true&theme=tokyonight&card_width=570" alt="KevinNitroG's GitHub stats"></a>
+	<a href="https://github-readme-stats.vercel.app/api?username=KevinNitroG&show_icons=true&theme=tokyonight&card_width=570"><img src="https://github-readme-stats.vercel.app/api?username=KevinNitroG&show_icons=true&theme=tokyonight&card_width=570&layout=compact" alt="KevinNitroG's GitHub stats"></a>
 	<br>
 	<!-- Streak: https://git.io/streak-stats -->
 	<a href="https://streak-stats.demolab.com?user=KevinNitroG&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&card_width=570"><img src="https://streak-stats.demolab.com?user=KevinNitroG&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&card_width=570" alt="KevinNitroG's GitHub Streak"></a>
 	<br>
 	<!-- Top Langs: https://github.com/anuraghazra/github-readme-stats -->
-	<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinNitroG&langs_count=10&theme=tokyonight&card_width=570"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinNitroG&langs_count=10&theme=tokyonight&card_width=570" alt="KevinNitroG's Top Langs"></a>
+	<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinNitroG&langs_count=10&theme=tokyonight&card_width=570"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinNitroG&langs_count=5&theme=tokyonight&card_width=570&layout=compact" alt="KevinNitroG's Top Langs"></a>
 	<br>
 	<!-- WakaTime: https://github.com/anuraghazra/github-readme-stats -->
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=KevinNitro&theme=tokyonight&card_width=570" alt="KevinNitroG's WakaTime" width="570px"></a>
+	<a href="https://github-readme-stats.vercel.app/api/wakatime?username=KevinNitro&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=KevinNitro&theme=tokyonight&card_width=570" alt="KevinNitroG's WakaTime in last year" width="570px"></a>
 	<br>
 	<!-- Github Trophies: https://github.com/ryo-ma/github-profile-trophy -->
 	<img src="https://github-profile-trophy.vercel.app/?username=KevinNitroG&column=5&theme=tokyonight&no-bg=false" alt="KevinNitro's Trophies" width="570px">

@@ -1,0 +1,83 @@
+name: KevinNitro Update Readme Workflows
+
+on:
+  schedule:
+    - cron: "0 8,20 * * *"
+  workflow_dispatch:
+  # push:
+  #   branches:
+  #     - main
+  # pull_request:
+  #   branches:
+  #     - main
+
+concurrency:
+  group: KevinNitro-Update-Readme-Workflows
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    name: Update Profile README
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@main
+      - uses: Readme-Workflows/recent-activity@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Athul WakaTime
+        uses: athul/waka-readme@master
+        continue-on-error: true
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: Kevin Nitro
+          TIME_RANGE: all_time
+          LANG_COUNT: 10
+          SHOW_TOTAL: true
+          COMMITTER_NAME: GitHub Action
+          COMMITTER_EMAIL: action@github.com
+          AUTHOR_NAME: KevinNitroG
+          AUTHOR_EMAIL: kevinnitro@duck.com
+          CODE_LANG: rust
+          COMMIT_MESSAGE: 📈 Update WakaTime
+          # IGNORED_LANGUAGES: Other
+
+      # - name: Jamesgeorge007 Github Activity
+      #   uses: jamesgeorge007/github-activity-readme@master
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #     COMMIT_NAME: GitHub Actions
+      #     COMMIT_EMAIL: action@github.com
+      #     MAX_LINES: 10
+
+      - name: Readme Workflows Recent Activity
+        uses: Readme-Workflows/recent-activity@main
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # - name: Remove wakatime branch
+      #   run: |
+      #     if git ls-remote --exit-code --heads origin wakatime; then
+      #       git push origin --delete wakatime
+      #     fi
+      #     git checkout --orphan wakatime
+      #     find . -mindepth 1 -name ".git" -prune -o -exec rm -rf {} +
+      #     echo "WakaTime branch" > README.md
+      #     git add README.md
+      #     git config --global user.email "action@github.com"
+      #     git config --global user.name "GitHub Action"
+      #     git commit -m "WakaTime branch created at $(TZ="Asia/Bangkok" date "+%d-%m-%y at %I:%M %p")"
+      #     git push origin wakatime
+
+      # - name: Avinal WakaTime
+      #   uses: avinal/Profile-Readme-WakaTime@master
+      #   with:
+      #     WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      #     GITHUB_TOKEN: ${{ github.token }}
+      #     BRANCH: "wakatime"
+      #     COMMIT_MSG: "Automated Coding Activity Update :alien:"
+      #     STATS_RANGE: "all_time"

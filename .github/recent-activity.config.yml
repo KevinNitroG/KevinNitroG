@@ -1,0 +1,32 @@
+settings:
+  # username: KevinNitroG
+  commit_msg: "📈 Update recent activities"
+  max_lines: 10
+  readme_file: "./README.md"
+  disabled_events:
+  url_text: "{REPO}{ID}"
+  date:
+    timezone: "Asia/Ho_Chi_Minh"
+    text: "**Last Updated:** {DATE}"
+    format: "h:mm TT 'on' dddd, d/m/yyyy 'GMT':p '_(Vietnam)_'"
+  commit_name: "GitHub Actions"
+  commit_email: "action@github.com"
+  line_prefix: "{NUM}. "
+  # ignored_repos:
+  #   - username/repo
+messages:
+  comments: "💬 Commented on {ID} in {REPO}"
+  push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
+  issue_opened: "❗️ Opened issue {ID} in {REPO}"
+  issue_closed: "✔️ Closed issue {ID} in {REPO}"
+  pr_opened: "💪 Opened PR {ID} in {REPO}"
+  pr_closed: "❌ Closed PR {ID} in {REPO}"
+  pr_merged: "🎉 Merged PR {ID} in {REPO}"
+  create_repo: "📔 Created new repository {REPO}"
+  fork_repo: "🔱 Forked {FORK} from {REPO}"
+  wiki_create: "📖 Created new wiki page {WIKI} in {REPO}"
+  added_member: "🤝 Became collaborator on {REPO}"
+  changes_approved: "👍 Approved {ID} in {REPO}"
+  changes_requested: "🔴 Requested changes in {ID} in {REPO}"
+  new_release: "✌️ Released {ID} in {REPO}"
+  new_star: "⭐ Starred {REPO}"

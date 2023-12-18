@@ -27,23 +27,23 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-       - name: Athul WakaTime
-         uses: athul/waka-readme@master
-         continue-on-error: true
-         with:
-           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-           SHOW_TITLE: true
-           SECTION_NAME: Kevin Nitro
-           TIME_RANGE: all_time
-           LANG_COUNT: 7
-           SHOW_TOTAL: true
-           COMMITTER_NAME: GitHub Action
-           COMMITTER_EMAIL: action@github.com
-           AUTHOR_NAME: KevinNitroG
-           AUTHOR_EMAIL: kevinnitro@duck.com
-           CODE_LANG: rust
-           COMMIT_MESSAGE: 📈 Update WakaTime
-           IGNORED_LANGUAGES: Other
+      - name: Athul WakaTime
+        uses: athul/waka-readme@master
+        continue-on-error: true
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: Kevin Nitro
+          TIME_RANGE: all_time
+          LANG_COUNT: 7
+          SHOW_TOTAL: true
+          COMMITTER_NAME: GitHub Action
+          COMMITTER_EMAIL: action@github.com
+          AUTHOR_NAME: KevinNitroG
+          AUTHOR_EMAIL: kevinnitro@duck.com
+          CODE_LANG: rust
+          COMMIT_MESSAGE: 📈 Update WakaTime
+          IGNORED_LANGUAGES: Other
 
       # - name: Jamesgeorge007 Github Activity
       #   uses: jamesgeorge007/github-activity-readme@master

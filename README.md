@@ -82,7 +82,7 @@
 
 <!-- WAKATIME SECTION -->
 
-<h2 align="center">⏲️ WAKATIME 🧑‍💻</h2>
+<!-- <h2 align="center">⏲️ WAKATIME 🧑‍💻</h2> -->
 
 <!-- WakaTime SVG: https://github.com/avinal/Profile-Readme-WakaTime -->
 
@@ -98,19 +98,6 @@
 <!-- WakaTime Code: https://github.com/athul/waka-readme -->
 
 <!--START_SECTION:waka-->
-
-```rust
-From: 17 October 2023 - To: 17 December 2023
-
-Total Time: 55 mins
-
-Markdown   33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
-YAML       16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-Python     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-INI        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-```
 
 <!--END_SECTION:waka-->
 
@@ -151,6 +138,8 @@ INI        0 secs          ░░░░░░░░░░░░░░░░░�
 
 <!-- SKILLS AND WILL (MAY) LEARN SECTION -->
 
+<!-- Skillicons: https://github.com/tandpfun/skill-icons -->
+
 <center>
 	<table align="center">
 		<thead>
@@ -183,12 +172,19 @@ INI        0 secs          ░░░░░░░░░░░░░░░░░�
 <h2 align="center">📈 MY STATS 🙄</h2>
 
 <div align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=KevinNitroG&show_icons=true&theme=tokyonight&card_width=570" alt="KevinNitroG's GitHub stats"></a>
+	<!-- Anuraghazra Github Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
+	<a href="https://github-readme-stats.vercel.app/api?username=KevinNitroG&show_icons=true&theme=tokyonight&card_width=570"><img src="https://github-readme-stats.vercel.app/api?username=KevinNitroG&show_icons=true&theme=tokyonight&card_width=570" alt="KevinNitroG's GitHub stats"></a>
 	<br>
-	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KevinNitroG&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&card_width=570" alt="KevinNitroG's GitHub Streak"></a>
+	<!-- Streak: https://git.io/streak-stats -->
+	<a href="https://streak-stats.demolab.com?user=KevinNitroG&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&card_width=570"><img src="https://streak-stats.demolab.com?user=KevinNitroG&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&card_width=570" alt="KevinNitroG's GitHub Streak"></a>
 	<br>
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinNitroG&langs_count=20&layout=compact&theme=tokyonight&card_width=570" alt="KevinNitroG's Top Langs"></a>
+	<!-- Top Langs: https://github.com/anuraghazra/github-readme-stats -->
+	<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinNitroG&langs_count=10&theme=tokyonight&card_width=570"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinNitroG&langs_count=10&theme=tokyonight&card_width=570" alt="KevinNitroG's Top Langs"></a>
 	<br>
+	<!-- WakaTime: https://github.com/anuraghazra/github-readme-stats -->
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=KevinNitro&theme=tokyonight&card_width=570" alt="KevinNitroG's WakaTime" width="570px"></a>
+	<br>
+	<!-- Github Trophies: https://github.com/ryo-ma/github-profile-trophy -->
 	<img src="https://github-profile-trophy.vercel.app/?username=KevinNitroG&column=5&theme=tokyonight&no-bg=false" alt="KevinNitro's Trophies" width="570px">
 </div>
 
@@ -207,6 +203,7 @@ INI        0 secs          ░░░░░░░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
+
 1. 📔 Created new repository [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
 2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
 3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
@@ -220,7 +217,9 @@ INI        0 secs          ░░░░░░░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 **Last Updated:** 3:12 AM on Tuesday, 19/12/2023 GMT:+07:00 _(Vietnam)_
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>

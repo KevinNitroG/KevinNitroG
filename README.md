@@ -160,7 +160,7 @@
 	<br>
 	<!-- WakaTime: https://github.com/anuraghazra/github-readme-stats -->
 	<!-- <a href="https://github-readme-stats.vercel.app/api/wakatime?username=KevinNitro&theme=tokyonight&layout=compact"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=KevinNitro&theme=tokyonight&card_width=570&layout=compact" alt="KevinNitroG's WakaTime in last year" width="570px"></a> -->
-	<br>
+	<!-- <br> -->
 	<!-- Github Trophies: https://github.com/ryo-ma/github-profile-trophy -->
 	<img src="https://github-profile-trophy.vercel.app/?username=KevinNitroG&column=5&theme=tokyonight&no-bg=false" alt="KevinNitro's Trophies" width="570px">
 </div>

@@ -72,8 +72,8 @@
 	</div>
 	<!-- Spotify Github Profile: https://github.com/kittinan/spotify-github-profile -->
 	<div align="center">
-		<a align="center" href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ms2mpwauroluxnjudw7a6u336e&redirect=true">
-			<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ms2mpwauroluxnjudw7a6u336e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" width="260px">
+		<a align="center" href="https://spotify-github-profile.vercel.app/api/view?uid=31ms2mpwauroluxnjudw7a6u336e&redirect=true">
+			<img src="https://spotify-github-profile.vercel.app/api/view?uid=31ms2mpwauroluxnjudw7a6u336e&cover_image=true&theme=default&show_offline=false&background_color=1a1b27&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" width="260px">
 		</a>
 	</div>
 </div>
@@ -215,6 +215,7 @@ XML        0 secs          ░░░░░░░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⭐ Starred [unixporn-dots/unixporn-dots.github.io](https://github.com/unixporn-dots/unixporn-dots.github.io)<br>
 2. ⭐ Starred [mckinsey/vizro](https://github.com/mckinsey/vizro)<br>
 3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
@@ -228,7 +229,9 @@ XML        0 secs          ░░░░░░░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 **Last Updated:** 3:12 PM on Tuesday, 19/12/2023 _(Vietnam)_
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>

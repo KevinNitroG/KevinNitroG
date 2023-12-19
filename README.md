@@ -169,7 +169,7 @@
 
 <!-- WAKATIME SECTION -->
 
-<!-- <h2 align="center">⏲️ WAKATIME 🧑‍💻</h2> -->
+<h2 align="center">⏲️ WAKATIME 🧑‍💻</h2>
 
 <!-- WakaTime SVG: https://github.com/avinal/Profile-Readme-WakaTime -->
 

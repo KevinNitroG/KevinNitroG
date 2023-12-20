@@ -128,14 +128,10 @@
 		<tbody>
 			<tr>
 				<td align="center" style="vertical-align: top;">
-					<a href="https://skillicons.dev">
-						<img src="https://skillicons.dev/icons?i=linux,ps,pr,visualstudio,vscode,regex,cpp,py,md,bash,git,github,gitlab,githubactions,workers,instagram,discord&theme=dark&perline=5" alt="My Skills" height="205px"/>
-					</a>
+					<img src="https://skillicons.dev/icons?i=linux,ps,pr,visualstudio,vscode,regex,cpp,py,md,bash,git,github,gitlab,githubactions,workers,instagram,discord&theme=dark&perline=5" alt="My Skills" height="205px"/>
 				</td>
 				<td align="center" style="vertical-align: top;">
-					<a href="https://skillicons.dev">
-						<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,selenium,powershell,docker,cloudflare,mongodb,redis,vercel,netlify,replit,aws,raspberrypi,devto,linkedin&theme=dark&perline=5" alt="My Skills" height="205px"/>
-					</a>
+					<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,selenium,powershell,docker,cloudflare,mongodb,redis,vercel,netlify,replit,aws,raspberrypi,devto,linkedin&theme=dark&perline=5" alt="My Skills" height="205px"/>
 				</td>
 			</tr>
 		</tbody>
@@ -150,13 +146,13 @@
 
 <div align="center">
 	<!-- Anuraghazra Github Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
-	<a href="https://github-readme-stats.vercel.app/api?username=KevinNitroG&show_icons=true&theme=tokyonight&card_width=570"><img src="https://github-readme-stats.vercel.app/api?username=KevinNitroG&show_icons=true&theme=tokyonight&card_width=570&layout=compact" alt="KevinNitroG's GitHub stats"></a>
+	<img src="https://github-readme-stats.vercel.app/api?username=KevinNitroG&show_icons=true&theme=tokyonight&card_width=570&layout=compact" alt="KevinNitroG's GitHub stats">
 	<br>
 	<!-- Streak: https://git.io/streak-stats -->
-	<a href="https://streak-stats.demolab.com?user=KevinNitroG&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&card_width=570"><img src="https://streak-stats.demolab.com?user=KevinNitroG&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&card_width=570" alt="KevinNitroG's GitHub Streak"></a>
+	<img src="https://streak-stats.demolab.com?user=KevinNitroG&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&card_width=570" alt="KevinNitroG's GitHub Streak">
 	<br>
 	<!-- Top Langs: https://github.com/anuraghazra/github-readme-stats -->
-	<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinNitroG&langs_count=10&theme=tokyonight&card_width=570"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinNitroG&langs_count=5&theme=tokyonight&card_width=570&layout=compact" alt="KevinNitroG's Top Langs"></a>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinNitroG&langs_count=5&theme=tokyonight&card_width=570&layout=compact" alt="KevinNitroG's Top Langs">
 	<br>
 	<!-- WakaTime: https://github.com/anuraghazra/github-readme-stats -->
 	<!-- <a href="https://github-readme-stats.vercel.app/api/wakatime?username=KevinNitro&theme=tokyonight&layout=compact"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=KevinNitro&theme=tokyonight&card_width=570&layout=compact" alt="KevinNitroG's WakaTime in last year" width="570px"></a> -->

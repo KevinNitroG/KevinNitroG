@@ -106,8 +106,8 @@
     <a href="https://instagram.com/kevinnitro_" target="_blank">
         <img src="icons/instagram.svg" alt="Instagram - kevinnitro_" height="50" width="50" />
 	</a>
-	    <a href="https://www.linkedin.com/in/nguyen-thai-binh-tran-21a33b27b/" target="_blank">
-        <img src="icons/linkedin.svg" alt="Linkedin - Nguyen Thai Binh Tran" height="50" width="50" />
+	    <a href="https://www.linkedin.com/in/KevinNitro/" target="_blank">
+        <img src="icons/linkedin.svg" alt="Linkedin - Nguyen Thai Binh Tran (KevinNitro)" height="50" width="50" />
 	</a>
 </div>
 
@@ -244,45 +244,20 @@ XML        0 secs          ░░░░░░░░░░░░░░░░░�
     <table align="center">
     	<thead>
     		<tr>
-    			<th align="center"><h3><strong>SPECS</strong></h3></th>
-    			<th align="center"><h3><strong>LAPTOP</strong></h3></th>
-    			<th align="center"><h3><strong>PHONE</strong></h3></th>
+    			<th align="center"><h3><strong>NAME</strong></h3></th>
+    			<th align="center"><h3><strong>MODEL</strong></h3></th>
+    			<th align="center"><h3><strong>OS</strong></h3></th>
     		</tr>
     	</thead>
     	<tbody>
     		<tr>
-    			<td align="center"><strong>MODEL</strong></td>
-    			<td>Dell Vostro 5410</td>
-    			<td>Xiaomi Redmi K30 5G</td>
-    		</tr>
-    		<tr>
-    			<td align="center"><strong>CPU</strong></td>
-    			<td>Intel Core i5-11300H</td>
-    			<td>Qualcomm Snapdragon 765G</td>
-    		</tr>
-    		<tr>
-    			<td align="center"><strong>GPU</strong></td>
-    			<td>Intel(R) Iris(R) Xe Graphics</td>
-    			<td>Adreno 620</td>
-    		</tr>
-    		<tr>
-    			<td align="center"><strong>DISPLAY</strong></td>
-    			<td>1920x1080 <em>(60Hz)</em></td>
-    			<td>2400x1080 <em>(120Hz)</em></td>
-    		</tr>
-    		<tr>
-    			<td align="center"><strong>RAM</strong></td>
-    			<td>24GB <em>(8 + 16)</em> DDR4 <em>(3200MHz)</em></td>
-    			<td>6GB <em>(LPDDR4X)</em></td>
-    		</tr>
-    		<tr>
-    			<td align="center"><strong>STORAGE</strong></td>
-    			<td>512GB</td>
-    			<td>128GB</td>
-    		</tr>
-    		<tr>
-    			<td align="center"><strong>OS</strong></td>
+    			<td align="center"><strong>LAPTOP</strong></td>
+    			<td><a href="https://www.dell.com/en-us/shop/dell-laptops/vostro-5410-laptop/spd/vostro-14-5410-laptop">Dell Vostro 5410</a></td>
     			<td>Windows 11 Home 🪟 - Linux Mint 🐧</td>
+    		</tr>
+    		<tr>
+    			<td align="center"><strong>PHONE</strong></td>
+    			<td><a href="https://www.gsmarena.com/xiaomi_redmi_k30_5g-9979.php">Xiaomi Redmi K30 5G</a></td>
     			<td>Android 12 <em>(MIUI CN 13)</em><br><em>(rooted with Magisk Delta)</em></td>
     	</tbody>
     </table>
@@ -304,12 +279,14 @@ XML        0 secs          ░░░░░░░░░░░░░░░░░�
     	<tbody>
     		<tr>
     			<td align="center"><strong>EARPHONE</strong></td>
-    			<td>Airpods Pro 2</td>
+    			<td>Airpods Pro <em>(Gen 2)</em></td>
     		</tr>
     				<tr>
-    			<td align="center"><strong>HARD DRIVE</strong></td>
+    			<td align="center"><strong>DRIVE</strong></td>
     			<td>
-    				700GB <em>(HDD)</em> <em>(Anhdv Boot & Data)</em>
+    				<a href="https://www.hdsentinel.com/storageinfo_details.php?lang=en&model=HITACHI%20HTS541075A9E680">HITACHI HTS541075A9E680</a> <em>(700GB HDD)</em> <em>(Anhdv Boot & Data)</em>
+					<br>
+					<a href="https://www.amazon.com/Hagibis-Enclosure-Aluminum-External-Solid-State/dp/B0CLTN8PLM">Hagibis 2230 M.2 NVMe SSD</a> <em>(2TB SSD)</em> <em>(Linux + Data)</em>
     			</td>
     		</tr>
     	</tbody>

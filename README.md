@@ -86,7 +86,7 @@
 
 <div align="center">
     <a href="mailto:kevinnitro@duck.com" target="_blank">
-  		<img src="icons/email.png" alt="Email - kevinnitro@duck.com" height="50" width="50" />
+  		<img src="icons/email.svg" alt="Email - kevinnitro@duck.com" height="50" width="50" />
 	</a>
   	<a href="https://www.facebook.com/KevinNitro" target="_blank">
   		<img src="icons/facebook.svg" alt="Facebook - Trần Nguyễn Thái Bình" height="50" width="50" />

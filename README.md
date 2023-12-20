@@ -103,8 +103,8 @@
   	<a href="https://twitter.com/kevinnitrog" target="_blank">
 		<img src="icons/twitter.svg" alt="Twitter - kevinnitrog" height="50" width="50" />
 	</a>
-    <a href="https://instagram.com/kevinnitro_" target="_blank">
-        <img src="icons/instagram.svg" alt="Instagram - kevinnitro_" height="50" width="50" />
+    <a href="https://instagram.com/KevinNitroG" target="_blank">
+        <img src="icons/instagram.svg" alt="Instagram - KevinNitroG" height="50" width="50" />
 	</a>
 	    <a href="https://www.linkedin.com/in/KevinNitro/" target="_blank">
         <img src="icons/linkedin.svg" alt="Linkedin - Nguyen Thai Binh Tran (KevinNitro)" height="50" width="50" />

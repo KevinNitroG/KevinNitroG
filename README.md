@@ -62,8 +62,8 @@
 
 <div align="right">
 	<div align="center">
-		<a href="https://github.com/KevinNitroG/KevinNitroG">
-			<img src="https://komarev.com/ghpvc/?username=KevinNitroG&color=82A0D8&style=for-the-badge&label=profile+views" alt="Visit count">
+		<a href="https://github.com/KevinNitroG">
+			<img src="https://komarev.com/ghpvc/?username=KevinNitroG&color=82A0D8&style=for-the-badge&label=hit" alt="Hit from 21/12/23">
 		</a>
 		<a href="https://github.com/KevinNitroG">
 			<img src="https://img.shields.io/badge/website-ECEE81?style=for-the-badge">

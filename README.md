@@ -182,16 +182,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 October 2023 - To: 21 December 2023
+From: 17 October 2023 - To: 22 December 2023
 
-Total Time: 9 hrs 4 mins
+Total Time: 9 hrs 41 mins
 
-Python       3 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   28.94 %
-Markdown     2 hrs 59 mins   ███████░░░░░░░░░░░░░░░░░░   28.01 %
-C++          1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-INI          36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-YAML         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-JSON         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Markdown     3 hrs 19 mins   ███████▒░░░░░░░░░░░░░░░░░   29.39 %
+Python       3 hrs 18 mins   ███████▒░░░░░░░░░░░░░░░░░   29.24 %
+C++          1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+INI          36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+YAML         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+JSON         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
 ```
 
 <!--END_SECTION:waka-->

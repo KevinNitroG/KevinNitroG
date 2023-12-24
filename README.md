@@ -211,20 +211,20 @@ JavaScript   51 mins         █░░░░░░░░░░░░░░░░
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dheereshagrwal/colored-icons](https://github.com/dheereshagrwal/colored-icons)<br>
-2. ⭐ Starred [marwin1991/profile-technology-icons](https://github.com/marwin1991/profile-technology-icons)<br>
-3. ⭐ Starred [irfaan008/simple-skill-icons](https://github.com/irfaan008/simple-skill-icons)<br>
-4. ⭐ Starred [daboynb/PlayIntegrityNEXT](https://github.com/daboynb/PlayIntegrityNEXT)<br>
+1. ⭐ Starred [emedvedev/attention-ocr](https://github.com/emedvedev/attention-ocr)<br>
+2. ⭐ Starred [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)<br>
+3. ⭐ Starred [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)<br>
+4. ⭐ Starred [faridrashidi/kaggle-solutions](https://github.com/faridrashidi/kaggle-solutions)<br>
 5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/GDI-Auto-Update](https://github.com/KevinNitroG/GDI-Auto-Update)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/GDI-Auto-Update](https://github.com/KevinNitroG/GDI-Auto-Update)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/GDI-Auto-Update](https://github.com/KevinNitroG/GDI-Auto-Update)<br>
-8. 📔 Created new repository [KevinNitroG/GDI-Auto-Update](https://github.com/KevinNitroG/GDI-Auto-Update)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/GDI-Auto-Update](https://github.com/KevinNitroG/GDI-Auto-Update)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/GDI-Auto-Update](https://github.com/KevinNitroG/GDI-Auto-Update)<br>
+6. ⬆️ Pushed 2 commit(s) to [KevinNitroG/GDI-Auto-Update](https://github.com/KevinNitroG/GDI-Auto-Update)<br>
+7. ⬆️ Pushed 2 commit(s) to [KevinNitroG/GDI-Auto-Update](https://github.com/KevinNitroG/GDI-Auto-Update)<br>
+8. 🎉 Merged PR [#1](https://github.com/KevinNitroG/GDI-Auto-Update/pull/1) in [KevinNitroG/GDI-Auto-Update](https://github.com/KevinNitroG/GDI-Auto-Update)<br>
+9. ⬆️ Pushed 2 commit(s) to [KevinNitroG/GDI-Auto-Update](https://github.com/KevinNitroG/GDI-Auto-Update)<br>
+10. 🎉 Merged PR [#2](https://github.com/KevinNitroG/GDI-Auto-Update/pull/2) in [KevinNitroG/GDI-Auto-Update](https://github.com/KevinNitroG/GDI-Auto-Update)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-**Last Updated:** 3:12 AM on Sunday, 24/12/2023 _(Vietnam)_
+**Last Updated:** 3:12 PM on Sunday, 24/12/2023 _(Vietnam)_
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>

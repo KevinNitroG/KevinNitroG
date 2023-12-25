@@ -211,20 +211,20 @@ JavaScript   58 mins         █░░░░░░░░░░░░░░░░
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [leminlimez/Helium](https://github.com/leminlimez/Helium)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-3. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)<br>
-4. ⭐ Starred [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom)<br>
-5. ⭐ Starred [warpdotdev/Warp](https://github.com/warpdotdev/Warp)<br>
-6. ⭐ Starred [Cat7373/remove-web-limits](https://github.com/Cat7373/remove-web-limits)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+1. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/Utilities](https://github.com/NMLT-NTTMK-K18/Utilities)<br>
+2. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/Utilities](https://github.com/NMLT-NTTMK-K18/Utilities)<br>
+3. 💬 Commented on [#2](https://github.com/NMLT-NTTMK-K18/2-167-func-B-K/issues/2#issuecomment-1869080906) in [NMLT-NTTMK-K18/2-167-func-B-K](https://github.com/NMLT-NTTMK-K18/2-167-func-B-K)<br>
+4. ⭐ Starred [KpwnZ/Def1nit3lyN0tAJa1lbr3akTool](https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+6. ⭐ Starred [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)<br>
+7. ⭐ Starred [leminlimez/Helium](https://github.com/leminlimez/Helium)<br>
 8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-9. ⭐ Starred [lem6ns/firerip](https://github.com/lem6ns/firerip)<br>
-10. ⭐ Starred [HoangTran0410/useful-user-scripts](https://github.com/HoangTran0410/useful-user-scripts)<br>
+9. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)<br>
+10. ⭐ Starred [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-**Last Updated:** 3:12 PM on Monday, 25/12/2023 _(Vietnam)_
+**Last Updated:** 3:12 AM on Tuesday, 26/12/2023 _(Vietnam)_
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>

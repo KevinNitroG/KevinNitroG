@@ -211,20 +211,20 @@ JavaScript   58 mins         █░░░░░░░░░░░░░░░░
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom)<br>
-2. ⭐ Starred [warpdotdev/Warp](https://github.com/warpdotdev/Warp)<br>
-3. ⭐ Starred [Cat7373/remove-web-limits](https://github.com/Cat7373/remove-web-limits)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-6. ⭐ Starred [lem6ns/firerip](https://github.com/lem6ns/firerip)<br>
-7. ⭐ Starred [HoangTran0410/useful-user-scripts](https://github.com/HoangTran0410/useful-user-scripts)<br>
-8. ⭐ Starred [FlandreDaisuki/My-Browser-Extensions](https://github.com/FlandreDaisuki/My-Browser-Extensions)<br>
-9. ⭐ Starred [dividedby/General-URL-Cleaner-Revived](https://github.com/dividedby/General-URL-Cleaner-Revived)<br>
-10. ⭐ Starred [FirefoxUniverse/FirefoxTweaksVN](https://github.com/FirefoxUniverse/FirefoxTweaksVN)<br>
+1. ⭐ Starred [leminlimez/Helium](https://github.com/leminlimez/Helium)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+3. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)<br>
+4. ⭐ Starred [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom)<br>
+5. ⭐ Starred [warpdotdev/Warp](https://github.com/warpdotdev/Warp)<br>
+6. ⭐ Starred [Cat7373/remove-web-limits](https://github.com/Cat7373/remove-web-limits)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+9. ⭐ Starred [lem6ns/firerip](https://github.com/lem6ns/firerip)<br>
+10. ⭐ Starred [HoangTran0410/useful-user-scripts](https://github.com/HoangTran0410/useful-user-scripts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-**Last Updated:** 3:12 AM on Monday, 25/12/2023 _(Vietnam)_
+**Last Updated:** 3:12 PM on Monday, 25/12/2023 _(Vietnam)_
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>

@@ -211,20 +211,20 @@ PowerShell   1 hr 2 mins     █░░░░░░░░░░░░░░░░
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/Utilities](https://github.com/NMLT-NTTMK-K18/Utilities)<br>
-2. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/Utilities](https://github.com/NMLT-NTTMK-K18/Utilities)<br>
-3. 💬 Commented on [#2](https://github.com/NMLT-NTTMK-K18/2-167-func-B-K/issues/2#issuecomment-1869080906) in [NMLT-NTTMK-K18/2-167-func-B-K](https://github.com/NMLT-NTTMK-K18/2-167-func-B-K)<br>
-4. ⭐ Starred [KpwnZ/Def1nit3lyN0tAJa1lbr3akTool](https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-6. ⭐ Starred [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)<br>
-7. ⭐ Starred [leminlimez/Helium](https://github.com/leminlimez/Helium)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-9. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)<br>
-10. ⭐ Starred [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom)<br>
+1. ⭐ Starred [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)<br>
+2. ⭐ Starred [Kudostoy0u/pwsh10k](https://github.com/Kudostoy0u/pwsh10k)<br>
+3. ⭐ Starred [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)<br>
+4. 💪 Opened PR [#266](https://github.com/cfw-guide/ios.cfw.guide/pull/266) in [cfw-guide/ios.cfw.guide](https://github.com/cfw-guide/ios.cfw.guide)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/ios.cfw.guide](https://github.com/KevinNitroG/ios.cfw.guide)<br>
+6. 🔱 Forked [KevinNitroG/ios.cfw.guide](https://github.com/KevinNitroG/ios.cfw.guide) from [cfw-guide/ios.cfw.guide](https://github.com/cfw-guide/ios.cfw.guide)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+8. ⭐ Starred [CharlieS1103/spicetify-extensions](https://github.com/CharlieS1103/spicetify-extensions)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-**Last Updated:** 3:12 AM on Tuesday, 26/12/2023 _(Vietnam)_
+**Last Updated:** 3:12 PM on Tuesday, 26/12/2023 _(Vietnam)_
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>

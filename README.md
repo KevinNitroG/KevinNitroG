@@ -211,6 +211,7 @@ PowerShell   1 hr 2 mins     █░░░░░░░░░░░░░░░░
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⭐ Starred [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)<br>
 2. ⭐ Starred [Kudostoy0u/pwsh10k](https://github.com/Kudostoy0u/pwsh10k)<br>
 3. ⭐ Starred [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)<br>
@@ -224,7 +225,9 @@ PowerShell   1 hr 2 mins     █░░░░░░░░░░░░░░░░
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 **Last Updated:** 3:12 PM on Tuesday, 26/12/2023 _(Vietnam)_
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>
@@ -278,15 +281,15 @@ PowerShell   1 hr 2 mins     █░░░░░░░░░░░░░░░░
     			<td>Airpods Pro <em>(Gen 2)</em></td>
     		</tr>
             <tr>
-    			<td align="center" rowspan="2"><strong>DRIVE</strong></td>
+    			<td align="center" rowspan="1"><strong>DRIVE</strong></td>
     			<td>
     				<a href="https://www.hdsentinel.com/storageinfo_details.php?lang=en&model=HITACHI%20HTS541075A9E680">HITACHI HTS541075A9E680</a> <em>(750GB HDD)</em> <em>(Anhdv Boot & Data)</em>
 				</td>
-			</tr>
+			<!-- </tr>
 				<td>
 					<a href="https://www.amazon.com/Hagibis-Enclosure-Aluminum-External-Solid-State/dp/B0CLTN8PLM">Hagibis 2230 M.2 NVMe SSD</a> <em>(2TB SSD)</em> <em>(Linux + Data)</em>
     			</td>
-    		</tr>
+    		</tr> -->
     	</tbody>
     </table>
 </center>

@@ -182,16 +182,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 October 2023 - To: 25 December 2023
+From: 17 October 2023 - To: 27 December 2023
 
-Total Time: 22 hrs 57 mins
+Total Time: 25 hrs 44 mins
 
-Python       5 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.01 %
-Markdown     4 hrs 46 mins   █████░░░░░░░░░░░░░░░░░░░░   19.37 %
-YAML         4 hrs 1 min     ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
-Bash         2 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-C++          1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-PowerShell   1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Markdown     5 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   19.77 %
+Python       5 hrs 25 mins   █████░░░░░░░░░░░░░░░░░░░░   19.62 %
+YAML         4 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
+Bash         3 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+C++          1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+PowerShell   1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
 ```
 
 <!--END_SECTION:waka-->
@@ -212,21 +212,21 @@ PowerShell   1 hr 2 mins     █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)<br>
-2. ⭐ Starred [Kudostoy0u/pwsh10k](https://github.com/Kudostoy0u/pwsh10k)<br>
-3. ⭐ Starred [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)<br>
-4. 💪 Opened PR [#266](https://github.com/cfw-guide/ios.cfw.guide/pull/266) in [cfw-guide/ios.cfw.guide](https://github.com/cfw-guide/ios.cfw.guide)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/ios.cfw.guide](https://github.com/KevinNitroG/ios.cfw.guide)<br>
-6. 🔱 Forked [KevinNitroG/ios.cfw.guide](https://github.com/KevinNitroG/ios.cfw.guide) from [cfw-guide/ios.cfw.guide](https://github.com/cfw-guide/ios.cfw.guide)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-8. ⭐ Starred [CharlieS1103/spicetify-extensions](https://github.com/CharlieS1103/spicetify-extensions)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+2. ⭐ Starred [merrycodes/Office-E5](https://github.com/merrycodes/Office-E5)<br>
+3. ⬆️ Pushed 0 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
+4. ⭐ Starred [luoye663/e5](https://github.com/luoye663/e5)<br>
+5. ⭐ Starred [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
+7. ⭐ Starred [AndroPlus-org/magisk-module-wifi7](https://github.com/AndroPlus-org/magisk-module-wifi7)<br>
+8. ⭐ Starred [dayanch96/InfusePlus](https://github.com/dayanch96/InfusePlus)<br>
+9. ⭐ Starred [vinhnv01/Google-Account.gitHub.io](https://github.com/vinhnv01/Google-Account.gitHub.io)<br>
+10. ⭐ Starred [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
 
-**Last Updated:** 3:12 PM on Tuesday, 26/12/2023 _(Vietnam)_
+**Last Updated:** 3:12 PM on Thursday, 28/12/2023 _(Vietnam)_
 
 <!--RECENT_ACTIVITY:last_update_end-->
 

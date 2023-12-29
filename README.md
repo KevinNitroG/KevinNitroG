@@ -211,20 +211,20 @@ PowerShell   1 hr 13 mins    █░░░░░░░░░░░░░░░░
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-2. ⬆️ Pushed 2 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+1. ⭐ Starred [Lakr233/BBackupp](https://github.com/Lakr233/BBackupp)<br>
+2. ❗️ Opened issue [#45](https://github.com/loia5tqd001/Dang-Ky-Hoc-Phan-UIT/issues/45) in [loia5tqd001/Dang-Ky-Hoc-Phan-UIT](https://github.com/loia5tqd001/Dang-Ky-Hoc-Phan-UIT)<br>
+3. ⭐ Starred [apptesters-org/Repo](https://github.com/apptesters-org/Repo)<br>
 4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-5. ⭐ Starred [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)<br>
-6. ⭐ Starred [hoalongnatsu/Dockerfile](https://github.com/hoalongnatsu/Dockerfile)<br>
+5. ⬆️ Pushed 2 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
 7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-8. ⭐ Starred [merrycodes/Office-E5](https://github.com/merrycodes/Office-E5)<br>
-9. ⬆️ Pushed 0 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
-10. ⭐ Starred [luoye663/e5](https://github.com/luoye663/e5)<br>
+8. ⭐ Starred [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)<br>
+9. ⭐ Starred [hoalongnatsu/Dockerfile](https://github.com/hoalongnatsu/Dockerfile)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-**Last Updated:** 3:12 AM on Friday, 29/12/2023 _(Vietnam)_
+**Last Updated:** 3:12 PM on Friday, 29/12/2023 _(Vietnam)_
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>

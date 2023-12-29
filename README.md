@@ -157,8 +157,14 @@
 	<!-- WakaTime: https://github.com/anuraghazra/github-readme-stats -->
 	<!-- <a href="https://github-readme-stats.vercel.app/api/wakatime?username=KevinNitro&theme=tokyonight&layout=compact"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=KevinNitro&theme=tokyonight&card_width=570&layout=compact" alt="KevinNitroG's WakaTime in last year" width="570px"></a> -->
 	<!-- <br> -->
+	<!-- Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph -->
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinNitroG&theme=tokyo-night&radius=12&hide_border=false&area=true" alt="KevinNitroG's Activity Graph" width="570px">
+	<br>
 	<!-- Github Trophies: https://github.com/ryo-ma/github-profile-trophy -->
 	<img src="https://github-profile-trophy.vercel.app/?username=KevinNitroG&column=5&theme=tokyonight&no-bg=false" alt="KevinNitro's Trophies" width="570px">
+	<!-- <br> -->
+	<!-- Spotify Recently Played: https://github.com/JeffreyCA/spotify-recently-played-readme -->
+	<!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ms2mpwauroluxnjudw7a6u336e&count=5&width=570" alt="Spotify Recently Played" width="570px"> -->
 </div>
 
 <hr>
@@ -211,6 +217,7 @@ PowerShell   1 hr 13 mins    █░░░░░░░░░░░░░░░░
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⭐ Starred [Lakr233/BBackupp](https://github.com/Lakr233/BBackupp)<br>
 2. ❗️ Opened issue [#45](https://github.com/loia5tqd001/Dang-Ky-Hoc-Phan-UIT/issues/45) in [loia5tqd001/Dang-Ky-Hoc-Phan-UIT](https://github.com/loia5tqd001/Dang-Ky-Hoc-Phan-UIT)<br>
 3. ⭐ Starred [apptesters-org/Repo](https://github.com/apptesters-org/Repo)<br>
@@ -224,7 +231,9 @@ PowerShell   1 hr 13 mins    █░░░░░░░░░░░░░░░░
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 **Last Updated:** 3:12 PM on Friday, 29/12/2023 _(Vietnam)_
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>

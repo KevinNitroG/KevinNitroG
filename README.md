@@ -217,20 +217,20 @@ PowerShell   1 hr 13 mins    █░░░░░░░░░░░░░░░░
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lowlighter/metrics](https://github.com/lowlighter/metrics)<br>
-2. ⭐ Starred [AlphaNecron/AlphaNecron](https://github.com/AlphaNecron/AlphaNecron)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
-6. ⭐ Starred [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme)<br>
-7. ⭐ Starred [tqdm/tqdm](https://github.com/tqdm/tqdm)<br>
-8. ⭐ Starred [Lakr233/BBackupp](https://github.com/Lakr233/BBackupp)<br>
-9. ❗️ Opened issue [#45](https://github.com/loia5tqd001/Dang-Ky-Hoc-Phan-UIT/issues/45) in [loia5tqd001/Dang-Ky-Hoc-Phan-UIT](https://github.com/loia5tqd001/Dang-Ky-Hoc-Phan-UIT)<br>
-10. ⭐ Starred [apptesters-org/Repo](https://github.com/apptesters-org/Repo)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/onedrive-cf-index-ng](https://github.com/KevinNitroG/onedrive-cf-index-ng)<br>
+2. 🔱 Forked [KevinNitroG/onedrive-cf-index-ng](https://github.com/KevinNitroG/onedrive-cf-index-ng) from [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng)<br>
+3. 🔱 Forked [KevinNitroG/onedrive-cf-index-ng](https://github.com/KevinNitroG/onedrive-cf-index-ng) from [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng)<br>
+4. ⭐ Starred [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng)<br>
+5. ⭐ Starred [lowlighter/metrics](https://github.com/lowlighter/metrics)<br>
+6. ⭐ Starred [AlphaNecron/AlphaNecron](https://github.com/AlphaNecron/AlphaNecron)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
+10. ⭐ Starred [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-**Last Updated:** 3:12 PM on Saturday, 30/12/2023 _(Vietnam)_
+**Last Updated:** 3:12 AM on Sunday, 31/12/2023 _(Vietnam)_
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>

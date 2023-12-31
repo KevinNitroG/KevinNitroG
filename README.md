@@ -217,20 +217,20 @@ PowerShell   1 hr 13 mins    █░░░░░░░░░░░░░░░░
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/onedrive-cf-index-ng](https://github.com/KevinNitroG/onedrive-cf-index-ng)<br>
-2. 🔱 Forked [KevinNitroG/onedrive-cf-index-ng](https://github.com/KevinNitroG/onedrive-cf-index-ng) from [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng)<br>
-3. 🔱 Forked [KevinNitroG/onedrive-cf-index-ng](https://github.com/KevinNitroG/onedrive-cf-index-ng) from [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng)<br>
-4. ⭐ Starred [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng)<br>
-5. ⭐ Starred [lowlighter/metrics](https://github.com/lowlighter/metrics)<br>
-6. ⭐ Starred [AlphaNecron/AlphaNecron](https://github.com/AlphaNecron/AlphaNecron)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
-10. ⭐ Starred [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme)<br>
+1. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io](https://github.com/NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io)<br>
+2. ⬆️ Pushed 2 commit(s) to [NMLT-NTTMK-K18/.github](https://github.com/NMLT-NTTMK-K18/.github)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Codes](https://github.com/KevinNitroG/KevinNitro-Codes)<br>
+4. 📔 Created new repository [KevinNitroG/KevinNitro-Codes](https://github.com/KevinNitroG/KevinNitro-Codes)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/onedrive-cf-index-ng](https://github.com/KevinNitroG/onedrive-cf-index-ng)<br>
+6. 🔱 Forked [KevinNitroG/onedrive-cf-index-ng](https://github.com/KevinNitroG/onedrive-cf-index-ng) from [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng)<br>
+7. 🔱 Forked [KevinNitroG/onedrive-cf-index-ng](https://github.com/KevinNitroG/onedrive-cf-index-ng) from [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng)<br>
+8. ⭐ Starred [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng)<br>
+9. ⭐ Starred [lowlighter/metrics](https://github.com/lowlighter/metrics)<br>
+10. ⭐ Starred [AlphaNecron/AlphaNecron](https://github.com/AlphaNecron/AlphaNecron)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-**Last Updated:** 3:12 AM on Sunday, 31/12/2023 _(Vietnam)_
+**Last Updated:** 3:12 PM on Sunday, 31/12/2023 _(Vietnam)_
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>

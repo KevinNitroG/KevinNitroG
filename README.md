@@ -217,20 +217,20 @@ PowerShell   1 hr 13 mins    █░░░░░░░░░░░░░░░░
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [G33kzD3n/Catalogue](https://github.com/G33kzD3n/Catalogue)<br>
-2. ✌️ Released [IT Books](https://github.com/KevinNitroG/Public-Archive-Files/releases/tag/IT_Books) in [KevinNitroG/Public-Archive-Files](https://github.com/KevinNitroG/Public-Archive-Files)<br>
-3. ⭐ Starred [Avinash987/Coding](https://github.com/Avinash987/Coding)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Entertainment](https://github.com/KevinNitroG/Entertainment)<br>
-5. ⭐ Starred [eromatiya/A-Personal-Arch-Installation-Guide](https://github.com/eromatiya/A-Personal-Arch-Installation-Guide)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-8. ⭐ Starred [xGastly/resume-builder](https://github.com/xGastly/resume-builder)<br>
-9. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io](https://github.com/NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io)<br>
-10. ⬆️ Pushed 2 commit(s) to [NMLT-NTTMK-K18/.github](https://github.com/NMLT-NTTMK-K18/.github)<br>
+1. ⭐ Starred [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)<br>
+2. ⭐ Starred [AKhilRaghav0/portfolio](https://github.com/AKhilRaghav0/portfolio)<br>
+3. ⭐ Starred [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d)<br>
+4. ⭐ Starred [PureKFD/PureKFD](https://github.com/PureKFD/PureKFD)<br>
+5. ⭐ Starred [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI)<br>
+6. ⭐ Starred [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel)<br>
+7. ⭐ Starred [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)<br>
+8. ⭐ Starred [ndbiaw/Bypass-Vietnam-Censorship](https://github.com/ndbiaw/Bypass-Vietnam-Censorship)<br>
+9. ⭐ Starred [G33kzD3n/Catalogue](https://github.com/G33kzD3n/Catalogue)<br>
+10. ✌️ Released [IT Books](https://github.com/KevinNitroG/Public-Archive-Files/releases/tag/IT_Books) in [KevinNitroG/Public-Archive-Files](https://github.com/KevinNitroG/Public-Archive-Files)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-**Last Updated:** 3:01 PM on Monday, 1/1/2024 _(Vietnam)_
+**Last Updated:** 3:01 AM on Tuesday, 2/1/2024 _(Vietnam)_
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>

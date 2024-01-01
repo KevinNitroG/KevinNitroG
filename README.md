@@ -217,20 +217,20 @@ PowerShell   1 hr 13 mins    █░░░░░░░░░░░░░░░░
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [eromatiya/A-Personal-Arch-Installation-Guide](https://github.com/eromatiya/A-Personal-Arch-Installation-Guide)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-4. ⭐ Starred [xGastly/resume-builder](https://github.com/xGastly/resume-builder)<br>
-5. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io](https://github.com/NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io)<br>
-6. ⬆️ Pushed 2 commit(s) to [NMLT-NTTMK-K18/.github](https://github.com/NMLT-NTTMK-K18/.github)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Codes](https://github.com/KevinNitroG/KevinNitro-Codes)<br>
-8. 📔 Created new repository [KevinNitroG/KevinNitro-Codes](https://github.com/KevinNitroG/KevinNitro-Codes)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/onedrive-cf-index-ng](https://github.com/KevinNitroG/onedrive-cf-index-ng)<br>
-10. 🔱 Forked [KevinNitroG/onedrive-cf-index-ng](https://github.com/KevinNitroG/onedrive-cf-index-ng) from [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng)<br>
+1. ⭐ Starred [G33kzD3n/Catalogue](https://github.com/G33kzD3n/Catalogue)<br>
+2. ✌️ Released [IT Books](https://github.com/KevinNitroG/Public-Archive-Files/releases/tag/IT_Books) in [KevinNitroG/Public-Archive-Files](https://github.com/KevinNitroG/Public-Archive-Files)<br>
+3. ⭐ Starred [Avinash987/Coding](https://github.com/Avinash987/Coding)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Entertainment](https://github.com/KevinNitroG/Entertainment)<br>
+5. ⭐ Starred [eromatiya/A-Personal-Arch-Installation-Guide](https://github.com/eromatiya/A-Personal-Arch-Installation-Guide)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+8. ⭐ Starred [xGastly/resume-builder](https://github.com/xGastly/resume-builder)<br>
+9. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io](https://github.com/NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io)<br>
+10. ⬆️ Pushed 2 commit(s) to [NMLT-NTTMK-K18/.github](https://github.com/NMLT-NTTMK-K18/.github)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-**Last Updated:** 3:01 AM on Monday, 1/1/2024 _(Vietnam)_
+**Last Updated:** 3:01 PM on Monday, 1/1/2024 _(Vietnam)_
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>

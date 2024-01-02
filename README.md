@@ -217,20 +217,20 @@ sh           1 hr 24 mins    █░░░░░░░░░░░░░░░░
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)<br>
-2. ⭐ Starred [AKhilRaghav0/portfolio](https://github.com/AKhilRaghav0/portfolio)<br>
-3. ⭐ Starred [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d)<br>
-4. ⭐ Starred [PureKFD/PureKFD](https://github.com/PureKFD/PureKFD)<br>
-5. ⭐ Starred [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI)<br>
-6. ⭐ Starred [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel)<br>
-7. ⭐ Starred [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)<br>
-8. ⭐ Starred [ndbiaw/Bypass-Vietnam-Censorship](https://github.com/ndbiaw/Bypass-Vietnam-Censorship)<br>
-9. ⭐ Starred [G33kzD3n/Catalogue](https://github.com/G33kzD3n/Catalogue)<br>
-10. ✌️ Released [IT Books](https://github.com/KevinNitroG/Public-Archive-Files/releases/tag/IT_Books) in [KevinNitroG/Public-Archive-Files](https://github.com/KevinNitroG/Public-Archive-Files)<br>
+1. 🎉 Merged PR [#2](https://github.com/KevinNitroG/KevinNitro-Scripts/pull/2) in [KevinNitroG/KevinNitro-Scripts](https://github.com/KevinNitroG/KevinNitro-Scripts)<br>
+2. ⬆️ Pushed 2 commit(s) to [KevinNitroG/KevinNitro-Scripts](https://github.com/KevinNitroG/KevinNitro-Scripts)<br>
+3. ⬆️ Pushed 2 commit(s) to [KevinNitroG/KevinNitro-Scripts](https://github.com/KevinNitroG/KevinNitro-Scripts)<br>
+4. 🎉 Merged PR [#1](https://github.com/KevinNitroG/KevinNitro-Scripts/pull/1) in [KevinNitroG/KevinNitro-Scripts](https://github.com/KevinNitroG/KevinNitro-Scripts)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Scripts](https://github.com/KevinNitroG/KevinNitro-Scripts)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Scripts](https://github.com/KevinNitroG/KevinNitro-Scripts)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Scripts](https://github.com/KevinNitroG/KevinNitro-Scripts)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Scripts](https://github.com/KevinNitroG/KevinNitro-Scripts)<br>
+9. 📔 Created new repository [KevinNitroG/KevinNitro-Scripts](https://github.com/KevinNitroG/KevinNitro-Scripts)<br>
+10. ⭐ Starred [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-**Last Updated:** 3:01 AM on Tuesday, 2/1/2024 _(Vietnam)_
+**Last Updated:** 3:01 PM on Tuesday, 2/1/2024 _(Vietnam)_
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>

@@ -155,8 +155,8 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinNitroG&langs_count=10&theme=tokyonight&card_width=570&layout=compact" alt="KevinNitroG's Top Langs">
 	<br>
 	<!-- WakaTime: https://github.com/anuraghazra/github-readme-stats -->
-	<!-- <a href="https://github-readme-stats.vercel.app/api/wakatime?username=KevinNitro&theme=tokyonight&layout=compact"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=KevinNitro&theme=tokyonight&card_width=570&layout=compact" alt="KevinNitroG's WakaTime in last year" width="570px"></a> -->
-	<!-- <br> -->
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=KevinNitro&theme=tokyonight&card_width=570&layout=compact&langs_count=10&custom_title=KevinNitroG%27s%20WakaTime%20in%20last%20year" alt="KevinNitroG's WakaTime in last year" width="570px">
+	<br>
 	<!-- Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinNitroG&theme=tokyo-night&radius=12&hide_border=false&area=true" alt="KevinNitroG's Activity Graph" width="570px">
 	<br>
@@ -217,6 +217,7 @@ JavaScript   1 hr 47 mins    █▒░░░░░░░░░░░░░░░
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⭐ Starred [QuangDuong2903/SE104-final-project-backend](https://github.com/QuangDuong2903/SE104-final-project-backend)<br>
 2. ⭐ Starred [QuangDuong2903/SE114-final-project-backend](https://github.com/QuangDuong2903/SE114-final-project-backend)<br>
 3. ⭐ Starred [mlabonne/llm-course](https://github.com/mlabonne/llm-course)<br>
@@ -230,7 +231,9 @@ JavaScript   1 hr 47 mins    █▒░░░░░░░░░░░░░░░
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 **Last Updated:** 3:01 AM on Wednesday, 3/1/2024 _(Vietnam)_
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>

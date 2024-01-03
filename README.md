@@ -217,20 +217,20 @@ JavaScript   1 hr 47 mins    █▒░░░░░░░░░░░░░░░
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
-2. ⭐ Starred [EtchDroid/EtchDroid](https://github.com/EtchDroid/EtchDroid)<br>
-3. ⭐ Starred [git-tips/tips](https://github.com/git-tips/tips)<br>
-4. ⭐ Starred [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git)<br>
-5. ⬆️ Pushed 2 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
-6. ⬆️ Pushed 2 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
-7. 🎉 Merged PR [#2](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey/pull/2) in [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
-8. ⬆️ Pushed 2 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
-9. 🎉 Merged PR [#1](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey/pull/1) in [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
-10. 📔 Created new repository [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+1. ⭐ Starred [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)<br>
+2. ⭐ Starred [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)<br>
+3. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io](https://github.com/NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/.github](https://github.com/NMLT-NTTMK-K18/.github)<br>
+5. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io](https://github.com/NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io)<br>
+6. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/.github](https://github.com/NMLT-NTTMK-K18/.github)<br>
+7. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io](https://github.com/NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io)<br>
+8. ⬆️ Pushed 2 commit(s) to [NMLT-NTTMK-K18/.github](https://github.com/NMLT-NTTMK-K18/.github)<br>
+9. 🎉 Merged PR [#3](https://github.com/NMLT-NTTMK-K18/.github/pull/3) in [NMLT-NTTMK-K18/.github](https://github.com/NMLT-NTTMK-K18/.github)<br>
+10. ⬆️ Pushed 2 commit(s) to [NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io](https://github.com/NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-**Last Updated:** 3:01 PM on Wednesday, 3/1/2024 _(Vietnam)_
+**Last Updated:** 3:01 AM on Thursday, 4/1/2024 _(Vietnam)_
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>

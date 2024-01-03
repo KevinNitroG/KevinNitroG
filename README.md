@@ -217,23 +217,20 @@ JavaScript   1 hr 47 mins    █▒░░░░░░░░░░░░░░░
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-
-1. ⭐ Starred [QuangDuong2903/SE104-final-project-backend](https://github.com/QuangDuong2903/SE104-final-project-backend)<br>
-2. ⭐ Starred [QuangDuong2903/SE114-final-project-backend](https://github.com/QuangDuong2903/SE114-final-project-backend)<br>
-3. ⭐ Starred [mlabonne/llm-course](https://github.com/mlabonne/llm-course)<br>
-4. 🎉 Merged PR [#2](https://github.com/KevinNitroG/KevinNitro-Scripts/pull/2) in [KevinNitroG/KevinNitro-Scripts](https://github.com/KevinNitroG/KevinNitro-Scripts)<br>
-5. ⬆️ Pushed 2 commit(s) to [KevinNitroG/KevinNitro-Scripts](https://github.com/KevinNitroG/KevinNitro-Scripts)<br>
-6. ⬆️ Pushed 2 commit(s) to [KevinNitroG/KevinNitro-Scripts](https://github.com/KevinNitroG/KevinNitro-Scripts)<br>
-7. 🎉 Merged PR [#1](https://github.com/KevinNitroG/KevinNitro-Scripts/pull/1) in [KevinNitroG/KevinNitro-Scripts](https://github.com/KevinNitroG/KevinNitro-Scripts)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Scripts](https://github.com/KevinNitroG/KevinNitro-Scripts)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Scripts](https://github.com/KevinNitroG/KevinNitro-Scripts)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Scripts](https://github.com/KevinNitroG/KevinNitro-Scripts)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
+2. ⭐ Starred [EtchDroid/EtchDroid](https://github.com/EtchDroid/EtchDroid)<br>
+3. ⭐ Starred [git-tips/tips](https://github.com/git-tips/tips)<br>
+4. ⭐ Starred [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git)<br>
+5. ⬆️ Pushed 2 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+6. ⬆️ Pushed 2 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+7. 🎉 Merged PR [#2](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey/pull/2) in [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+8. ⬆️ Pushed 2 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+9. 🎉 Merged PR [#1](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey/pull/1) in [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+10. 📔 Created new repository [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-
-**Last Updated:** 3:01 AM on Wednesday, 3/1/2024 _(Vietnam)_
-
+**Last Updated:** 3:01 PM on Wednesday, 3/1/2024 _(Vietnam)_
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>

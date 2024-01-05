@@ -217,20 +217,20 @@ JavaScript   2 hrs 36 mins   █▓░░░░░░░░░░░░░░░
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages)<br>
-2. ⭐ Starred [VinAIResearch/PhoBERT](https://github.com/VinAIResearch/PhoBERT)<br>
-3. ⭐ Starred [suicao/PhoBert-Sentiment-Classification](https://github.com/suicao/PhoBert-Sentiment-Classification)<br>
-4. ⭐ Starred [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)<br>
-5. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io](https://github.com/NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io)<br>
-6. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/5-258-struct](https://github.com/NMLT-NTTMK-K18/5-258-struct)<br>
-7. ⬆️ Pushed 2 commit(s) to [NMLT-NTTMK-K18/7-61-wecode](https://github.com/NMLT-NTTMK-K18/7-61-wecode)<br>
-8. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io](https://github.com/NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io)<br>
-9. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io](https://github.com/NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io)<br>
-10. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/.github](https://github.com/NMLT-NTTMK-K18/.github)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+8. ⭐ Starred [LagradOst/QuickNovel](https://github.com/LagradOst/QuickNovel)<br>
+9. ⭐ Starred [AugmentedWeb/UserGUI](https://github.com/AugmentedWeb/UserGUI)<br>
+10. ⭐ Starred [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-**Last Updated:** 3:01 AM on Friday, 5/1/2024 _(Vietnam)_
+**Last Updated:** 3:01 PM on Friday, 5/1/2024 _(Vietnam)_
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>

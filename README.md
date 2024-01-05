@@ -217,20 +217,20 @@ JavaScript   2 hrs 36 mins   █▓░░░░░░░░░░░░░░░
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+1. ❌ Closed PR [#9](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey/pull/9) in [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
 2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
 3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+4. ⬆️ Pushed 2 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+5. 🎉 Merged PR [#8](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey/pull/8) in [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
 6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
-8. ⭐ Starred [LagradOst/QuickNovel](https://github.com/LagradOst/QuickNovel)<br>
-9. ⭐ Starred [AugmentedWeb/UserGUI](https://github.com/AugmentedWeb/UserGUI)<br>
-10. ⭐ Starred [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages)<br>
+7. ❌ Closed PR [#4](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey/pull/4) in [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+8. ❌ Closed PR [#5](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey/pull/5) in [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+9. ⬆️ Pushed 2 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+10. 🎉 Merged PR [#7](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey/pull/7) in [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-**Last Updated:** 3:01 PM on Friday, 5/1/2024 _(Vietnam)_
+**Last Updated:** 3:01 AM on Saturday, 6/1/2024 _(Vietnam)_
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>

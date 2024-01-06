@@ -140,6 +140,104 @@
 
 <hr>
 
+<!-- WAKATIME SECTION -->
+
+<h2 align="center">⏲️ WAKATIME 🧑‍💻</h2>
+
+<!-- WakaTime SVG: https://github.com/avinal/Profile-Readme-WakaTime -->
+
+<!--
+<div width="80%" align="center">
+	<img src="https://github.com/KevinNitroG/KevinNitroG/blob/wakatime/images/stat.svg"
+		alt="KevinNitroG WakaTime Activity"
+	/>
+</div>
+-->
+
+<!-- WakaTime Code: https://github.com/athul/waka-readme -->
+<!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
+
+<!--START_SECTION:waka-->
+
+📊 **This Week I Spent My Time On**
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages:
+C++                      4 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   37.29 %
+JavaScript               2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   23.70 %
+Markdown                 2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.06 %
+Other                    1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 %
+sh                       28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+
+🔥 Editors:
+VS Code                  10 hrs 25 mins      ███████████████████████░░   93.09 %
+Zsh                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Sublime Text             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+
+🐱‍💻 Projects:
+KevinNitroG/KevinNitro-Co4 hrs 57 mins       ███████████░░░░░░░░░░░░░░   44.28 %
+KevinNitroG/UIT-Auto-Lect1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.51 %
+UIT-Auto-Lecturer-Survey 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+Unknown Project          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+KevinNitroG/KevinNitroG  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+
+💻 Operating System:
+Windows                  10 hrs 44 mins      ████████████████████████░   95.82 %
+WSL                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+```
+
+**I Mostly Code in Python**
+
+```text
+Python                   16 repos            ███████░░░░░░░░░░░░░░░░░░   28.07 %
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+```
+
+Last Updated on 06:50 PM on Saturday, 06/01/24 UTC
+
+<!--END_SECTION:waka-->
+
+<hr>
+
+<!-- RECENT ACTIVITIES SECTION -->
+
+<h2 align="center">⌛ RECENT ACTIVITIES ⌚</h2>
+
+<!-- Recent activities (jamesgeorge007): https://github.com/jamesgeorge007/github-activity-readme -->
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
+
+<!--RECENT_ACTIVITY:start-->
+
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
+2. ⬆️ Pushed 2 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
+3. ⭐ Starred [joshmedeski/dotfiles](https://github.com/joshmedeski/dotfiles)<br>
+4. ⬆️ Pushed 2 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
+5. ⭐ Starred [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)<br>
+6. ⭐ Starred [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
+8. ⭐ Starred [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)<br>
+9. ⭐ Starred [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev)<br>
+10. ⭐ Starred [remotion-dev/template-next-app-dir](https://github.com/remotion-dev/template-next-app-dir)<br>
+<!--RECENT_ACTIVITY:end-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
+**Last Updated:** 1:01 AM on Sunday, 7/1/24
+
+<!--RECENT_ACTIVITY:last_update_end-->
+
+<hr>
+
 <!-- MY STATS SECTION -->
 
 <h2 align="center">📈 MY STATS 🙄</h2>
@@ -166,102 +264,6 @@
 	<!-- Spotify Recently Played: https://github.com/JeffreyCA/spotify-recently-played-readme -->
 	<!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ms2mpwauroluxnjudw7a6u336e&count=5&width=570" alt="Spotify Recently Played" width="570px"> -->
 </div>
-
-<hr>
-
-<!-- WAKATIME SECTION -->
-
-<h2 align="center">⏲️ WAKATIME 🧑‍💻</h2>
-
-<!-- WakaTime SVG: https://github.com/avinal/Profile-Readme-WakaTime -->
-
-<!--
-<div width="80%" align="center">
-	<img src="https://github.com/KevinNitroG/KevinNitroG/blob/wakatime/images/stat.svg"
-		alt="KevinNitroG WakaTime Activity"
-	/>
-</div>
--->
-
-<!-- WakaTime Code: https://github.com/athul/waka-readme -->
-<!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-C++                      4 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   37.29 % 
-JavaScript               2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-Markdown                 2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-Other                    1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-sh                       28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 25 mins      ███████████████████████░░   93.09 % 
-Zsh                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-Sublime Text             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-
-🐱‍💻 Projects: 
-KevinNitroG/KevinNitro-Co4 hrs 57 mins       ███████████░░░░░░░░░░░░░░   44.28 % 
-KevinNitroG/UIT-Auto-Lect1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-UIT-Auto-Lecturer-Survey 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Unknown Project          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-KevinNitroG/KevinNitroG  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-
-💻 Operating System: 
-Windows                  10 hrs 44 mins      ████████████████████████░   95.82 % 
-WSL                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   16 repos            ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-```
-
-
-
-
- Last Updated on 06:50 PM on Saturday, 06/01/24 UTC
-<!--END_SECTION:waka-->
-
-<hr>
-
-<!-- RECENT ACTIVITIES SECTION -->
-
-<h2 align="center">⌛ RECENT ACTIVITIES ⌚</h2>
-
-<!-- Recent activities (jamesgeorge007): https://github.com/jamesgeorge007/github-activity-readme -->
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-<!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
-
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
-2. ⬆️ Pushed 2 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
-3. ⭐ Starred [joshmedeski/dotfiles](https://github.com/joshmedeski/dotfiles)<br>
-4. ⬆️ Pushed 2 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
-5. ⭐ Starred [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)<br>
-6. ⭐ Starred [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
-8. ⭐ Starred [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)<br>
-9. ⭐ Starred [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev)<br>
-10. ⭐ Starred [remotion-dev/template-next-app-dir](https://github.com/remotion-dev/template-next-app-dir)<br>
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-**Last Updated:** 1:01 AM on Sunday, 7/1/24
-<!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>
 

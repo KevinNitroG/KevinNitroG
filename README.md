@@ -314,6 +314,8 @@ sh           1 hr 24 mins    █░░░░░░░░░░░░░░░░
 
 <!-- HOLOPIN SECTION -->
 
+<h2 align="center">😶‍🌫️ HOLOPIN 🦖</h2>
+
 <a href="https://holopin.io/@kevinnitrog">
   <img src="https://holopin.me/kevinnitrog" alt="@KevinNitroG's Holopin board" />
 </a>

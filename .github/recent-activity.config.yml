@@ -7,8 +7,8 @@ settings:
   url_text: "{REPO}{ID}"
   date:
     timezone: "Asia/Ho_Chi_Minh"
-    text: "**Last Updated:** {DATE}"
-    format: "h:mm TT 'on' dddd, d/m/yy"
+    text: "Last Updated on {DATE}"
+    format: "dddd, d/m/yy h:mm TT"
   commit_name: "GitHub Actions"
   commit_email: "action@github.com"
   line_prefix: "{NUM}. "

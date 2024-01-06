@@ -57,7 +57,7 @@ jobs:
           COMMIT_EMAIL: action@github.com
           COMMIT_MESSAGE: 📈 Update Anmol WakaTime
           SHOW_UPDATED_DATE: true
-          UPDATED_DATE_FORMAT: "%I:%M %p on %A, %d/%m/%y"
+          UPDATED_DATE_FORMAT: "%A, %d/%m/%y at %I:%M %p"
           SHOW_LINES_OF_CODE: false
           SHOW_TOTAL_CODE_TIME: false
           SHOW_PROFILE_VIEWS: false

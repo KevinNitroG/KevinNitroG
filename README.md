@@ -219,6 +219,7 @@ sh           1 hr 24 mins    █░░░░░░░░░░░░░░░░
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⬆️ Pushed 2 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
 2. ⭐ Starred [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)<br>
 3. ⭐ Starred [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)<br>
@@ -232,7 +233,9 @@ sh           1 hr 24 mins    █░░░░░░░░░░░░░░░░
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 **Last Updated:** 1:01 AM on Sunday, 7/1/24
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>
@@ -303,8 +306,14 @@ sh           1 hr 24 mins    █░░░░░░░░░░░░░░░░
 
 <!-- PEACE THANKS -->
 
-<h2 align="center">😶‍🌫️ GLAD THAT THERE ARE PEOPLE HERE 😇</h2>
+<!-- <h2 align="center">😶‍🌫️ GLAD THAT THERE ARE PEOPLE HERE 😇</h2>
 
 <div align="center">
 	<img src="https://i.giphy.com/E549VaHiMjknS.webp" alt="Sleeping Totoro" width="400">
-</div>
+</div> -->
+
+<!-- HOLOPIN SECTION -->
+
+<a href="https://holopin.io/@kevinnitrog">
+  <img src="https://holopin.me/kevinnitrog" alt="@KevinNitroG's Holopin board" />
+</a>

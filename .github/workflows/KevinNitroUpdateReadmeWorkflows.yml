@@ -64,7 +64,7 @@ jobs:
           SHOW_COMMIT: false
           SHOW_DAYS_OF_WEEK: false
           SHOW_SHORT_INFO: false
-          SHOW_LOC_CHART: false
+          SHOW_LOC_CHART: true
 
       # - name: Jamesgeorge007 Github Activity
       #   uses: jamesgeorge007/github-activity-readme@master

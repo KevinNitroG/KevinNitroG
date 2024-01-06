@@ -128,10 +128,10 @@
 		<tbody>
 			<tr>
 				<td align="center" style="vertical-align: top;">
-					<img src="https://skillicons.dev/icons?i=linux,ps,pr,visualstudio,vscode,regex,cpp,py,md,bash,git,github,gitlab,githubactions,workers,instagram,discord&theme=dark&perline=5" alt="My Skills" height="205px"/>
+					<img src="https://skillicons.dev/icons?i=linux,ps,pr,visualstudio,vscode,regex,cpp,py,md,bash,git,github,gitlab,githubactions,workers&theme=dark&perline=4" alt="My Skills" height="205px"/>
 				</td>
 				<td align="center" style="vertical-align: top;">
-					<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,selenium,powershell,docker,cloudflare,mongodb,redis,vercel,netlify,replit,aws,raspberrypi,devto,linkedin&theme=dark&perline=5" alt="My Skills" height="205px"/>
+					<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,selenium,docker,cloudflare,mongodb,redis,vercel,netlify,replit,aws,raspberrypi,devto,linkedin&theme=dark&perline=5" alt="My Skills" height="205px"/>
 				</td>
 			</tr>
 		</tbody>
@@ -184,6 +184,7 @@
 -->
 
 <!-- WakaTime Code: https://github.com/athul/waka-readme -->
+<!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
 
@@ -218,6 +219,7 @@ sh           1 hr 24 mins    █░░░░░░░░░░░░░░░░
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
 2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
 3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
@@ -231,7 +233,9 @@ sh           1 hr 24 mins    █░░░░░░░░░░░░░░░░
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 **Last Updated:** 3:01 PM on Saturday, 6/1/2024 _(Vietnam)_
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>
@@ -269,7 +273,7 @@ sh           1 hr 24 mins    █░░░░░░░░░░░░░░░░
 <hr>
 
 <!-- ACCESSORIES SECTION -->
-
+<!--
 <center>
 <h2 align="center">🎧 ACCESSORIES 🛞</h2>
     <table align="center">
@@ -293,12 +297,12 @@ sh           1 hr 24 mins    █░░░░░░░░░░░░░░░░
 				<td>
 					<a href="https://www.amazon.com/Hagibis-Enclosure-Aluminum-External-Solid-State/dp/B0CLTN8PLM">Hagibis 2230 M.2 NVMe SSD</a> <em>(2TB SSD)</em> <em>(Linux + Data)</em>
     			</td>
-    		</tr> -->
+    		</tr>
     	</tbody>
     </table>
-</center>
+</center> -->
 
-<hr>
+<!-- <hr> -->
 
 <!-- PEACE THANKS -->
 

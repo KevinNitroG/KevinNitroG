@@ -29,23 +29,42 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Athul WakaTime
-        uses: athul/waka-readme@master
-        continue-on-error: true
+      # - name: Athul WakaTime
+      #   uses: athul/waka-readme@master
+      #   continue-on-error: true
+      #   with:
+      #     WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      #     SHOW_TITLE: true
+      #     SECTION_NAME: Kevin Nitro
+      #     TIME_RANGE: all_time
+      #     LANG_COUNT: 7
+      #     SHOW_TOTAL: true
+      #     COMMITTER_NAME: GitHub Action
+      #     COMMITTER_EMAIL: action@github.com
+      #     AUTHOR_NAME: KevinNitroG
+      #     AUTHOR_EMAIL: kevinnitro@duck.com
+      #     CODE_LANG: rust
+      #     COMMIT_MESSAGE: 📈 Update Athul WakaTime
+      #     IGNORED_LANGUAGES: Other
+
+      - name: Anmol WakaTime
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          SECTION_NAME: Kevin Nitro
-          TIME_RANGE: all_time
-          LANG_COUNT: 7
-          SHOW_TOTAL: true
-          COMMITTER_NAME: GitHub Action
-          COMMITTER_EMAIL: action@github.com
-          AUTHOR_NAME: KevinNitroG
-          AUTHOR_EMAIL: kevinnitro@duck.com
-          CODE_LANG: rust
-          COMMIT_MESSAGE: 📈 Update WakaTime
-          IGNORED_LANGUAGES: Other
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_BY_ME: true
+          COMMIT_USERNAME: GitHub Action
+          COMMIT_EMAIL: action@github.com
+          COMMIT_MESSAGE: 📈 Update Anmol WakaTime
+          SHOW_UPDATED_DATE: true
+          UPDATED_DATE_FORMAT: "%I:%M %p on %A, %d/%m/%y"
+          SHOW_LINES_OF_CODE: false
+          SHOW_TOTAL_CODE_TIME: false
+          SHOW_PROFILE_VIEWS: false
+          SHOW_COMMIT: false
+          SHOW_DAYS_OF_WEEK: false
+          SHOW_SHORT_INFO: false
+          SHOW_LOC_CHART: false
 
       # - name: Jamesgeorge007 Github Activity
       #   uses: jamesgeorge007/github-activity-readme@master

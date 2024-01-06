@@ -8,7 +8,7 @@ settings:
   date:
     timezone: "Asia/Ho_Chi_Minh"
     text: "**Last Updated:** {DATE}"
-    format: "h:mm TT 'on' dddd, d/m/yyyy '_(Vietnam)_'"
+    format: "h:mm TT 'on' dddd, d/m/yy"
   commit_name: "GitHub Actions"
   commit_email: "action@github.com"
   line_prefix: "{NUM}. "

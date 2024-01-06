@@ -68,6 +68,7 @@
 		<a href="https://github.com/KevinNitroG">
 			<img src="https://img.shields.io/badge/website-ECEE81?style=for-the-badge">
 		</a>
+		<br>
 		<a href="https://wakatime.com/@018b410d-fa7b-44ba-a5de-f025fcbeb499"><img src="https://wakatime.com/badge/user/018b410d-fa7b-44ba-a5de-f025fcbeb499.svg?style=for-the-badge" alt="Total time coded since Oct 18 2023" /></a>
 	</div>
 	<!-- Spotify Github Profile: https://github.com/kittinan/spotify-github-profile -->

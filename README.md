@@ -218,20 +218,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
-2. ⭐ Starred [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
-4. ⭐ Starred [nxtgencat/GooglePhotosNXTExp](https://github.com/nxtgencat/GooglePhotosNXTExp)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
-6. ⭐ Starred [laurent22/joplin](https://github.com/laurent22/joplin)<br>
-7. ⭐ Starred [Slashgear/action-check-pr-title](https://github.com/Slashgear/action-check-pr-title)<br>
-8. ⭐ Starred [contributor-assistant/github-action](https://github.com/contributor-assistant/github-action)<br>
-9. ⭐ Starred [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
+1. ⭐ Starred [ngntrgduc/HCMUS-GPA-bookmarklet](https://github.com/ngntrgduc/HCMUS-GPA-bookmarklet)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Codes](https://github.com/KevinNitroG/KevinNitro-Codes)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
+5. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
+6. ⭐ Starred [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
+8. ⭐ Starred [nxtgencat/GooglePhotosNXTExp](https://github.com/nxtgencat/GooglePhotosNXTExp)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+10. ⭐ Starred [laurent22/joplin](https://github.com/laurent22/joplin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Wednesday, 10/1/24 3:01 PM
+Last Updated on Thursday, 11/1/24 3:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>

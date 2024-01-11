@@ -219,20 +219,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
-2. ⭐ Starred [ngntrgduc/HCMUS-GPA-bookmarklet](https://github.com/ngntrgduc/HCMUS-GPA-bookmarklet)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Codes](https://github.com/KevinNitroG/KevinNitro-Codes)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
-6. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
-7. ⭐ Starred [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex)<br>
+1. ⭐ Starred [maclifevn/bypasmdm](https://github.com/maclifevn/bypasmdm)<br>
+2. ⭐ Starred [ouuan/ouuan](https://github.com/ouuan/ouuan)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
+5. ⭐ Starred [ngntrgduc/HCMUS-GPA-bookmarklet](https://github.com/ngntrgduc/HCMUS-GPA-bookmarklet)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Codes](https://github.com/KevinNitroG/KevinNitro-Codes)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
 8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
-9. ⭐ Starred [nxtgencat/GooglePhotosNXTExp](https://github.com/nxtgencat/GooglePhotosNXTExp)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+9. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
+10. ⭐ Starred [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 11/1/24 3:01 PM
+Last Updated on Friday, 12/1/24 3:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <hr>

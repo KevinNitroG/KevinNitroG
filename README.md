@@ -159,50 +159,49 @@
 <!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Bangkok
 
-💬 Programming Languages: 
-C++                      6 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   35.35 % 
-JavaScript               5 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-YAML                     3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Markdown                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Python                   1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+💬 Programming Languages:
+C++                      6 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   35.35 %
+JavaScript               5 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   28.84 %
+YAML                     3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
+Markdown                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+Python                   1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
 
-🔥 Editors: 
-VS Code                  18 hrs 51 mins      ████████████████████████░   97.62 % 
-Visual Studio            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Zsh                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Sublime Text             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+🔥 Editors:
+VS Code                  18 hrs 51 mins      ████████████████████████░   97.62 %
+Visual Studio            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Zsh                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Sublime Text             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 
-🐱‍💻 Projects: 
-KevinNitroG/KevinNitro-Co9 hrs 42 mins       █████████████░░░░░░░░░░░░   50.25 % 
-KevinNitroG/UIT-Auto-Lect6 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.23 % 
-VNULIB-Downloader        1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-KevinNitroG/KevinNitroG  1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-FFmpeg-GA                16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+🐱‍💻 Projects:
+KevinNitroG/KevinNitro-Co9 hrs 42 mins       █████████████░░░░░░░░░░░░   50.25 %
+KevinNitroG/UIT-Auto-Lect6 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.23 %
+VNULIB-Downloader        1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+KevinNitroG/KevinNitroG  1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+FFmpeg-GA                16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 
-💻 Operating System: 
-Windows                  19 hrs 11 mins      █████████████████████████   99.36 % 
-WSL                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+💻 Operating System:
+Windows                  19 hrs 11 mins      █████████████████████████   99.36 %
+WSL                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   16 repos            ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-C++                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Python                   16 repos            ███████░░░░░░░░░░░░░░░░░░   27.59 %
+C++                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.24 %
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
+Last Updated on Sunday, 14/01/24 at 08:08 PM UTC
 
-
-
- Last Updated on Sunday, 14/01/24 at 08:08 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>
@@ -210,6 +209,11 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- RECENT ACTIVITIES SECTION -->
 
 <h2 align="center">⌛ RECENT ACTIVITIES ⌚</h2>
+
+<details>
+	<summary align="center">
+		<kbd>Click here to expand</kbd>
+	</summary>
 
 <!-- Recent activities (jamesgeorge007): https://github.com/jamesgeorge007/github-activity-readme -->
 
@@ -220,6 +224,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⭐ Starred [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker)<br>
 2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
 3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitroG](https://github.com/KevinNitroG/KevinNitroG)<br>
@@ -233,8 +238,12 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated on Monday, 15/1/24 3:01 AM
+
 <!--RECENT_ACTIVITY:last_update_end-->
+
+</details>
 
 <hr>
 
@@ -242,28 +251,33 @@ Last Updated on Monday, 15/1/24 3:01 AM
 
 <h2 align="center">📈 MY STATS 🙄</h2>
 
-<div align="center">
-	<!-- Anuraghazra Github Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
-	<img src="https://github-readme-stats.vercel.app/api?username=KevinNitroG&show_icons=true&theme=tokyonight&card_width=570&layout=compact" alt="KevinNitroG's GitHub stats">
-	<br>
-	<!-- Streak: https://git.io/streak-stats -->
-	<img src="https://streak-stats.demolab.com?user=KevinNitroG&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&card_width=570" alt="KevinNitroG's GitHub Streak">
-	<br>
-	<!-- Top Langs: https://github.com/anuraghazra/github-readme-stats -->
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinNitroG&langs_count=10&theme=tokyonight&card_width=570&layout=compact" alt="KevinNitroG's Top Langs">
-	<br>
-	<!-- WakaTime: https://github.com/anuraghazra/github-readme-stats -->
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=KevinNitro&theme=tokyonight&card_width=570&layout=compact&langs_count=10&custom_title=KevinNitroG%27s%20WakaTime%20in%20last%20year" alt="KevinNitroG's WakaTime in last year" width="570px">
-	<br>
-	<!-- Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinNitroG&theme=tokyo-night&radius=12&hide_border=false&area=true" alt="KevinNitroG's Activity Graph" width="570px">
-	<br>
-	<!-- Github Trophies: https://github.com/ryo-ma/github-profile-trophy -->
-	<img src="https://github-profile-trophy.vercel.app/?username=KevinNitroG&column=5&theme=tokyonight&no-bg=false" alt="KevinNitro's Trophies" width="570px">
-	<!-- <br> -->
-	<!-- Spotify Recently Played: https://github.com/JeffreyCA/spotify-recently-played-readme -->
-	<!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ms2mpwauroluxnjudw7a6u336e&count=5&width=570" alt="Spotify Recently Played" width="570px"> -->
-</div>
+<details>
+    <summary align="center">
+    	<kbd>Click here to expand</kbd>
+    </summary>
+    <div align="center">
+    	<!-- Anuraghazra Github Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
+    	<img src="https://github-readme-stats.vercel.app/api?username=KevinNitroG&show_icons=true&theme=tokyonight&card_width=570&layout=compact" alt="KevinNitroG's GitHub stats">
+    	<br>
+    	<!-- Streak: https://git.io/streak-stats -->
+    	<img src="https://streak-stats.demolab.com?user=KevinNitroG&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&card_width=570" alt="KevinNitroG's GitHub Streak">
+    	<br>
+    	<!-- Top Langs: https://github.com/anuraghazra/github-readme-stats -->
+    	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinNitroG&langs_count=10&theme=tokyonight&card_width=570&layout=compact" alt="KevinNitroG's Top Langs">
+    	<br>
+    	<!-- WakaTime: https://github.com/anuraghazra/github-readme-stats -->
+    	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=KevinNitro&theme=tokyonight&card_width=570&layout=compact&langs_count=10&custom_title=KevinNitroG%27s%20WakaTime%20in%20last%20year" alt="KevinNitroG's WakaTime in last year" width="570px">
+    	<br>
+    	<!-- Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    	<img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinNitroG&theme=tokyo-night&radius=12&hide_border=false&area=true" alt="KevinNitroG's Activity Graph" width="570px">
+    	<br>
+    	<!-- Github Trophies: https://github.com/ryo-ma/github-profile-trophy -->
+    	<img src="https://github-profile-trophy.vercel.app/?username=KevinNitroG&column=5&theme=tokyonight&no-bg=false" alt="KevinNitro's Trophies" width="570px">
+    	<!-- <br> -->
+    	<!-- Spotify Recently Played: https://github.com/JeffreyCA/spotify-recently-played-readme -->
+    	<!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ms2mpwauroluxnjudw7a6u336e&count=5&width=570" alt="Spotify Recently Played" width="570px"> -->
+    </div>
+</details>
 
 <hr>
 
@@ -271,31 +285,36 @@ Last Updated on Monday, 15/1/24 3:01 AM
 
 <h2 align="center">💻 DEVICES 📱</h2>
 
-<center>
-    <table align="center">
-    	<thead>
-    		<tr>
-    			<th align="center"><h3><strong>NAME</strong></h3></th>
-    			<th align="center"><h3><strong>MODEL</strong></h3></th>
-    			<th align="center"><h3><strong>OS</strong></h3></th>
-    		</tr>
-    	</thead>
-    	<tbody>
-    		<tr>
-    			<td align="center" rowspan="2"><strong>LAPTOP</strong></td>
-    			<td rowspan="2"><a href="https://www.nguyenkim.com/laptop-dell-vostro-5410-v4i5214w1.html">Dell Vostro 5410<em>(V4I5214W1)</em></a></td>
-    			<td>Windows 11 Home 🪟</td>
-			</tr>
-			<tr>
-				<td>Linux Mint 🐧</td>
-    		</tr>
-    		<tr>
-    			<td align="center"><strong>PHONE</strong></td>
-    			<td><a href="https://www.gsmarena.com/xiaomi_redmi_k30_5g-9979.php">Xiaomi Redmi K30 5G</a></td>
-    			<td>Android 12 <em>(MIUI CN 13)</em><br><em>(rooted with Magisk Delta)</em></td>
-    	</tbody>
-    </table>
-</center>
+<details>
+    <summary align="center">
+    	<kbd>Click here to expand</kbd>
+    </summary>
+    <center>
+        <table align="center">
+        	<thead>
+        		<tr>
+        			<th align="center"><h3><strong>NAME</strong></h3></th>
+        			<th align="center"><h3><strong>MODEL</strong></h3></th>
+        			<th align="center"><h3><strong>OS</strong></h3></th>
+        		</tr>
+        	</thead>
+        	<tbody>
+        		<tr>
+        			<td align="center" rowspan="2"><strong>LAPTOP</strong></td>
+        			<td rowspan="2"><a href="https://www.nguyenkim.com/laptop-dell-vostro-5410-v4i5214w1.html">Dell Vostro 5410<em>(V4I5214W1)</em></a></td>
+        			<td>Windows 11 Home 🪟</td>
+    			</tr>
+    			<tr>
+    				<td>Linux Mint 🐧</td>
+        		</tr>
+        		<tr>
+        			<td align="center"><strong>PHONE</strong></td>
+        			<td><a href="https://www.gsmarena.com/xiaomi_redmi_k30_5g-9979.php">Xiaomi Redmi K30 5G</a></td>
+        			<td>Android 12 <em>(MIUI CN 13)</em><br><em>(rooted with Magisk Delta)</em></td>
+        	</tbody>
+        </table>
+    </center>
+</details>
 
 <hr>
 

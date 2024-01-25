@@ -12,8 +12,8 @@ settings:
   commit_name: "GitHub Actions"
   commit_email: "action@github.com"
   line_prefix: "{NUM}. "
-  # ignored_repos:
-  #   - username/repo
+  ignored_repos:
+    - KevinNitrG/KevinNitroG
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"

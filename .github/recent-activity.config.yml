@@ -13,7 +13,7 @@ settings:
   commit_email: "action@github.com"
   line_prefix: "{NUM}. "
   ignored_repos:
-    - KevinNitrG/KevinNitroG
+    - KevinNitroG/KevinNitroG
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"

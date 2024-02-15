@@ -223,20 +223,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-2. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io](https://github.com/NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io)<br>
-3. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/.github](https://github.com/NMLT-NTTMK-K18/.github)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Codes](https://github.com/KevinNitroG/KevinNitro-Codes)<br>
+2. ⭐ Starred [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor)<br>
+3. 📔 Created new repository [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
 4. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io](https://github.com/NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io)<br>
 5. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/.github](https://github.com/NMLT-NTTMK-K18/.github)<br>
-6. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/4-172-matrix](https://github.com/NMLT-NTTMK-K18/4-172-matrix)<br>
-7. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/3-194-array](https://github.com/NMLT-NTTMK-K18/3-194-array)<br>
-8. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/6-290-recursion](https://github.com/NMLT-NTTMK-K18/6-290-recursion)<br>
-9. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/7-61-wecode](https://github.com/NMLT-NTTMK-K18/7-61-wecode)<br>
-10. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/5-258-struct](https://github.com/NMLT-NTTMK-K18/5-258-struct)<br>
+6. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io](https://github.com/NMLT-NTTMK-K18/nmlt-nttmk-k18.github.io)<br>
+7. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/.github](https://github.com/NMLT-NTTMK-K18/.github)<br>
+8. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/4-172-matrix](https://github.com/NMLT-NTTMK-K18/4-172-matrix)<br>
+9. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/3-194-array](https://github.com/NMLT-NTTMK-K18/3-194-array)<br>
+10. ⬆️ Pushed 1 commit(s) to [NMLT-NTTMK-K18/6-290-recursion](https://github.com/NMLT-NTTMK-K18/6-290-recursion)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 15/2/24 3:02 PM
+Last Updated on Friday, 16/2/24 3:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

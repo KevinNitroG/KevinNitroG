@@ -225,9 +225,9 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#16](https://github.com/KevinNitroG/VNULIB-Downloader/pull/16) in [KevinNitroG/VNULIB-Downloader](https://github.com/KevinNitroG/VNULIB-Downloader)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/VNULIB-Downloader](https://github.com/KevinNitroG/VNULIB-Downloader)<br>
 2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/VNULIB-Downloader](https://github.com/KevinNitroG/VNULIB-Downloader)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/VNULIB-Downloader](https://github.com/KevinNitroG/VNULIB-Downloader)<br>
+3. 💪 Opened PR [#16](https://github.com/KevinNitroG/VNULIB-Downloader/pull/16) in [KevinNitroG/VNULIB-Downloader](https://github.com/KevinNitroG/VNULIB-Downloader)<br>
 4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/VNULIB-Downloader](https://github.com/KevinNitroG/VNULIB-Downloader)<br>
 5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/VNULIB-Downloader](https://github.com/KevinNitroG/VNULIB-Downloader)<br>
 6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/VNULIB-Downloader](https://github.com/KevinNitroG/VNULIB-Downloader)<br>
@@ -238,7 +238,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 12/3/24 3:03 AM
+Last Updated on Tuesday, 12/3/24 3:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

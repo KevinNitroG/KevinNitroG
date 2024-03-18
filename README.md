@@ -225,20 +225,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [siduck/st](https://github.com/siduck/st)<br>
-2. ⭐ Starred [siduck/chadwm](https://github.com/siduck/chadwm)<br>
-3. ⭐ Starred [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/NvChad-Starter](https://github.com/KevinNitroG/NvChad-Starter)<br>
-6. ⭐ Starred [siduck/dotfiles](https://github.com/siduck/dotfiles)<br>
-7. ⭐ Starred [siduck/quickcv](https://github.com/siduck/quickcv)<br>
-8. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Microsoft-E5-Auto-Renewal-flask](https://github.com/KevinNitroG/Microsoft-E5-Auto-Renewal-flask)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-10. ⭐ Starred [ChrisTitusTech/powershell-profile](https://github.com/ChrisTitusTech/powershell-profile)<br>
+1. ⭐ Starred [bluebird75/lua_get_os_name](https://github.com/bluebird75/lua_get_os_name)<br>
+2. ⭐ Starred [siduck/st](https://github.com/siduck/st)<br>
+3. ⭐ Starred [siduck/chadwm](https://github.com/siduck/chadwm)<br>
+4. ⭐ Starred [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/NvChad-Starter](https://github.com/KevinNitroG/NvChad-Starter)<br>
+7. ⭐ Starred [siduck/dotfiles](https://github.com/siduck/dotfiles)<br>
+8. ⭐ Starred [siduck/quickcv](https://github.com/siduck/quickcv)<br>
+9. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Microsoft-E5-Auto-Renewal-flask](https://github.com/KevinNitroG/Microsoft-E5-Auto-Renewal-flask)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Monday, 18/3/24 3:03 AM
+Last Updated on Monday, 18/3/24 3:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

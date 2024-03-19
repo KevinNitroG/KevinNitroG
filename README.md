@@ -225,20 +225,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ngtuonghy/nvchad_config](https://github.com/ngtuonghy/nvchad_config)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/NvChad-Starter](https://github.com/KevinNitroG/NvChad-Starter)<br>
-4. ⭐ Starred [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi)<br>
-5. ⭐ Starred [bluebird75/lua_get_os_name](https://github.com/bluebird75/lua_get_os_name)<br>
-6. ⭐ Starred [siduck/st](https://github.com/siduck/st)<br>
-7. ⭐ Starred [siduck/chadwm](https://github.com/siduck/chadwm)<br>
-8. ⭐ Starred [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/NvChad-Starter](https://github.com/KevinNitroG/NvChad-Starter)<br>
+1. 🔱 Forked [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter) from [LazyVim/starter](https://github.com/LazyVim/starter)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/NvChad-Starter](https://github.com/KevinNitroG/NvChad-Starter)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/VNULIB-Downloader](https://github.com/KevinNitroG/VNULIB-Downloader)<br>
+4. 🎉 Merged PR [#19](https://github.com/KevinNitroG/VNULIB-Downloader/pull/19) in [KevinNitroG/VNULIB-Downloader](https://github.com/KevinNitroG/VNULIB-Downloader)<br>
+5. ⭐ Starred [ngtuonghy/nvchad_config](https://github.com/ngtuonghy/nvchad_config)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/NvChad-Starter](https://github.com/KevinNitroG/NvChad-Starter)<br>
+8. ⭐ Starred [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi)<br>
+9. ⭐ Starred [bluebird75/lua_get_os_name](https://github.com/bluebird75/lua_get_os_name)<br>
+10. ⭐ Starred [siduck/st](https://github.com/siduck/st)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 19/3/24 3:03 AM
+Last Updated on Tuesday, 19/3/24 3:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

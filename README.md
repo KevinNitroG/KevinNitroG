@@ -225,20 +225,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [smjonas/inc-rename.nvim](https://github.com/smjonas/inc-rename.nvim)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
 2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
-5. 🔱 Forked [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter) from [LazyVim/starter](https://github.com/LazyVim/starter)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/NvChad-Starter](https://github.com/KevinNitroG/NvChad-Starter)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/VNULIB-Downloader](https://github.com/KevinNitroG/VNULIB-Downloader)<br>
-8. 🎉 Merged PR [#19](https://github.com/KevinNitroG/VNULIB-Downloader/pull/19) in [KevinNitroG/VNULIB-Downloader](https://github.com/KevinNitroG/VNULIB-Downloader)<br>
-9. ⭐ Starred [ngtuonghy/nvchad_config](https://github.com/ngtuonghy/nvchad_config)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
+4. ⭐ Starred [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim)<br>
+5. ⭐ Starred [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public)<br>
+6. ⭐ Starred [smjonas/inc-rename.nvim](https://github.com/smjonas/inc-rename.nvim)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
+10. 🔱 Forked [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter) from [LazyVim/starter](https://github.com/LazyVim/starter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Wednesday, 20/3/24 3:03 AM
+Last Updated on Wednesday, 20/3/24 3:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -225,20 +225,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
-4. ⭐ Starred [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim)<br>
-5. ⭐ Starred [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public)<br>
-6. ⭐ Starred [smjonas/inc-rename.nvim](https://github.com/smjonas/inc-rename.nvim)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/DSA-Practicing](https://github.com/KevinNitroG/DSA-Practicing)<br>
+2. 📔 Created new repository [KevinNitroG/DSA-Practicing](https://github.com/KevinNitroG/DSA-Practicing)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+4. ⭐ Starred [luochen1990/rainbow](https://github.com/luochen1990/rainbow)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
 7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
 8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
 9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
-10. 🔱 Forked [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter) from [LazyVim/starter](https://github.com/LazyVim/starter)<br>
+10. ⭐ Starred [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Wednesday, 20/3/24 3:03 PM
+Last Updated on Thursday, 21/3/24 3:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -129,10 +129,10 @@
 		<tbody>
 			<tr>
 				<td align="center" style="vertical-align: top;">
-					<img src="https://skillicons.dev/icons?i=linux,ps,pr,visualstudio,vscode,regex,cpp,py,md,bash,git,github,gitlab,githubactions,workers&theme=dark&perline=4" alt="My Skills" height="205px"/>
+					<img src="https://skillicons.dev/icons?i=linux,ps,pr,visualstudio,vscode,neovim,regex,cpp,py,md,bash,git,github,gitlab,githubactions,workers&theme=dark&perline=4" alt="My skills" height="205px"/>
 				</td>
 				<td align="center" style="vertical-align: top;">
-					<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,selenium,docker,cloudflare,mongodb,redis,vercel,netlify,replit,aws,raspberrypi,devto,linkedin&theme=dark&perline=5" alt="My Skills" height="205px"/>
+					<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,selenium,docker,cloudflare,mongodb,redis,vercel,netlify,replit,aws,raspberrypi,devto,linkedin&theme=dark&perline=5" alt="May / Will learn skills" height="205px"/>
 				</td>
 			</tr>
 		</tbody>
@@ -171,8 +171,8 @@ Other                    2 hrs 46 mins       ██░░░░░░░░░�
 Python                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 PowerShell               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
-🔥 Editors: 
 Neovim                   24 hrs 15 mins      ████████████████░░░░░░░░░   63.75 % 
+    🔥 Editors: 
 VS Code                  10 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   28.52 % 
 Word                     2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 Visual Studio            24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 

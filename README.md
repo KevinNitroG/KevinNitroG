@@ -224,20 +224,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mbbill/undotree](https://github.com/mbbill/undotree)<br>
-2. ⭐ Starred [laytan/cloak.nvim](https://github.com/laytan/cloak.nvim)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-4. ⭐ Starred [scottmckendry/Windots](https://github.com/scottmckendry/Windots)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+3. ⬆️ Pushed 3 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
+4. ⭐ Starred [mbbill/undotree](https://github.com/mbbill/undotree)<br>
+5. ⭐ Starred [laytan/cloak.nvim](https://github.com/laytan/cloak.nvim)<br>
 6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-7. ⭐ Starred [hamedprog/posh-wakatime](https://github.com/hamedprog/posh-wakatime)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
+7. ⭐ Starred [scottmckendry/Windots](https://github.com/scottmckendry/Windots)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
 9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
+10. ⭐ Starred [hamedprog/posh-wakatime](https://github.com/hamedprog/posh-wakatime)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 30/3/24 3:03 AM
+Last Updated on Saturday, 30/3/24 3:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

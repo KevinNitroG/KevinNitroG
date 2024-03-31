@@ -225,20 +225,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [danymat/neogen](https://github.com/danymat/neogen)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
-4. ⭐ Starred [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
+2. ⬆️ Pushed 2 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
+3. ⭐ Starred [danymat/neogen](https://github.com/danymat/neogen)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
 5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-7. ⬆️ Pushed 3 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
-8. ⭐ Starred [mbbill/undotree](https://github.com/mbbill/undotree)<br>
-9. ⭐ Starred [laytan/cloak.nvim](https://github.com/laytan/cloak.nvim)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+6. ⭐ Starred [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+9. ⬆️ Pushed 3 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
+10. ⭐ Starred [mbbill/undotree](https://github.com/mbbill/undotree)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 31/3/24 3:03 AM
+Last Updated on Sunday, 31/3/24 3:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

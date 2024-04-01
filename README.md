@@ -226,20 +226,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [krahets/hello-algo](https://github.com/krahets/hello-algo)<br>
+1. ⭐ Starred [mischavandenburg/dotfiles](https://github.com/mischavandenburg/dotfiles)<br>
 2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-3. ⬆️ Pushed 2 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-5. ⬆️ Pushed 5 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/NvChad-Starter](https://github.com/KevinNitroG/NvChad-Starter)<br>
-7. ⬆️ Pushed 2 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-8. ⭐ Starred [huytd/goxkey](https://github.com/huytd/goxkey)<br>
-9. ⭐ Starred [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)<br>
-10. ⭐ Starred [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre)<br>
+3. ⬆️ Pushed 5 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
+4. ⭐ Starred [HiPhish/rainbow-delimiters.nvim](https://github.com/HiPhish/rainbow-delimiters.nvim)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+6. ⭐ Starred [krahets/hello-algo](https://github.com/krahets/hello-algo)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+8. ⬆️ Pushed 2 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+10. ⬆️ Pushed 5 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Monday, 1/4/24 3:04 PM
+Last Updated on Tuesday, 2/4/24 3:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

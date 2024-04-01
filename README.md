@@ -226,20 +226,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [huytd/goxkey](https://github.com/huytd/goxkey)<br>
-2. ⭐ Starred [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)<br>
-3. ⭐ Starred [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre)<br>
-4. ⭐ Starred [Hammster/windows-terminal-shaders](https://github.com/Hammster/windows-terminal-shaders)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
-6. ⬆️ Pushed 2 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
-7. ⭐ Starred [danymat/neogen](https://github.com/danymat/neogen)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
-10. ⭐ Starred [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)<br>
+1. ⭐ Starred [krahets/hello-algo](https://github.com/krahets/hello-algo)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+3. ⬆️ Pushed 2 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+5. ⬆️ Pushed 5 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/NvChad-Starter](https://github.com/KevinNitroG/NvChad-Starter)<br>
+7. ⬆️ Pushed 2 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+8. ⭐ Starred [huytd/goxkey](https://github.com/huytd/goxkey)<br>
+9. ⭐ Starred [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)<br>
+10. ⭐ Starred [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Monday, 1/4/24 3:04 AM
+Last Updated on Monday, 1/4/24 3:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

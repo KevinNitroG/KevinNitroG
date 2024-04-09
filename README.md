@@ -225,20 +225,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SuperCuber/dotter](https://github.com/SuperCuber/dotter)<br>
-2. ⭐ Starred [prabirshrestha/dotfiles](https://github.com/prabirshrestha/dotfiles)<br>
-3. ⭐ Starred [KevinNitroG/GDI-Auto-Update](https://github.com/KevinNitroG/GDI-Auto-Update)<br>
-4. ⬆️ Pushed 2 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
-5. ⭐ Starred [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)<br>
-6. 🔱 Forked [KevinNitroG/uYouEnhanced](https://github.com/KevinNitroG/uYouEnhanced) from [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced)<br>
-7. ⭐ Starred [KevinNitroG/GDI-Auto-Update](https://github.com/KevinNitroG/GDI-Auto-Update)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/VNULIB-Downloader](https://github.com/KevinNitroG/VNULIB-Downloader)<br>
-9. 🎉 Merged PR [#29](https://github.com/KevinNitroG/VNULIB-Downloader/pull/29) in [KevinNitroG/VNULIB-Downloader](https://github.com/KevinNitroG/VNULIB-Downloader)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/VNULIB-Downloader](https://github.com/KevinNitroG/VNULIB-Downloader)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+7. ⭐ Starred [SuperCuber/dotter](https://github.com/SuperCuber/dotter)<br>
+8. ⭐ Starred [prabirshrestha/dotfiles](https://github.com/prabirshrestha/dotfiles)<br>
+9. ⭐ Starred [KevinNitroG/GDI-Auto-Update](https://github.com/KevinNitroG/GDI-Auto-Update)<br>
+10. ⬆️ Pushed 2 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 9/4/24 3:04 PM
+Last Updated on Wednesday, 10/4/24 3:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

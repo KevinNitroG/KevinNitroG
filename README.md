@@ -225,20 +225,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
-2. ⭐ Starred [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos)<br>
-3. ⭐ Starred [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim)<br>
-4. ⭐ Starred [rockyzhang24/dotfiles](https://github.com/rockyzhang24/dotfiles)<br>
+1. ⭐ Starred [declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim)<br>
+2. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+4. ❗️ Opened issue [#7](https://github.com/Alexis12119/nvim-config/issues/7) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
 5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/LazyVim-Starter](https://github.com/KevinNitroG/LazyVim-Starter)<br>
+6. 💬 Commented on [#6](https://github.com/Alexis12119/nvim-config/issues/6#issuecomment-2066931328) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+7. ❗️ Opened issue [#6](https://github.com/Alexis12119/nvim-config/issues/6) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+8. 🔱 Forked [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim) from [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+9. ⭐ Starred [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+10. ⭐ Starred [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 19/4/24 3:04 PM
+Last Updated on Saturday, 20/4/24 3:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

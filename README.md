@@ -225,20 +225,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim)<br>
-2. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+1. ⭐ Starred [olimorris/persisted.nvim](https://github.com/olimorris/persisted.nvim)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-4. ❗️ Opened issue [#7](https://github.com/Alexis12119/nvim-config/issues/7) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-6. 💬 Commented on [#6](https://github.com/Alexis12119/nvim-config/issues/6#issuecomment-2066931328) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-7. ❗️ Opened issue [#6](https://github.com/Alexis12119/nvim-config/issues/6) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-8. 🔱 Forked [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim) from [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-9. ⭐ Starred [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-10. ⭐ Starred [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+5. ⭐ Starred [webalorn/competitive_snippets](https://github.com/webalorn/competitive_snippets)<br>
+6. ⭐ Starred [honza/vim-snippets](https://github.com/honza/vim-snippets)<br>
+7. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+8. ⭐ Starred [wez/wezterm](https://github.com/wez/wezterm)<br>
+9. ⭐ Starred [Alexis12119/dotfiles](https://github.com/Alexis12119/dotfiles)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 20/4/24 3:04 AM
+Last Updated on Saturday, 20/4/24 3:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

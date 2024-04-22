@@ -226,19 +226,19 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-2. ⭐ Starred [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp)<br>
-3. ⭐ Starred [barrett-ruth/live-server.nvim](https://github.com/barrett-ruth/live-server.nvim)<br>
-4. ⭐ Starred [VangBanLaNhat/fca-unofficial](https://github.com/VangBanLaNhat/fca-unofficial)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
+5. ⭐ Starred [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp)<br>
+6. ⭐ Starred [barrett-ruth/live-server.nvim](https://github.com/barrett-ruth/live-server.nvim)<br>
+7. ⭐ Starred [VangBanLaNhat/fca-unofficial](https://github.com/VangBanLaNhat/fca-unofficial)<br>
 8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
 9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
 10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/KevinNitro-Windows-Dotfiles](https://github.com/KevinNitroG/KevinNitro-Windows-Dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Monday, 22/4/24 3:04 PM
+Last Updated on Tuesday, 23/4/24 3:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

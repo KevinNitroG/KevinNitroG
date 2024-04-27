@@ -225,20 +225,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+1. ⭐ Starred [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab)<br>
+2. ⭐ Starred [Freed-Wu/fzf-tab-source](https://github.com/Freed-Wu/fzf-tab-source)<br>
 3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-5. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-6. ⭐ Starred [fritzlb/iOS17-JIT-WIN](https://github.com/fritzlb/iOS17-JIT-WIN)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+7. ⭐ Starred [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant)<br>
 8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 27/4/24 3:04 PM
+Last Updated on Sunday, 28/4/24 3:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

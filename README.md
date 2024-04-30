@@ -226,20 +226,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Maplespe/DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)<br>
-2. ⭐ Starred [tbillington/kondo](https://github.com/tbillington/kondo)<br>
-3. ⭐ Starred [atuinsh/atuin](https://github.com/atuinsh/atuin)<br>
-4. ⭐ Starred [0nn0/terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)<br>
-5. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-9. ⭐ Starred [RuiNtD/catppuccin-cursors](https://github.com/RuiNtD/catppuccin-cursors)<br>
-10. ⭐ Starred [niivu/windows-customization-extras](https://github.com/niivu/windows-customization-extras)<br>
+1. ⭐ Starred [CRAG666/dotfiles](https://github.com/CRAG666/dotfiles)<br>
+2. ⭐ Starred [sweetbbak/dotfiles](https://github.com/sweetbbak/dotfiles)<br>
+3. ⭐ Starred [RuiNtD/catppuccin-cursors-windows](https://github.com/RuiNtD/catppuccin-cursors-windows)<br>
+4. ⭐ Starred [Maplespe/DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)<br>
+5. ⭐ Starred [tbillington/kondo](https://github.com/tbillington/kondo)<br>
+6. ⭐ Starred [atuinsh/atuin](https://github.com/atuinsh/atuin)<br>
+7. ⭐ Starred [0nn0/terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)<br>
+8. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 30/4/24 3:04 AM
+Last Updated on Tuesday, 30/4/24 3:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

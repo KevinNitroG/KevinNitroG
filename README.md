@@ -226,20 +226,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [eza-community/eza](https://github.com/eza-community/eza)<br>
-2. ⭐ Starred [CRAG666/dotfiles](https://github.com/CRAG666/dotfiles)<br>
-3. ⭐ Starred [sweetbbak/dotfiles](https://github.com/sweetbbak/dotfiles)<br>
-4. ⭐ Starred [RuiNtD/catppuccin-cursors-windows](https://github.com/RuiNtD/catppuccin-cursors-windows)<br>
-5. ⭐ Starred [Maplespe/DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)<br>
-6. ⭐ Starred [tbillington/kondo](https://github.com/tbillington/kondo)<br>
-7. ⭐ Starred [atuinsh/atuin](https://github.com/atuinsh/atuin)<br>
-8. ⭐ Starred [0nn0/terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)<br>
-9. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+1. ⭐ Starred [keycastr/keycastr](https://github.com/keycastr/keycastr)<br>
+2. ⭐ Starred [eza-community/eza](https://github.com/eza-community/eza)<br>
+3. ⭐ Starred [CRAG666/dotfiles](https://github.com/CRAG666/dotfiles)<br>
+4. ⭐ Starred [sweetbbak/dotfiles](https://github.com/sweetbbak/dotfiles)<br>
+5. ⭐ Starred [RuiNtD/catppuccin-cursors-windows](https://github.com/RuiNtD/catppuccin-cursors-windows)<br>
+6. ⭐ Starred [Maplespe/DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)<br>
+7. ⭐ Starred [tbillington/kondo](https://github.com/tbillington/kondo)<br>
+8. ⭐ Starred [atuinsh/atuin](https://github.com/atuinsh/atuin)<br>
+9. ⭐ Starred [0nn0/terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)<br>
+10. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Wednesday, 1/5/24 3:05 AM
+Last Updated on Wednesday, 1/5/24 3:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

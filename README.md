@@ -226,20 +226,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-3. ⬆️ Pushed 2 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+1. 💪 Opened PR [#19](https://github.com/HoangTran0410/useful-script/pull/19) in [HoangTran0410/useful-script](https://github.com/HoangTran0410/useful-script)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/useful-script](https://github.com/KevinNitroG/useful-script)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/useful-script](https://github.com/KevinNitroG/useful-script)<br>
+4. ⬆️ Pushed 595 commit(s) to [KevinNitroG/useful-script](https://github.com/KevinNitroG/useful-script)<br>
+5. 🔱 Forked [KevinNitroG/useful-script](https://github.com/KevinNitroG/useful-script) from [HoangTran0410/useful-script](https://github.com/HoangTran0410/useful-script)<br>
 6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-8. ⭐ Starred [dandavison/delta](https://github.com/dandavison/delta)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/kevinnitrog.github.io](https://github.com/KevinNitroG/kevinnitrog.github.io)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/kevinnitrog.github.io](https://github.com/KevinNitroG/kevinnitrog.github.io)<br>
+10. 🔱 Forked [KevinNitroG/kevinnitrog.github.io](https://github.com/KevinNitroG/kevinnitrog.github.io) from [LinuxGuy312/LinuxGuy312.github.io](https://github.com/LinuxGuy312/LinuxGuy312.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 2/5/24 3:05 PM
+Last Updated on Friday, 3/5/24 3:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

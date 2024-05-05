@@ -226,8 +226,8 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+1. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+2. 🔱 Forked [KevinNitroG/komorebi-application-specific-configuration](https://github.com/KevinNitroG/komorebi-application-specific-configuration) from [LGUG2Z/komorebi-application-specific-configuration](https://github.com/LGUG2Z/komorebi-application-specific-configuration)<br>
 3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
@@ -239,7 +239,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 5/5/24 3:05 PM
+Last Updated on Monday, 6/5/24 3:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

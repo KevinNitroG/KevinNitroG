@@ -118,7 +118,7 @@
 
 <!-- Skillicons: https://github.com/tandpfun/skill-icons -->
 
-<center>
+<!-- <center>
 	<table align="center">
 		<thead>
 			<tr>
@@ -137,7 +137,70 @@
 			</tr>
 		</tbody>
 	</table>
-</center>
+</center> -->
+
+<hr>
+
+<h2 align="center">⛏️ SKILLS 🔨</h2>
+
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=chocolatey&logoColor=fff">
+<img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white">
+<img src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white">
+<img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+<hr>
+
+<h2 align="center">📑 WILL <em>(MAY)</em> LEARN 🧾</h2>
+
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
 
 <hr>
 
@@ -159,51 +222,50 @@
 <!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Bangkok
 
-💬 Programming Languages: 
-PowerShell               8 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   33.51 % 
-C++                      6 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-JavaScript               3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Other                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Python                   1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+💬 Programming Languages:
+PowerShell               8 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   33.51 %
+C++                      6 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.97 %
+JavaScript               3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
+Other                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Python                   1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
 
-🔥 Editors: 
-Neovim                   12 hrs 29 mins      ████████████░░░░░░░░░░░░░   48.29 % 
-Powershell-Wakatime-Gravi7 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-Visual Studio            2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Word                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-VS Code                  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+🔥 Editors:
+Neovim                   12 hrs 29 mins      ████████████░░░░░░░░░░░░░   48.29 %
+Powershell-Wakatime-Gravi7 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.67 %
+Visual Studio            2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+Word                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+VS Code                  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 
-🐱‍💻 Projects: 
-Code                     7 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.67 % 
-Unknown Project          5 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-Terminal                 5 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-UIT-OOP                  2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-IT002.O216.2-23520161-BT21 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+🐱‍💻 Projects:
+Code                     7 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.67 %
+Unknown Project          5 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.95 %
+Terminal                 5 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.65 %
+UIT-OOP                  2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 %
+IT002.O216.2-23520161-BT21 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
 
-💻 Operating System: 
-Windows                  24 hrs 49 mins      ████████████████████████░   95.99 % 
-Linux                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+💻 Operating System:
+Windows                  24 hrs 49 mins      ████████████████████████░   95.99 %
+Linux                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   15 repos            ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-C++                      12 repos            █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-PowerShell               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Python                   15 repos            ██████░░░░░░░░░░░░░░░░░░░   23.81 %
+C++                      12 repos            █████░░░░░░░░░░░░░░░░░░░░   19.05 %
+JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 %
+PowerShell               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
+Last Updated on Monday, 13/05/24 at 08:12 AM UTC
 
-
-
- Last Updated on Monday, 13/05/24 at 08:12 AM UTC
 <!--END_SECTION:waka-->
 
 <hr>
@@ -226,6 +288,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 2. 💪 Opened PR [#85](https://github.com/LGUG2Z/komorebi-application-specific-configuration/pull/85) in [LGUG2Z/komorebi-application-specific-configuration](https://github.com/LGUG2Z/komorebi-application-specific-configuration)<br>
 3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
@@ -239,7 +302,9 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated on Monday, 13/5/24 3:05 PM
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
@@ -302,17 +367,21 @@ Last Updated on Monday, 13/5/24 3:05 PM
         	</thead>
         	<tbody>
         		<tr>
-        			<td align="center" rowspan="2"><strong>LAPTOP</strong></td>
-        			<td rowspan="2"><a href="https://www.nguyenkim.com/laptop-dell-vostro-5410-v4i5214w1.html">Dell Vostro 5410<em>(V4I5214W1)</em></a></td>
-        			<td>Windows 11 Home 🪟</td>
+        			<td align="center" rowspan="3"><strong>LAPTOP</strong></td>
+        			<td rowspan="3"><a href="https://www.nguyenkim.com/laptop-dell-vostro-5410-v4i5214w1.html">Dell Vostro 5410<em>(V4I5214W1)</em></a></td>
+        			<td>Windows 11 Home </td>
     			</tr>
     			<tr>
-    				<td>Ubuntu 🐧</td>
+    				<td>Ubuntu </td>
+        		</tr>
+    			<tr>
+    				<td>Arch 󰣇</td>
         		</tr>
         		<tr>
         			<td align="center"><strong>PHONE</strong></td>
         			<td><a href="https://www.gsmarena.com/xiaomi_redmi_k30_5g-9979.php">Xiaomi Redmi K30 5G</a></td>
         			<td>Android 12 <em>(MIUI CN 13)</em><br><em>(rooted with Magisk Delta)</em></td>
+        		</tr>
         	</tbody>
         </table>
     </center>

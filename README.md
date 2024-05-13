@@ -112,7 +112,7 @@
 	</a>
 </div>
 
-<hr>
+<!-- <hr> -->
 
 <!-- SKILLS AND WILL (MAY) LEARN SECTION -->
 
@@ -213,7 +213,7 @@
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white">
 </div>
 <div>
-  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
 </div>
 
 <hr>

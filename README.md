@@ -305,23 +305,20 @@ Last Updated on Monday, 13/05/24 at 08:12 AM UTC
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-2. 💪 Opened PR [#85](https://github.com/LGUG2Z/komorebi-application-specific-configuration/pull/85) in [LGUG2Z/komorebi-application-specific-configuration](https://github.com/LGUG2Z/komorebi-application-specific-configuration)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-4. ⭐ Starred [eric-vandenberg/git-account-switch-ssh](https://github.com/eric-vandenberg/git-account-switch-ssh)<br>
-5. ❗️ Opened issue [#1489](https://github.com/prasanthrangan/hyprdots/issues/1489) in [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-7. ⭐ Starred [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-9. ⭐ Starred [JacobLinCool/LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card)<br>
-10. ⭐ Starred [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio)<br>
+1. ⭐ Starred [SVUIT/awesome-UIT-projects](https://github.com/SVUIT/awesome-UIT-projects)<br>
+2. 💪 Opened PR [#657](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/657) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Badges4-README.md-Profile](https://github.com/KevinNitroG/Badges4-README.md-Profile)<br>
+4. 🔱 Forked [KevinNitroG/Badges4-README.md-Profile](https://github.com/KevinNitroG/Badges4-README.md-Profile) from [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)<br>
+5. ⭐ Starred [alexandresanlim/Badges4-README.md-Profile-Dynamic](https://github.com/alexandresanlim/Badges4-README.md-Profile-Dynamic)<br>
+6. 💪 Opened PR [#9](https://github.com/Alexis12119/nvim-config/pull/9) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+7. ⭐ Starred [token2/authy-migration](https://github.com/token2/authy-migration)<br>
+8. 💬 Commented on [#85](https://github.com/LGUG2Z/komorebi-application-specific-configuration/pull/85#issuecomment-2107218802) in [LGUG2Z/komorebi-application-specific-configuration](https://github.com/LGUG2Z/komorebi-application-specific-configuration)<br>
+9. ⭐ Starred [JaKooLit/Debian-Hyprland](https://github.com/JaKooLit/Debian-Hyprland)<br>
+10. ⭐ Starred [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-
-Last Updated on Monday, 13/5/24 3:05 PM
-
+Last Updated on Tuesday, 14/5/24 3:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

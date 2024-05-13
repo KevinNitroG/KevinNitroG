@@ -187,6 +187,8 @@
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </div>
 
+<hr>
+
 <h2 align="center">📑 WILL <em>(MAY)</em> LEARN 🧾</h2>
 
 <div>

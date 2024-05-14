@@ -306,20 +306,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/DSA-Practicing](https://github.com/KevinNitroG/DSA-Practicing)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/DSA-Practicing](https://github.com/KevinNitroG/DSA-Practicing)<br>
-3. ⭐ Starred [SVUIT/awesome-UIT-projects](https://github.com/SVUIT/awesome-UIT-projects)<br>
-4. 💪 Opened PR [#657](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/657) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Badges4-README.md-Profile](https://github.com/KevinNitroG/Badges4-README.md-Profile)<br>
-6. 🔱 Forked [KevinNitroG/Badges4-README.md-Profile](https://github.com/KevinNitroG/Badges4-README.md-Profile) from [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)<br>
-7. ⭐ Starred [alexandresanlim/Badges4-README.md-Profile-Dynamic](https://github.com/alexandresanlim/Badges4-README.md-Profile-Dynamic)<br>
-8. 💪 Opened PR [#9](https://github.com/Alexis12119/nvim-config/pull/9) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-9. ⭐ Starred [token2/authy-migration](https://github.com/token2/authy-migration)<br>
-10. 💬 Commented on [#85](https://github.com/LGUG2Z/komorebi-application-specific-configuration/pull/85#issuecomment-2107218802) in [LGUG2Z/komorebi-application-specific-configuration](https://github.com/LGUG2Z/komorebi-application-specific-configuration)<br>
+1. ⭐ Starred [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+3. 💬 Commented on [#10](https://github.com/Alexis12119/nvim-config/issues/10#issuecomment-2110605565) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+4. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+9. ❗️ Opened issue [#10](https://github.com/Alexis12119/nvim-config/issues/10) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 14/5/24 3:05 PM
+Last Updated on Wednesday, 15/5/24 3:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

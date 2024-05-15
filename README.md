@@ -306,20 +306,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [joshmedeski/sesh](https://github.com/joshmedeski/sesh)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+1. ⭐ Starred [gahogg/Leetcode-Solutions](https://github.com/gahogg/Leetcode-Solutions)<br>
+2. ⭐ Starred [radleylewis/dotfiles](https://github.com/radleylewis/dotfiles)<br>
 3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-4. ⭐ Starred [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui)<br>
-5. ⭐ Starred [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube)<br>
-6. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-7. ⭐ Starred [aome510/spotify-player](https://github.com/aome510/spotify-player)<br>
-8. ⭐ Starred [aristocratos/bpytop](https://github.com/aristocratos/bpytop)<br>
-9. ⭐ Starred [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+5. ⭐ Starred [joshmedeski/sesh](https://github.com/joshmedeski/sesh)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+8. ⭐ Starred [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui)<br>
+9. ⭐ Starred [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube)<br>
+10. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Wednesday, 15/5/24 3:05 PM
+Last Updated on Thursday, 16/5/24 3:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

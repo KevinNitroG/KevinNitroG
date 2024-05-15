@@ -306,20 +306,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)<br>
+1. ⭐ Starred [joshmedeski/sesh](https://github.com/joshmedeski/sesh)<br>
 2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-3. 💬 Commented on [#10](https://github.com/Alexis12119/nvim-config/issues/10#issuecomment-2110605565) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-4. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-9. ❗️ Opened issue [#10](https://github.com/Alexis12119/nvim-config/issues/10) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+4. ⭐ Starred [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui)<br>
+5. ⭐ Starred [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube)<br>
+6. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+7. ⭐ Starred [aome510/spotify-player](https://github.com/aome510/spotify-player)<br>
+8. ⭐ Starred [aristocratos/bpytop](https://github.com/aristocratos/bpytop)<br>
+9. ⭐ Starred [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Wednesday, 15/5/24 3:05 AM
+Last Updated on Wednesday, 15/5/24 3:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

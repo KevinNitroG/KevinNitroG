@@ -306,20 +306,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dreamsofautonomy/dotfiles](https://github.com/dreamsofautonomy/dotfiles)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-3. ⭐ Starred [coder/code-server](https://github.com/coder/code-server)<br>
-4. ⭐ Starred [thoike84/iptv-vn](https://github.com/thoike84/iptv-vn)<br>
-5. ⭐ Starred [dreamsofautonomy/zensh](https://github.com/dreamsofautonomy/zensh)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-7. ⭐ Starred [stevearc/dotfiles](https://github.com/stevearc/dotfiles)<br>
-8. ⭐ Starred [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+7. ⬆️ Pushed 10 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+8. ⭐ Starred [omerxx/dotfiles](https://github.com/omerxx/dotfiles)<br>
+9. ⭐ Starred [derv82/wifite2](https://github.com/derv82/wifite2)<br>
+10. ⭐ Starred [dreamsofautonomy/dotfiles](https://github.com/dreamsofautonomy/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 18/5/24 3:05 AM
+Last Updated on Saturday, 18/5/24 3:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

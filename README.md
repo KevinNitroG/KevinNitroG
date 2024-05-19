@@ -306,20 +306,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Abaan404/dotfiles](https://github.com/Abaan404/dotfiles)<br>
-2. ⭐ Starred [ChrisTitusTech/mybash](https://github.com/ChrisTitusTech/mybash)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-ENG03](https://github.com/KevinNitroG/UIT-ENG03)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/DSA-Practicing](https://github.com/KevinNitroG/DSA-Practicing)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/DSA-Practicing](https://github.com/KevinNitroG/DSA-Practicing)<br>
+5. ⭐ Starred [Abaan404/dotfiles](https://github.com/Abaan404/dotfiles)<br>
+6. ⭐ Starred [ChrisTitusTech/mybash](https://github.com/ChrisTitusTech/mybash)<br>
 7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-ENG03](https://github.com/KevinNitroG/UIT-ENG03)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 19/5/24 3:05 AM
+Last Updated on Sunday, 19/5/24 3:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -306,20 +306,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#11](https://github.com/Alexis12119/nvim-config/pull/11) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-2. ⬆️ Pushed 18 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-6. ⭐ Starred [richardbizik/nvim-toc](https://github.com/richardbizik/nvim-toc)<br>
-7. ⭐ Starred [mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)<br>
-8. ⭐ Starred [commitizen/cz-cli](https://github.com/commitizen/cz-cli)<br>
-9. ⭐ Starred [richardbizik/nvim-toc](https://github.com/richardbizik/nvim-toc)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+3. 💬 Commented on [#11](https://github.com/Alexis12119/nvim-config/pull/11#issuecomment-2119732884) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+4. 💬 Commented on [#11](https://github.com/Alexis12119/nvim-config/pull/11#issuecomment-2119732348) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+5. ⬆️ Pushed 10 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+6. 💪 Opened PR [#11](https://github.com/Alexis12119/nvim-config/pull/11) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+7. ⬆️ Pushed 18 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Monday, 20/5/24 3:05 AM
+Last Updated on Monday, 20/5/24 3:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

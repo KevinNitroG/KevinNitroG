@@ -306,20 +306,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Wsine/AltNumberTab](https://github.com/Wsine/AltNumberTab)<br>
-2. ⭐ Starred [glepnir/nvim](https://github.com/glepnir/nvim)<br>
-3. 💬 Commented on [#12](https://github.com/Alexis12119/nvim-config/pull/12#issuecomment-2120809804) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-4. ⭐ Starred [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian)<br>
-5. 💬 Commented on [#12](https://github.com/Alexis12119/nvim-config/pull/12#issuecomment-2120620011) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-6. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-7. 💪 Opened PR [#12](https://github.com/Alexis12119/nvim-config/pull/12) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-8. ⬆️ Pushed 4 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+3. ⭐ Starred [sxyazi/yazi](https://github.com/sxyazi/yazi)<br>
+4. ⭐ Starred [jarun/nnn](https://github.com/jarun/nnn)<br>
+5. ⭐ Starred [username391/dotfiles](https://github.com/username391/dotfiles)<br>
+6. ⭐ Starred [username391/scripts](https://github.com/username391/scripts)<br>
+7. ⭐ Starred [pwmt/zathura](https://github.com/pwmt/zathura)<br>
+8. ⭐ Starred [jonls/redshift](https://github.com/jonls/redshift)<br>
+9. ⭐ Starred [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)<br>
+10. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 21/5/24 3:05 PM
+Last Updated on Wednesday, 22/5/24 3:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

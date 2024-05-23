@@ -306,20 +306,20 @@ PowerShell               2 repos             █░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-2. ❌ Closed PR [#2](https://github.com/KevinNitroG/windows-dotfiles/pull/2) in [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-3. ❌ Closed PR [#1](https://github.com/KevinNitroG/windows-dotfiles/pull/1) in [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-4. ❌ Closed PR [#1](https://github.com/KevinNitroG/linux-dotfiles/pull/1) in [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-6. ⭐ Starred [Lissy93/dotfiles](https://github.com/Lissy93/dotfiles)<br>
-7. 📔 Created new repository [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-8. ⬆️ Pushed 2 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+1. ⭐ Starred [phuong1492/ocean_claim](https://github.com/phuong1492/ocean_claim)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+3. ⬆️ Pushed 8 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+6. ⭐ Starred [neetcode-gh/leetcode](https://github.com/neetcode-gh/leetcode)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+8. ⭐ Starred [Arrasyid22/vision-](https://github.com/Arrasyid22/vision-)<br>
 9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/DSA-OOP-Practice](https://github.com/KevinNitroG/DSA-OOP-Practice)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 23/5/24 3:05 PM
+Last Updated on Friday, 24/5/24 3:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

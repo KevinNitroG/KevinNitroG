@@ -54,7 +54,7 @@
 	<tfoot>
 		<tr>
 			<td colspan="2">
-				<pre>Hi, I'm a human who loves <strong>Software Engineering</strong><br>but mistakenly chose <strong>Computer Science</strong> 😔</pre>
+				<pre>Hi, I'm a human who loves <strong>Software Engineering</strong><br>but mistakenly chose <strong>Computer Science</strong> 😔<br>Btw I use Arch 😎</pre>
 			</td>
 		</tr>
 	</tfoot>
@@ -145,8 +145,8 @@
 
 <div>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </div>
 <div>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -239,51 +239,50 @@
 <!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Bangkok
 
-💬 Programming Languages: 
-PowerShell               13 hrs 32 mins      ████████░░░░░░░░░░░░░░░░░   33.23 % 
-C++                      7 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-sh                       6 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Other                    3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Assembly                 1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+💬 Programming Languages:
+PowerShell               13 hrs 32 mins      ████████░░░░░░░░░░░░░░░░░   33.23 %
+C++                      7 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.80 %
+sh                       6 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
+Other                    3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+Assembly                 1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
 
-🔥 Editors: 
-Neovim                   17 hrs              ██████████░░░░░░░░░░░░░░░   41.77 % 
-Powershell-Wakatime-Gravi11 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-Zsh                      6 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Word                     3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-VS Code                  1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+🔥 Editors:
+Neovim                   17 hrs              ██████████░░░░░░░░░░░░░░░   41.77 %
+Powershell-Wakatime-Gravi11 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   27.46 %
+Zsh                      6 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
+Word                     3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+VS Code                  1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
 
-🐱‍💻 Projects: 
-Unknown Project          12 hrs 24 mins      ████████░░░░░░░░░░░░░░░░░   30.47 % 
-Terminal                 11 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   28.87 % 
-UIT-DSA                  4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-nvim-alexis12119         3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-UIT-DSA-Wecode           2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+🐱‍💻 Projects:
+Unknown Project          12 hrs 24 mins      ████████░░░░░░░░░░░░░░░░░   30.47 %
+Terminal                 11 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   28.87 %
+UIT-DSA                  4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+nvim-alexis12119         3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+UIT-DSA-Wecode           2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
 
-💻 Operating System: 
-Windows                  30 hrs 48 mins      ███████████████████░░░░░░   75.63 % 
-Linux                    9 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+💻 Operating System:
+Windows                  30 hrs 48 mins      ███████████████████░░░░░░   75.63 %
+Linux                    9 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.37 %
 ```
 
-**I Mostly Code in C++** 
+**I Mostly Code in C++**
 
 ```text
-C++                      12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-Shell                    11 repos            █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Python                   11 repos            █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+C++                      12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.34 %
+Shell                    11 repos            █████░░░░░░░░░░░░░░░░░░░░   18.64 %
+Python                   11 repos            █████░░░░░░░░░░░░░░░░░░░░   18.64 %
+JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.56 %
+PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
+Last Updated on Friday, 24/05/24 at 08:11 AM UTC
 
-
-
- Last Updated on Friday, 24/05/24 at 08:11 AM UTC
 <!--END_SECTION:waka-->
 
 <hr>
@@ -306,6 +305,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
 2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
 3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
@@ -319,7 +319,9 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated on Friday, 24/5/24 3:05 PM
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
@@ -382,13 +384,10 @@ Last Updated on Friday, 24/5/24 3:05 PM
         	</thead>
         	<tbody>
         		<tr>
-        			<td align="center" rowspan="3"><strong>LAPTOP</strong></td>
-        			<td rowspan="3"><a href="https://www.nguyenkim.com/laptop-dell-vostro-5410-v4i5214w1.html">Dell Vostro 5410<em>(V4I5214W1)</em></a></td>
+        			<td align="center" rowspan="2"><strong>LAPTOP</strong></td>
+        			<td rowspan="2"><a href="https://www.nguyenkim.com/laptop-dell-vostro-5410-v4i5214w1.html">Dell Vostro 5410<em>(V4I5214W1)</em></a></td>
         			<td>Windows 11 Home 🪟</td>
     			</tr>
-    			<tr>
-    				<td>Ubuntu 🐧</td>
-        		</tr>
     			<tr>
     				<td>Arch 🐧</td>
         		</tr>
@@ -403,46 +402,6 @@ Last Updated on Friday, 24/5/24 3:05 PM
 </details>
 
 <hr>
-
-<!-- ACCESSORIES SECTION -->
-<!--
-<center>
-<h2 align="center">🎧 ACCESSORIES 🛞</h2>
-    <table align="center">
-    	<thead>
-    		<tr>
-    			<th align="center"><h3><strong>NAME</strong></h3></th>
-    			<th align="center"><h3><strong>DETAIL</strong></h3></th>
-        	</tr>
-        </thead>
-    	<tbody>
-    		<tr>
-    			<td align="center"><strong>EARPHONE</strong></td>
-    			<td>Airpods Pro <em>(Gen 2)</em></td>
-    		</tr>
-            <tr>
-    			<td align="center" rowspan="1"><strong>DRIVE</strong></td>
-    			<td>
-    				<a href="https://www.hdsentinel.com/storageinfo_details.php?lang=en&model=HITACHI%20HTS541075A9E680">HITACHI HTS541075A9E680</a> <em>(750GB HDD)</em> <em>(Anhdv Boot & Data)</em>
-				</td>
-			<!-- </tr>
-				<td>
-					<a href="https://www.amazon.com/Hagibis-Enclosure-Aluminum-External-Solid-State/dp/B0CLTN8PLM">Hagibis 2230 M.2 NVMe SSD</a> <em>(2TB SSD)</em> <em>(Linux + Data)</em>
-    			</td>
-    		</tr>
-    	</tbody>
-    </table>
-</center> -->
-
-<!-- <hr> -->
-
-<!-- PEACE THANKS -->
-
-<!-- <h2 align="center">😶‍🌫️ GLAD THAT THERE ARE PEOPLE HERE 😇</h2>
-
-<div align="center">
-	<img src="https://i.giphy.com/E549VaHiMjknS.webp" alt="Sleeping Totoro" width="400">
-</div> -->
 
 <!-- HOLOPIN SECTION -->
 

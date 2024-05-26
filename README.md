@@ -307,20 +307,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Bingo0508/dotfile](https://github.com/Bingo0508/dotfile)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-4. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-5. 💬 Commented on [#15](https://github.com/Alexis12119/nvim-config/issues/15#issuecomment-2131303776) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-6. 💬 Commented on [#15](https://github.com/Alexis12119/nvim-config/issues/15#issuecomment-2131286813) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-7. ❗️ Opened issue [#15](https://github.com/Alexis12119/nvim-config/issues/15) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-8. ⬆️ Pushed 11 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-9. ⭐ Starred [Coopydood/HyperFluent-GRUB-Theme](https://github.com/Coopydood/HyperFluent-GRUB-Theme)<br>
-10. ⭐ Starred [Thinkright20/Profile-Badges](https://github.com/Thinkright20/Profile-Badges)<br>
+1. ⭐ Starred [rusty-electron/dotfiles](https://github.com/rusty-electron/dotfiles)<br>
+2. ⭐ Starred [undertheseanlp/underthesea](https://github.com/undertheseanlp/underthesea)<br>
+3. 💬 Commented on [#15](https://github.com/Alexis12119/nvim-config/issues/15#issuecomment-2132071997) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+4. ⭐ Starred [nguyenvukhang/dots](https://github.com/nguyenvukhang/dots)<br>
+5. ⭐ Starred [nguyenvukhang/nvim-toggler](https://github.com/nguyenvukhang/nvim-toggler)<br>
+6. ⭐ Starred [Bingo0508/dotfile](https://github.com/Bingo0508/dotfile)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+9. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+10. 💬 Commented on [#15](https://github.com/Alexis12119/nvim-config/issues/15#issuecomment-2131303776) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 26/5/24 3:05 AM
+Last Updated on Sunday, 26/5/24 3:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

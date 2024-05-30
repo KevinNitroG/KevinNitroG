@@ -307,20 +307,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/DSA-OOP-Practice](https://github.com/KevinNitroG/DSA-OOP-Practice)<br>
-2. ❗️ Opened issue [#1](https://github.com/longtoZ/gamestore/issues/1) in [longtoZ/gamestore](https://github.com/longtoZ/gamestore)<br>
+1. ❌ Closed PR [#1](https://github.com/KevinNitroG/Alexis12119-nvim/pull/1) in [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+2. ⬆️ Pushed 4 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-4. 💬 Commented on [#87](https://github.com/LGUG2Z/komorebi-application-specific-configuration/pull/87#issuecomment-2136829689) in [LGUG2Z/komorebi-application-specific-configuration](https://github.com/LGUG2Z/komorebi-application-specific-configuration)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/komorebi-application-specific-configuration](https://github.com/KevinNitroG/komorebi-application-specific-configuration)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+4. ❗️ Opened issue [#16](https://github.com/Alexis12119/nvim-config/issues/16) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/DSA-OOP-Practice](https://github.com/KevinNitroG/DSA-OOP-Practice)<br>
+7. ❗️ Opened issue [#1](https://github.com/longtoZ/gamestore/issues/1) in [longtoZ/gamestore](https://github.com/longtoZ/gamestore)<br>
 8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+9. 💬 Commented on [#87](https://github.com/LGUG2Z/komorebi-application-specific-configuration/pull/87#issuecomment-2136829689) in [LGUG2Z/komorebi-application-specific-configuration](https://github.com/LGUG2Z/komorebi-application-specific-configuration)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/komorebi-application-specific-configuration](https://github.com/KevinNitroG/komorebi-application-specific-configuration)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 30/5/24 3:05 AM
+Last Updated on Thursday, 30/5/24 3:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

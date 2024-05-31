@@ -307,20 +307,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [quang-pth/sorting-visualizer](https://github.com/quang-pth/sorting-visualizer)<br>
-2. ⭐ Starred [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-4. ⭐ Starred [ecosse3/nvim](https://github.com/ecosse3/nvim)<br>
-5. ⭐ Starred [KevinNitroG/ReVanced-auto-build](https://github.com/KevinNitroG/ReVanced-auto-build)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecturer-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecturer-Survey)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
 9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-10. ✔️ Closed issue [#1](https://github.com/longtoZ/gamestore/issues/1) in [longtoZ/gamestore](https://github.com/longtoZ/gamestore)<br>
+10. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 31/5/24 3:05 AM
+Last Updated on Friday, 31/5/24 3:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

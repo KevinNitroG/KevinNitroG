@@ -306,20 +306,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bahamas10/dotfiles](https://github.com/bahamas10/dotfiles)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-3. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2143707927) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
-4. ❗️ Opened issue [#862](https://github.com/LGUG2Z/komorebi/issues/862) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
-5. ⬆️ Pushed 2 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+1. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2143974729) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
+2. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2143949652) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
+3. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2143939462) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
+4. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2143921276) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
+5. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2143879342) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+7. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2143803490) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
+8. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2143799338) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
+9. ⭐ Starred [bahamas10/dotfiles](https://github.com/bahamas10/dotfiles)<br>
 10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 2/6/24 3:06 PM
+Last Updated on Monday, 3/6/24 3:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

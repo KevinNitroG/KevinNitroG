@@ -306,20 +306,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-2. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2144132502) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
-3. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2143974729) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
-4. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2143949652) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
-5. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2143939462) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
-6. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2143921276) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
-7. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2143879342) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-9. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2143803490) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
-10. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2143799338) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
+1. ⬆️ Pushed 343 commit(s) to [KevinNitroG/uYouEnhanced](https://github.com/KevinNitroG/uYouEnhanced)<br>
+2. ❌ Closed PR [#1](https://github.com/KevinNitroG/uYouEnhanced/pull/1) in [KevinNitroG/uYouEnhanced](https://github.com/KevinNitroG/uYouEnhanced)<br>
+3. ❌ Closed PR [#2](https://github.com/KevinNitroG/uYouEnhanced/pull/2) in [KevinNitroG/uYouEnhanced](https://github.com/KevinNitroG/uYouEnhanced)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+7. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2144132502) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
+8. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2143974729) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
+9. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2143949652) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
+10. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2143939462) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Monday, 3/6/24 3:06 PM
+Last Updated on Tuesday, 4/6/24 3:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

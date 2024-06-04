@@ -308,19 +308,19 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-2. ⬆️ Pushed 343 commit(s) to [KevinNitroG/uYouEnhanced](https://github.com/KevinNitroG/uYouEnhanced)<br>
-3. ❌ Closed PR [#1](https://github.com/KevinNitroG/uYouEnhanced/pull/1) in [KevinNitroG/uYouEnhanced](https://github.com/KevinNitroG/uYouEnhanced)<br>
-4. ❌ Closed PR [#2](https://github.com/KevinNitroG/uYouEnhanced/pull/2) in [KevinNitroG/uYouEnhanced](https://github.com/KevinNitroG/uYouEnhanced)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-8. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2144132502) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
-9. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2143974729) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
-10. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2143949652) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+4. 💬 Commented on [#2988](https://github.com/sharkdp/bat/issues/2988#issuecomment-2148107711) in [sharkdp/bat](https://github.com/sharkdp/bat)<br>
+5. ✔️ Closed issue [#2988](https://github.com/sharkdp/bat/issues/2988) in [sharkdp/bat](https://github.com/sharkdp/bat)<br>
+6. ⭐ Starred [petobens/dotfiles](https://github.com/petobens/dotfiles)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+10. ❗️ Opened issue [#2988](https://github.com/sharkdp/bat/issues/2988) in [sharkdp/bat](https://github.com/sharkdp/bat)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 4/6/24 3:06 PM
+Last Updated on Wednesday, 5/6/24 3:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

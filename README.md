@@ -307,20 +307,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Integralist/dotfiles](https://github.com/Integralist/dotfiles)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-6. 💬 Commented on [#2988](https://github.com/sharkdp/bat/issues/2988#issuecomment-2148107711) in [sharkdp/bat](https://github.com/sharkdp/bat)<br>
-7. ✔️ Closed issue [#2988](https://github.com/sharkdp/bat/issues/2988) in [sharkdp/bat](https://github.com/sharkdp/bat)<br>
-8. ⭐ Starred [petobens/dotfiles](https://github.com/petobens/dotfiles)<br>
+1. ❗️ Opened issue [#19](https://github.com/Alexis12119/nvim-config/issues/19) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+3. 💬 Commented on [#18](https://github.com/Alexis12119/nvim-config/issues/18#issuecomment-2150421318) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+4. 💬 Commented on [#18](https://github.com/Alexis12119/nvim-config/issues/18#issuecomment-2150419153) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+5. 💬 Commented on [#18](https://github.com/Alexis12119/nvim-config/issues/18#issuecomment-2150411607) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+7. 💬 Commented on [#18](https://github.com/Alexis12119/nvim-config/issues/18#issuecomment-2150398001) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+8. ⬆️ Pushed 5 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+10. ❗️ Opened issue [#18](https://github.com/Alexis12119/nvim-config/issues/18) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Wednesday, 5/6/24 3:06 PM
+Last Updated on Thursday, 6/6/24 3:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

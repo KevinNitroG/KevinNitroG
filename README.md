@@ -305,20 +305,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dunkbing/typeview](https://github.com/dunkbing/typeview)<br>
-2. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+1. ⭐ Starred [Everduin94/better-commits](https://github.com/Everduin94/better-commits)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/DSA-OOP-Practice](https://github.com/KevinNitroG/DSA-OOP-Practice)<br>
+4. ⭐ Starred [iptivi/apptv1](https://github.com/iptivi/apptv1)<br>
+5. ⭐ Starred [Love4vn/love4vn](https://github.com/Love4vn/love4vn)<br>
 6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/DSA-OOP-Practice](https://github.com/KevinNitroG/DSA-OOP-Practice)<br>
+10. ⭐ Starred [ilammy/msvc-dev-cmd](https://github.com/ilammy/msvc-dev-cmd)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 11/6/24 3:06 PM
+Last Updated on Wednesday, 12/6/24 3:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -305,20 +305,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#25](https://github.com/Alexis12119/nvim-config/pull/25#issuecomment-2164330556) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-2. 💬 Commented on [#25](https://github.com/Alexis12119/nvim-config/pull/25#issuecomment-2164303974) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/DSA-OOP-Practice](https://github.com/KevinNitroG/DSA-OOP-Practice)<br>
-4. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-5. 💪 Opened PR [#25](https://github.com/Alexis12119/nvim-config/pull/25) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-6. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+1. ⬆️ Pushed 5 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+2. 💬 Commented on [#25](https://github.com/Alexis12119/nvim-config/pull/25#issuecomment-2164330556) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+3. 💬 Commented on [#25](https://github.com/Alexis12119/nvim-config/pull/25#issuecomment-2164303974) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/DSA-OOP-Practice](https://github.com/KevinNitroG/DSA-OOP-Practice)<br>
+5. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+6. 💪 Opened PR [#25](https://github.com/Alexis12119/nvim-config/pull/25) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+7. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-9. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-10. ❗️ Opened issue [#24](https://github.com/Alexis12119/nvim-config/issues/24) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+10. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 13/6/24 3:06 PM
+Last Updated on Friday, 14/6/24 3:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

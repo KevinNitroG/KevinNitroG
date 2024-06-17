@@ -306,20 +306,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/DSA-OOP-Practice](https://github.com/KevinNitroG/DSA-OOP-Practice)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-3. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2172191345) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
-4. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2172128176) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+1. ⭐ Starred [charmbracelet/glow](https://github.com/charmbracelet/glow)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/DSA-OOP-Practice](https://github.com/KevinNitroG/DSA-OOP-Practice)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/DSA-OOP-Practice](https://github.com/KevinNitroG/DSA-OOP-Practice)<br>
 6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-7. ⭐ Starred [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-9. ❌ Closed PR [#1](https://github.com/KevinNitroG/zed/pull/1) in [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-10. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+7. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2172191345) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
+8. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2172128176) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Monday, 17/6/24 3:06 PM
+Last Updated on Tuesday, 18/6/24 3:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

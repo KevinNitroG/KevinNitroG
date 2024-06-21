@@ -303,20 +303,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#2](https://github.com/longtoZ/2048/issues/2) in [longtoZ/2048](https://github.com/longtoZ/2048)<br>
-2. ❗️ Opened issue [#1](https://github.com/longtoZ/2048/issues/1) in [longtoZ/2048](https://github.com/longtoZ/2048)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-5. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2179639034) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
-6. 💬 Commented on [#862](https://github.com/LGUG2Z/komorebi/issues/862#issuecomment-2179612393) in [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
-7. ⬆️ Pushed 39 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-9. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+1. ⭐ Starred [omerxx/tmux-floax](https://github.com/omerxx/tmux-floax)<br>
+2. ✔️ Closed issue [#2](https://github.com/longtoZ/2048/issues/2) in [longtoZ/2048](https://github.com/longtoZ/2048)<br>
+3. 💬 Commented on [#1](https://github.com/longtoZ/2048/issues/1#issuecomment-2183042391) in [longtoZ/2048](https://github.com/longtoZ/2048)<br>
+4. ✔️ Closed issue [#1](https://github.com/longtoZ/2048/issues/1) in [longtoZ/2048](https://github.com/longtoZ/2048)<br>
+5. 💬 Commented on [#2](https://github.com/longtoZ/2048/issues/2#issuecomment-2183041389) in [longtoZ/2048](https://github.com/longtoZ/2048)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+8. ❗️ Opened issue [#2](https://github.com/longtoZ/2048/issues/2) in [longtoZ/2048](https://github.com/longtoZ/2048)<br>
+9. ❗️ Opened issue [#1](https://github.com/longtoZ/2048/issues/1) in [longtoZ/2048](https://github.com/longtoZ/2048)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 21/6/24 3:06 PM
+Last Updated on Saturday, 22/6/24 3:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

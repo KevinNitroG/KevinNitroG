@@ -305,20 +305,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+1. ❗️ Opened issue [#29](https://github.com/Alexis12119/nvim-config/issues/29) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
 2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
 3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-4. ⭐ Starred [Cybersnake223/Hypr](https://github.com/Cybersnake223/Hypr)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+5. ⭐ Starred [Duonghoangbn2001/LinhTinh](https://github.com/Duonghoangbn2001/LinhTinh)<br>
 6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
 8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-9. ⭐ Starred [Maasea/sgmodule](https://github.com/Maasea/sgmodule)<br>
-10. ⭐ Starred [app2smile/rules](https://github.com/app2smile/rules)<br>
+9. ⭐ Starred [Cybersnake223/Hypr](https://github.com/Cybersnake223/Hypr)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 30/6/24 3:06 AM
+Last Updated on Sunday, 30/6/24 3:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

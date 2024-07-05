@@ -305,20 +305,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-2. ⬆️ Pushed 9 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-3. ⬆️ Pushed 22 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/DSA-OOP-Practice](https://github.com/KevinNitroG/DSA-OOP-Practice)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/DSA-OOP-Practice](https://github.com/KevinNitroG/DSA-OOP-Practice)<br>
-6. ✌️ Released [My TOEIC](https://github.com/KevinNitroG/Public-Archive-Files/releases/tag/my-toeic) in [KevinNitroG/Public-Archive-Files](https://github.com/KevinNitroG/Public-Archive-Files)<br>
-7. 💬 Commented on [#32](https://github.com/Alexis12119/nvim-config/issues/32#issuecomment-2205600115) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-9. 💬 Commented on [#14](https://github.com/Alexis12119/nvim-config/pull/14#issuecomment-2205179342) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+5. ⭐ Starred [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc)<br>
+6. ⬆️ Pushed 15 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+8. ⬆️ Pushed 9 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+9. ⬆️ Pushed 22 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/DSA-OOP-Practice](https://github.com/KevinNitroG/DSA-OOP-Practice)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 5/7/24 3:07 AM
+Last Updated on Friday, 5/7/24 3:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

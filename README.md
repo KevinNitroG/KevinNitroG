@@ -305,20 +305,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 17 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-2. ⭐ Starred [KevinNitroG/ReVanced-auto-build](https://github.com/KevinNitroG/ReVanced-auto-build)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+1. ⭐ Starred [BsNgChiThanh/Gia-lap-Casio](https://github.com/BsNgChiThanh/Gia-lap-Casio)<br>
+2. ⬆️ Pushed 17 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+3. ⭐ Starred [KevinNitroG/ReVanced-auto-build](https://github.com/KevinNitroG/ReVanced-auto-build)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-7. ⭐ Starred [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc)<br>
-8. ⬆️ Pushed 15 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-10. ⬆️ Pushed 9 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+8. ⭐ Starred [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc)<br>
+9. ⬆️ Pushed 15 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 6/7/24 3:07 AM
+Last Updated on Saturday, 6/7/24 3:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

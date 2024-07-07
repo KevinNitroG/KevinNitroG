@@ -86,29 +86,29 @@
 <h2 align="center">🌐 SOCIAL NETWORKS 📩</h2>
 
 <div align="center" style="text-decoration=none;">
-    <a href="mailto:kevinnitro@duck.com" target="_blank">
-  		<img src="icons/email.svg" alt="Email - kevinnitro@duck.com" height="50" width="50" />
+  <a href="mailto:kevinnitro@duck.com" target="_blank">
+    <img src="icons/email.svg" alt="Email - kevinnitro@duck.com" height="50" width="50" />
 	</a>
-  	<a href="https://www.facebook.com/KevinNitro" target="_blank">
-  		<img src="icons/facebook.svg" alt="Facebook - Trần Nguyễn Thái Bình" height="50" width="50" />
+  <a href="https://www.facebook.com/KevinNitro" target="_blank">
+    <img src="icons/facebook.svg" alt="Facebook - Trần Nguyễn Thái Bình" height="50" width="50" />
 	</a>
-  	<a href="https://t.me/KevinNitro" target="_blank">
-  		<img src="https://cdn-icons-png.flaticon.com/512/1603/1603076.png" alt="Telegram - KevinNitro" height="50" width="50" />
+  <a href="https://t.me/KevinNitro" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1603/1603076.png" alt="Telegram - KevinNitro" height="50" width="50" />
 	</a>
 	<a href="https://discord.com/users/343579767871897570" target="_blank">
-  		<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" alt="Discord - kevin2495" height="50" width="50" />
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" alt="Discord - kevin2495" height="50" width="50" />
 	</a>
-  	<a href="https://www.youtube.com/c/kevinnitro" target="_blank">
+  <a href="https://www.youtube.com/c/kevinnitro" target="_blank">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/450px-YouTube_social_red_circle_%282017%29.svg.png?20220808215554" alt="Youtube - Kevin Nitro" height="50" width="50" />
 	</a>
-  	<a href="https://twitter.com/kevinnitrog" target="_blank">
+  <a href="https://twitter.com/kevinnitrog" target="_blank">
 		<img src="icons/twitter.svg" alt="Twitter - kevinnitrog" height="50" width="50" />
 	</a>
-    <a href="https://instagram.com/KevinNitroG" target="_blank">
-        <img src="icons/instagram.svg" alt="Instagram - KevinNitroG" height="50" width="50" />
+  <a href="https://instagram.com/KevinNitroG" target="_blank">
+    <img src="icons/instagram.svg" alt="Instagram - KevinNitroG" height="50" width="50" />
 	</a>
-	    <a href="https://www.linkedin.com/in/KevinNitro/" target="_blank">
-        <img src="icons/linkedin.svg" alt="Linkedin - Nguyen Thai Binh Tran (KevinNitro)" height="50" width="50" />
+  <a href="https://www.linkedin.com/in/KevinNitro/" target="_blank">
+    <img src="icons/linkedin.svg" alt="Linkedin - Nguyen Thai Binh Tran (KevinNitro)" height="50" width="50" />
 	</a>
 </div>
 
@@ -149,17 +149,19 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </div>
 <div>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3F7CAD?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-  <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F9AB00?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </div>
 <div>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 <div>
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
@@ -199,13 +201,10 @@
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F9AB00?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
 <div>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">

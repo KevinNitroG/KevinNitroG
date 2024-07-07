@@ -168,6 +168,7 @@
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
 </div>
 <div>
+  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white">
   <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
   <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white">
   <img src="https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white">
@@ -210,9 +211,6 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
 </div>
 <div>
-  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white">
-</div>
-<div>
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white">
 </div>
 <div>
@@ -239,50 +237,49 @@
 <!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Bangkok
 
-💬 Programming Languages: 
-sh                       9 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   34.93 % 
-C++                      9 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.28 % 
-Bash                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Lua                      1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Python                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+💬 Programming Languages:
+sh                       9 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   34.93 %
+C++                      9 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.28 %
+Bash                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+Lua                      1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+Python                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
 
-🔥 Editors: 
-Neovim                   16 hrs 40 mins      ███████████████░░░░░░░░░░   60.77 % 
-Zsh                      9 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.00 % 
-VS Code                  1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Unknown Editor           32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+🔥 Editors:
+Neovim                   16 hrs 40 mins      ███████████████░░░░░░░░░░   60.77 %
+Zsh                      9 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.00 %
+VS Code                  1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Unknown Editor           32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 
-🐱‍💻 Projects: 
-Unknown Project          8 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   31.17 % 
-Terminal                 7 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-Code                     6 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-nvim                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-zed                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+🐱‍💻 Projects:
+Unknown Project          8 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   31.17 %
+Terminal                 7 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.84 %
+Code                     6 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.04 %
+nvim                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+zed                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
 
-💻 Operating System: 
-Linux                    19 hrs 45 mins      ██████████████████░░░░░░░   72.00 % 
-Windows                  7 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+💻 Operating System:
+Linux                    19 hrs 45 mins      ██████████████████░░░░░░░   72.00 %
+Windows                  7 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.00 %
 ```
 
-**I Mostly Code in C++** 
+**I Mostly Code in C++**
 
 ```text
-C++                      13 repos            █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-Shell                    11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Python                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+C++                      13 repos            █████░░░░░░░░░░░░░░░░░░░░   20.97 %
+Shell                    11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.74 %
+Python                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.74 %
+JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 %
+PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 
+Last Updated on Sunday, 07/07/24 at 08:11 AM UTC
 
-
-
- Last Updated on Sunday, 07/07/24 at 08:11 AM UTC
 <!--END_SECTION:waka-->
 
 <hr>
@@ -305,6 +302,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
 2. ⬆️ Pushed 12 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
 3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
@@ -318,7 +316,9 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated on Sunday, 7/7/24 3:07 PM
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

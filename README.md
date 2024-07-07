@@ -85,7 +85,7 @@
 
 <h2 align="center">🌐 SOCIAL NETWORKS 📩</h2>
 
-<div align="center">
+<div align="center" style="text-decoration=none;">
     <a href="mailto:kevinnitro@duck.com" target="_blank">
   		<img src="icons/email.svg" alt="Email - kevinnitro@duck.com" height="50" width="50" />
 	</a>

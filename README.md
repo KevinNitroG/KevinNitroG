@@ -297,23 +297,20 @@ Last Updated on Tuesday, 09/07/24 at 08:11 AM UTC
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-3. ⬆️ Pushed 12 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+1. ⭐ Starred [exelban/stats](https://github.com/exelban/stats)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+4. ✌️ Released [Sách cho bạn Thư](https://github.com/KevinNitroG/Public-Archive-Files/releases/tag/books-for-Thu) in [KevinNitroG/Public-Archive-Files](https://github.com/KevinNitroG/Public-Archive-Files)<br>
 5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-6. ⬆️ Pushed 2 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-7. ⭐ Starred [KevinNitroG/GDI-Auto-Update](https://github.com/KevinNitroG/GDI-Auto-Update)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
 8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
 9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-10. ⭐ Starred [jingyi0000/VLM_survey](https://github.com/jingyi0000/VLM_survey)<br>
+10. ⬆️ Pushed 12 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-
-Last Updated on Tuesday, 9/7/24 3:07 PM
-
+Last Updated on Wednesday, 10/7/24 3:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -53,12 +53,8 @@
   </tbody>
   <tfoot>
     <tr>
-      <td colspan="2">
-        <pre>
-          <!-- Hi, I'm a human who loves <strong>Software Engineering</strong><br>but mistakenly chose <strong>Computer Science</strong> 😔 -->
-          <!-- <br> -->
-          I use <strong>Arch</strong> 😎 BTW
-        </pre>
+      <td colspan="2" align="center">
+        <pre>I use <strong>Arch</strong> 😎 BTW</pre>
       </td>
     </tr>
   </tfoot>

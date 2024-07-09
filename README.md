@@ -54,7 +54,11 @@
   <tfoot>
     <tr>
       <td colspan="2">
-        <pre>Hi, I'm a human who loves <strong>Software Engineering</strong><br>but mistakenly chose <strong>Computer Science</strong> 😔<br>Btw I use Arch 😎</pre>
+        <pre>
+          <!-- Hi, I'm a human who loves <strong>Software Engineering</strong><br>but mistakenly chose <strong>Computer Science</strong> 😔 -->
+          <!-- <br> -->
+          I use <strong>Arch</strong> 😎 BTW
+        </pre>
       </td>
     </tr>
   </tfoot>
@@ -144,8 +148,8 @@
 <h2 align="center">⛏️ SKILLS 🔨</h2>
 
 <div>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </div>
 <div>
@@ -153,7 +157,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F9AB00?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+  <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=educative&logoColor=white"> <!-- old logo is powershell -->
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </div>
@@ -178,16 +182,12 @@
 </div>
 <div>
   <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 <div>
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white">
+  <a href="https://leetcode.com/u/KevinNitro/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white">
+  </a>
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </div>
 
@@ -236,50 +236,49 @@
 <!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Bangkok
 
-💬 Programming Languages: 
-C++                      6 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   32.63 % 
-sh                       6 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   30.80 % 
-Lua                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-JavaScript               1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Python                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+💬 Programming Languages:
+C++                      6 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   32.63 %
+sh                       6 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   30.80 %
+Lua                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+JavaScript               1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+Python                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
 
-🔥 Editors: 
-Neovim                   12 hrs 38 mins      ████████████████░░░░░░░░░   63.24 % 
-Zsh                      5 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-VS Code                  1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Unknown Editor           32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+🔥 Editors:
+Neovim                   12 hrs 38 mins      ████████████████░░░░░░░░░   63.24 %
+Zsh                      5 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   28.21 %
+VS Code                  1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Unknown Editor           32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 
-🐱‍💻 Projects: 
-Code                     6 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.59 % 
-Terminal                 4 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-Unknown Project          4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-nvim                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-UIT-DSA                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+🐱‍💻 Projects:
+Code                     6 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.59 %
+Terminal                 4 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.20 %
+Unknown Project          4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 %
+nvim                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+UIT-DSA                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 
-💻 Operating System: 
-Linux                    12 hrs 31 mins      ████████████████░░░░░░░░░   62.69 % 
-Windows                  7 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   37.31 % 
+💻 Operating System:
+Linux                    12 hrs 31 mins      ████████████████░░░░░░░░░   62.69 %
+Windows                  7 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   37.31 %
 ```
 
-**I Mostly Code in C++** 
+**I Mostly Code in C++**
 
 ```text
-C++                      13 repos            █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-Shell                    11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Python                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+C++                      13 repos            █████░░░░░░░░░░░░░░░░░░░░   20.97 %
+Shell                    11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.74 %
+Python                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.74 %
+JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 %
+PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 
+Last Updated on Tuesday, 09/07/24 at 08:11 AM UTC
 
-
-
- Last Updated on Tuesday, 09/07/24 at 08:11 AM UTC
 <!--END_SECTION:waka-->
 
 <hr>
@@ -302,6 +301,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
 2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
 3. ⬆️ Pushed 12 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
@@ -315,7 +315,9 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated on Tuesday, 9/7/24 3:07 PM
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

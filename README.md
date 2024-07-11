@@ -300,18 +300,18 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecture-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecture-Survey)<br>
 2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecture-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecture-Survey)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Full-Screen-Automattic-Rickroller-in-HTML](https://github.com/KevinNitroG/Full-Screen-Automattic-Rickroller-in-HTML)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecture-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecture-Survey)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Full-Screen-Automattic-Rickroller-in-HTML](https://github.com/KevinNitroG/Full-Screen-Automattic-Rickroller-in-HTML)<br>
 5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-6. ⭐ Starred [reisxd/TizenBrew](https://github.com/reisxd/TizenBrew)<br>
-7. ⬆️ Pushed 33 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-9. ⭐ Starred [exelban/stats](https://github.com/exelban/stats)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+7. ⭐ Starred [reisxd/TizenBrew](https://github.com/reisxd/TizenBrew)<br>
+8. ⬆️ Pushed 33 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+10. ⭐ Starred [exelban/stats](https://github.com/exelban/stats)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 11/7/24 3:07 PM
+Last Updated on Friday, 12/7/24 3:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

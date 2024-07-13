@@ -297,20 +297,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [KevinNitroG/UIT-Auto-Lecture-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecture-Survey)<br>
-2. ⬆️ Pushed 27 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-3. 💬 Commented on [#54](https://github.com/declancm/cinnamon.nvim/issues/54#issuecomment-2225749722) in [declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-5. ❗️ Opened issue [#54](https://github.com/declancm/cinnamon.nvim/issues/54) in [declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+1. ⬆️ Pushed 15 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+4. ⭐ Starred [lelinhtinh/de4js](https://github.com/lelinhtinh/de4js)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecture-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecture-Survey)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecture-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecture-Survey)<br>
 7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecture-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecture-Survey)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-10. ⭐ Starred [wochap/nvim](https://github.com/wochap/nvim)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecture-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecture-Survey)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecture-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecture-Survey)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 13/7/24 3:07 PM
+Last Updated on Sunday, 14/7/24 3:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

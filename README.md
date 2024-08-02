@@ -296,19 +296,19 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-2. ⬆️ Pushed 37 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-3. ⭐ Starred [DuongThai2712/CSDL_UIT](https://github.com/DuongThai2712/CSDL_UIT)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-5. 💪 Opened PR [#321](https://github.com/NvChad/ui/pull/321) in [NvChad/ui](https://github.com/NvChad/ui)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/NvChad-ui](https://github.com/KevinNitroG/NvChad-ui)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/NvChad-ui](https://github.com/KevinNitroG/NvChad-ui)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+4. ⬆️ Pushed 37 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+5. ⭐ Starred [DuongThai2712/CSDL_UIT](https://github.com/DuongThai2712/CSDL_UIT)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+7. 💪 Opened PR [#321](https://github.com/NvChad/ui/pull/321) in [NvChad/ui](https://github.com/NvChad/ui)<br>
 8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/NvChad-ui](https://github.com/KevinNitroG/NvChad-ui)<br>
 9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/NvChad-ui](https://github.com/KevinNitroG/NvChad-ui)<br>
-10. 🔱 Forked [KevinNitroG/NvChad-ui](https://github.com/KevinNitroG/NvChad-ui) from [NvChad/ui](https://github.com/NvChad/ui)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/NvChad-ui](https://github.com/KevinNitroG/NvChad-ui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 2/8/24 3:08 AM
+Last Updated on Friday, 2/8/24 3:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

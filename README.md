@@ -295,20 +295,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#52](https://github.com/Alexis12119/nvim-config/pull/52#issuecomment-2269794600) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-3. ⬆️ Pushed 11 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-8. 💬 Commented on [#52](https://github.com/Alexis12119/nvim-config/pull/52#issuecomment-2269304096) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-9. 💪 Opened PR [#52](https://github.com/Alexis12119/nvim-config/pull/52) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+1. ⬆️ Pushed 28 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+2. ⬆️ Pushed 3 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+3. ⬆️ Pushed 10 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+5. ⭐ Starred [AdamXweb/WhiteSurFirefoxThemeMacOS](https://github.com/AdamXweb/WhiteSurFirefoxThemeMacOS)<br>
+6. ⭐ Starred [vinceliuice/WhiteSur-firefox-theme](https://github.com/vinceliuice/WhiteSur-firefox-theme)<br>
+7. ⭐ Starred [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA)<br>
+8. ⭐ Starred [Naezr/ShyFox](https://github.com/Naezr/ShyFox)<br>
+9. 💬 Commented on [#53](https://github.com/Alexis12119/nvim-config/pull/53#issuecomment-2270422964) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+10. 💪 Opened PR [#53](https://github.com/Alexis12119/nvim-config/pull/53) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 6/8/24 3:08 AM
+Last Updated on Wednesday, 7/8/24 3:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

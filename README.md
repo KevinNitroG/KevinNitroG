@@ -268,20 +268,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#54](https://github.com/Alexis12119/nvim-config/issues/54#issuecomment-2278509304) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-2. ⭐ Starred [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC)<br>
-3. ⭐ Starred [phanxuanquang/UIT_SoftwareEngineering_Subjects](https://github.com/phanxuanquang/UIT_SoftwareEngineering_Subjects)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-5. 💬 Commented on [#54](https://github.com/Alexis12119/nvim-config/issues/54#issuecomment-2278385381) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-6. 💬 Commented on [#54](https://github.com/Alexis12119/nvim-config/issues/54#issuecomment-2278370648) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-7. ❗️ Opened issue [#54](https://github.com/Alexis12119/nvim-config/issues/54) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-8. ⬆️ Pushed 21 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+3. 💬 Commented on [#54](https://github.com/Alexis12119/nvim-config/issues/54#issuecomment-2278509304) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+4. ⭐ Starred [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC)<br>
+5. ⭐ Starred [phanxuanquang/UIT_SoftwareEngineering_Subjects](https://github.com/phanxuanquang/UIT_SoftwareEngineering_Subjects)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+7. 💬 Commented on [#54](https://github.com/Alexis12119/nvim-config/issues/54#issuecomment-2278385381) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+8. 💬 Commented on [#54](https://github.com/Alexis12119/nvim-config/issues/54#issuecomment-2278370648) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+9. ❗️ Opened issue [#54](https://github.com/Alexis12119/nvim-config/issues/54) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+10. ⬆️ Pushed 21 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 10/8/24 3:08 AM
+Last Updated on Saturday, 10/8/24 3:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

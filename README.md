@@ -295,20 +295,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 32 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-2. ⭐ Starred [pusher/pusher-js](https://github.com/pusher/pusher-js)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Frontend-Mentor-Social-Links-Profile](https://github.com/KevinNitroG/Frontend-Mentor-Social-Links-Profile)<br>
-4. ⬆️ Pushed 15 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-5. 📔 Created new repository [KevinNitroG/Frontend-Mentor-Social-Links-Profile](https://github.com/KevinNitroG/Frontend-Mentor-Social-Links-Profile)<br>
-6. 💬 Commented on [#1](https://github.com/longtoZ/score-gen-2/issues/1#issuecomment-2291616333) in [longtoZ/score-gen-2](https://github.com/longtoZ/score-gen-2)<br>
-7. ⬆️ Pushed 34 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-8. 💬 Commented on [#1](https://github.com/longtoZ/score-gen-2/issues/1#issuecomment-2291602602) in [longtoZ/score-gen-2](https://github.com/longtoZ/score-gen-2)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-10. ❗️ Opened issue [#1](https://github.com/longtoZ/score-gen-2/issues/1) in [longtoZ/score-gen-2](https://github.com/longtoZ/score-gen-2)<br>
+1. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+2. ⬆️ Pushed 23 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+3. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+4. ⬆️ Pushed 32 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+5. ⭐ Starred [pusher/pusher-js](https://github.com/pusher/pusher-js)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Frontend-Mentor-Social-Links-Profile](https://github.com/KevinNitroG/Frontend-Mentor-Social-Links-Profile)<br>
+7. ⬆️ Pushed 15 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+8. 📔 Created new repository [KevinNitroG/Frontend-Mentor-Social-Links-Profile](https://github.com/KevinNitroG/Frontend-Mentor-Social-Links-Profile)<br>
+9. 💬 Commented on [#1](https://github.com/longtoZ/score-gen-2/issues/1#issuecomment-2291616333) in [longtoZ/score-gen-2](https://github.com/longtoZ/score-gen-2)<br>
+10. ⬆️ Pushed 34 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 17/8/24 3:08 PM
+Last Updated on Sunday, 18/8/24 3:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

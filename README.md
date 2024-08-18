@@ -398,11 +398,11 @@ Last Updated on Sunday, 18/8/24 3:08 PM
     <summary align="center">
         <kbd>Click here to expand</kbd>
     </summary>
-    <center>
+    <div align="center">
         <a href="https://app.daily.dev/kevinnitro">
             <img src="https://api.daily.dev/devcards/v2/IKcvSxX1waAoBWQLjYP5j.png?type=wide&r=p4c" width="570" alt="Kevin Nitro's Dev Card"/>
         </a>
-    </center>
+    </div>
 </details>
 
 <hr>
@@ -415,9 +415,9 @@ Last Updated on Sunday, 18/8/24 3:08 PM
     <summary align="center">
         <kbd>Click here to expand</kbd>
     </summary>
-    <center>
+    <div align="center">
         <a href="https://holopin.io/@kevinnitrog">
             <img src="https://holopin.me/kevinnitrog" alt="@KevinNitroG's Holopin board" />
         </a>
-    </center>
+    </div>
 </details>

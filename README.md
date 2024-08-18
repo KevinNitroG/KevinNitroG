@@ -390,10 +390,34 @@ Last Updated on Sunday, 18/8/24 3:08 PM
 
 <hr>
 
+<!-- DAILY.DEV SECTION -->
+
+<h2 align="center">📆 DAILY DEV 🗓️</h2>
+
+<details>
+    <summary align="center">
+        <kbd>Click here to expand</kbd>
+    </summary>
+    <center>
+        <a href="https://app.daily.dev/kevinnitro">
+            <img src="https://api.daily.dev/devcards/v2/IKcvSxX1waAoBWQLjYP5j.png?type=wide&r=p4c" width="570" alt="Kevin Nitro's Dev Card"/>
+        </a>
+    </center>
+</details>
+
+<hr>
+
 <!-- HOLOPIN SECTION -->
 
 <h2 align="center">😶‍🌫️ HOLOPIN 🦖</h2>
 
-<a href="https://holopin.io/@kevinnitrog">
-  <img src="https://holopin.me/kevinnitrog" alt="@KevinNitroG's Holopin board" />
-</a>
+<details>
+    <summary align="center">
+        <kbd>Click here to expand</kbd>
+    </summary>
+    <center>
+        <a href="https://holopin.io/@kevinnitrog">
+            <img src="https://holopin.me/kevinnitrog" alt="@KevinNitroG's Holopin board" />
+        </a>
+    </center>
+</details>

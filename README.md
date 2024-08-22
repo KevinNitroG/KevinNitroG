@@ -297,19 +297,19 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Web-TOTP](https://github.com/KevinNitroG/Web-TOTP)<br>
-2. ⬆️ Pushed 15 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Web-TOTP](https://github.com/KevinNitroG/Web-TOTP)<br>
-5. ⭐ Starred [nchudleigh/vimac](https://github.com/nchudleigh/vimac)<br>
-6. ⭐ Starred [nchudleigh/homerow](https://github.com/nchudleigh/homerow)<br>
-7. ⬆️ Pushed 26 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-8. 📔 Created new repository [KevinNitroG/Web-TOTP](https://github.com/KevinNitroG/Web-TOTP)<br>
-9. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+2. ⭐ Starred [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Web-TOTP](https://github.com/KevinNitroG/Web-TOTP)<br>
+4. ⬆️ Pushed 15 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Web-TOTP](https://github.com/KevinNitroG/Web-TOTP)<br>
+7. ⭐ Starred [nchudleigh/vimac](https://github.com/nchudleigh/vimac)<br>
+8. ⭐ Starred [nchudleigh/homerow](https://github.com/nchudleigh/homerow)<br>
+9. ⬆️ Pushed 26 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+10. 📔 Created new repository [KevinNitroG/Web-TOTP](https://github.com/KevinNitroG/Web-TOTP)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 22/8/24 3:08 AM
+Last Updated on Thursday, 22/8/24 3:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

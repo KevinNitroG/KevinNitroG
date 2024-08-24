@@ -296,20 +296,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Morantron/tmux-fingers](https://github.com/Morantron/tmux-fingers)<br>
-2. ⬆️ Pushed 38 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Web-TOTP](https://github.com/KevinNitroG/Web-TOTP)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-7. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-8. ⭐ Starred [colinhacks/zod](https://github.com/colinhacks/zod)<br>
-9. ⬆️ Pushed 39 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Web-TOTP](https://github.com/KevinNitroG/Web-TOTP)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Web-TOTP](https://github.com/KevinNitroG/Web-TOTP)<br>
+2. ⬆️ Pushed 9 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+3. ⬆️ Pushed 4 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Web-TOTP](https://github.com/KevinNitroG/Web-TOTP)<br>
+6. ⭐ Starred [Morantron/tmux-fingers](https://github.com/Morantron/tmux-fingers)<br>
+7. ⬆️ Pushed 38 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Web-TOTP](https://github.com/KevinNitroG/Web-TOTP)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 24/8/24 3:08 PM
+Last Updated on Sunday, 25/8/24 3:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

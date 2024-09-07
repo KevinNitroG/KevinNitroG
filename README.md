@@ -146,12 +146,17 @@
 <div>
   <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> -->
+  <!-- <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"> -->
+  <!-- <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"> -->
 </div>
 <div>
   <img src="https://img.shields.io/badge/Python-3F7CAD?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F9AB00?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=educative&logoColor=white"> <!-- old logo is powershell -->
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
@@ -171,12 +176,13 @@
 </div>
 <div>
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white">
-  <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
   <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white">
-  <img src="https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white">
-  <img src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white">
+  <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white"> -->
+  <!-- <img src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white"> -->
 </div>
 <div>
+  <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white">
   <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
@@ -195,9 +201,6 @@
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
 </div>
 <div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
 <div>
@@ -232,49 +235,48 @@
 <!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Bangkok
 
-💬 Programming Languages: 
-JavaScript               3 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   31.99 % 
-Lua                      2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Bash                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-TypeScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Git                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+💬 Programming Languages:
+JavaScript               3 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   31.99 %
+Lua                      2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.51 %
+Bash                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+TypeScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+Git                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
 
-🔥 Editors: 
-Neovim                   10 hrs 27 mins      ████████████████████████░   96.23 % 
-Visual Studio            23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+🔥 Editors:
+Neovim                   10 hrs 27 mins      ████████████████████████░   96.23 %
+Visual Studio            23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 
-🐱‍💻 Projects: 
-Code                     3 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   36.46 % 
-nvim                     2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-Unknown Project          2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-web-totp                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Hello Word               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+🐱‍💻 Projects:
+Code                     3 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   36.46 %
+nvim                     2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.81 %
+Unknown Project          2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.58 %
+web-totp                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+Hello Word               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
 
-💻 Operating System: 
-Linux                    8 hrs 29 mins       ████████████████████░░░░░   78.22 % 
-Windows                  2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+💻 Operating System:
+Linux                    8 hrs 29 mins       ████████████████████░░░░░   78.22 %
+Windows                  2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.78 %
 ```
 
-**I Mostly Code in C++** 
+**I Mostly Code in C++**
 
 ```text
-C++                      13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Shell                    12 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+C++                      13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.84 %
+Shell                    12 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.39 %
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
+Last Updated on Saturday, 07/09/24 at 08:11 AM UTC
 
-
-
- Last Updated on Saturday, 07/09/24 at 08:11 AM UTC
 <!--END_SECTION:waka-->
 
 <hr>
@@ -297,6 +299,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 3. ⬆️ Pushed 38 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
@@ -310,7 +313,9 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated on Saturday, 7/9/24 3:09 PM
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

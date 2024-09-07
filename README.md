@@ -299,23 +299,20 @@ Last Updated on Saturday, 07/09/24 at 08:11 AM UTC
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-3. ⬆️ Pushed 38 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+1. ⬆️ Pushed 16 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+2. 💪 Opened PR [#735](https://github.com/Ileriayo/markdown-badges/pull/735) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/markdown-badges](https://github.com/KevinNitroG/markdown-badges)<br>
+4. 🔱 Forked [KevinNitroG/markdown-badges](https://github.com/KevinNitroG/markdown-badges) from [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-9. ⬆️ Pushed 33 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+8. ⬆️ Pushed 38 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-
-Last Updated on Saturday, 7/9/24 3:09 PM
-
+Last Updated on Sunday, 8/9/24 3:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

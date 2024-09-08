@@ -300,20 +300,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 16 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-2. 💪 Opened PR [#735](https://github.com/Ileriayo/markdown-badges/pull/735) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/markdown-badges](https://github.com/KevinNitroG/markdown-badges)<br>
-4. 🔱 Forked [KevinNitroG/markdown-badges](https://github.com/KevinNitroG/markdown-badges) from [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitro-s-UIT/IT012](https://github.com/KevinNitro-s-UIT/IT012)<br>
+2. 📔 Created new repository [KevinNitro-s-UIT/IT012](https://github.com/KevinNitro-s-UIT/IT012)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-8. ⬆️ Pushed 38 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+7. ⭐ Starred [ant-design/ant-design](https://github.com/ant-design/ant-design)<br>
+8. ⭐ Starred [mui/material-ui](https://github.com/mui/material-ui)<br>
+9. ⭐ Starred [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>
+10. ⭐ Starred [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 8/9/24 3:09 AM
+Last Updated on Sunday, 8/9/24 3:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

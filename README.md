@@ -302,20 +302,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 11 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-2. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-5. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-6. ⬆️ Pushed 12 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+3. ⭐ Starred [autruonggiang/IT007-OS-Lab](https://github.com/autruonggiang/IT007-OS-Lab)<br>
+4. ⭐ Starred [PhamThe-KHDL/IT007.M14-Operating-Systems](https://github.com/PhamThe-KHDL/IT007.M14-Operating-Systems)<br>
+5. ⭐ Starred [anhkiet1227/IT007_Operation-System_Excercise](https://github.com/anhkiet1227/IT007_Operation-System_Excercise)<br>
+6. ⬆️ Pushed 11 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+7. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-9. ⬆️ Pushed 5 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+10. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 14/9/24 3:09 AM
+Last Updated on Saturday, 14/9/24 3:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

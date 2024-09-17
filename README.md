@@ -271,20 +271,20 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-2. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-3. ⭐ Starred [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support)<br>
-4. ⬆️ Pushed 2 commit(s) to [KevinNitro-s-UIT/IT008](https://github.com/KevinNitro-s-UIT/IT008)<br>
-5. ⬆️ Pushed 7 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-6. 💬 Commented on [#463](https://github.com/rest-nvim/rest.nvim/issues/463#issuecomment-2351590105) in [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitro-s-UIT/IT008](https://github.com/KevinNitro-s-UIT/IT008)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitro-s-UIT/IT008](https://github.com/KevinNitro-s-UIT/IT008)<br>
+1. ⬆️ Pushed 2 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+2. ⭐ Starred [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+4. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+5. ⭐ Starred [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support)<br>
+6. ⬆️ Pushed 2 commit(s) to [KevinNitro-s-UIT/IT008](https://github.com/KevinNitro-s-UIT/IT008)<br>
+7. ⬆️ Pushed 7 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+8. 💬 Commented on [#463](https://github.com/rest-nvim/rest.nvim/issues/463#issuecomment-2351590105) in [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 17/9/24 3:09 AM
+Last Updated on Tuesday, 17/9/24 3:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

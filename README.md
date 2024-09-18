@@ -302,20 +302,20 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#53](https://github.com/aznhe21/actions-preview.nvim/issues/53) in [aznhe21/actions-preview.nvim](https://github.com/aznhe21/actions-preview.nvim)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitro-s-UIT/IT008](https://github.com/KevinNitro-s-UIT/IT008)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitro-s-UIT/IT008](https://github.com/KevinNitro-s-UIT/IT008)<br>
-5. ⬆️ Pushed 2 commit(s) to [KevinNitro-s-UIT/IT008](https://github.com/KevinNitro-s-UIT/IT008)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitro-s-UIT/IT008](https://github.com/KevinNitro-s-UIT/IT008)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitro-s-UIT/IT008](https://github.com/KevinNitro-s-UIT/IT008)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitro-s-UIT/IT008](https://github.com/KevinNitro-s-UIT/IT008)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+3. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+4. ❗️ Opened issue [#60](https://github.com/Alexis12119/nvim-config/issues/60) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+5. 💬 Commented on [#53](https://github.com/aznhe21/actions-preview.nvim/issues/53#issuecomment-2358502793) in [aznhe21/actions-preview.nvim](https://github.com/aznhe21/actions-preview.nvim)<br>
+6. 💬 Commented on [#53](https://github.com/aznhe21/actions-preview.nvim/issues/53#issuecomment-2358273614) in [aznhe21/actions-preview.nvim](https://github.com/aznhe21/actions-preview.nvim)<br>
+7. ❗️ Opened issue [#53](https://github.com/aznhe21/actions-preview.nvim/issues/53) in [aznhe21/actions-preview.nvim](https://github.com/aznhe21/actions-preview.nvim)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 10. ⬆️ Pushed 2 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Wednesday, 18/9/24 3:09 PM
+Last Updated on Thursday, 19/9/24 3:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -303,20 +303,20 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 152 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-2. 💬 Commented on [#60](https://github.com/Alexis12119/nvim-config/issues/60#issuecomment-2359730806) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-3. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-4. 💬 Commented on [#60](https://github.com/Alexis12119/nvim-config/issues/60#issuecomment-2359727869) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-5. 💬 Commented on [#60](https://github.com/Alexis12119/nvim-config/issues/60#issuecomment-2359720737) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-6. 💬 Commented on [#60](https://github.com/Alexis12119/nvim-config/issues/60#issuecomment-2359719447) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+1. 💬 Commented on [#60](https://github.com/Alexis12119/nvim-config/issues/60#issuecomment-2363924080) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+2. ⬆️ Pushed 152 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+3. 💬 Commented on [#60](https://github.com/Alexis12119/nvim-config/issues/60#issuecomment-2359730806) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+4. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+5. 💬 Commented on [#60](https://github.com/Alexis12119/nvim-config/issues/60#issuecomment-2359727869) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+6. 💬 Commented on [#60](https://github.com/Alexis12119/nvim-config/issues/60#issuecomment-2359720737) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+7. 💬 Commented on [#60](https://github.com/Alexis12119/nvim-config/issues/60#issuecomment-2359719447) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
 8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-9. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-10. ❗️ Opened issue [#60](https://github.com/Alexis12119/nvim-config/issues/60) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+10. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 20/9/24 3:09 PM
+Last Updated on Saturday, 21/9/24 3:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -302,20 +302,20 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#60](https://github.com/Alexis12119/nvim-config/issues/60#issuecomment-2363924080) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-2. ⬆️ Pushed 152 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-3. 💬 Commented on [#60](https://github.com/Alexis12119/nvim-config/issues/60#issuecomment-2359730806) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-4. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-5. 💬 Commented on [#60](https://github.com/Alexis12119/nvim-config/issues/60#issuecomment-2359727869) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-6. 💬 Commented on [#60](https://github.com/Alexis12119/nvim-config/issues/60#issuecomment-2359720737) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-7. 💬 Commented on [#60](https://github.com/Alexis12119/nvim-config/issues/60#issuecomment-2359719447) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-10. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+1. ⭐ Starred [NTGNguyen/IT004-CS115-UIT](https://github.com/NTGNguyen/IT004-CS115-UIT)<br>
+2. ⭐ Starred [NTGNguyen/IT004-CS115-UIT](https://github.com/NTGNguyen/IT004-CS115-UIT)<br>
+3. ⭐ Starred [LQK164/IT004](https://github.com/LQK164/IT004)<br>
+4. ⭐ Starred [anhkiet1227/IT004_Database_Excercise_Teaching-Management](https://github.com/anhkiet1227/IT004_Database_Excercise_Teaching-Management)<br>
+5. ⭐ Starred [dattrieuK17/IT004](https://github.com/dattrieuK17/IT004)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+8. 💬 Commented on [#60](https://github.com/Alexis12119/nvim-config/issues/60#issuecomment-2363924080) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+9. ⬆️ Pushed 152 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+10. 💬 Commented on [#60](https://github.com/Alexis12119/nvim-config/issues/60#issuecomment-2359730806) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 21/9/24 3:09 PM
+Last Updated on Sunday, 22/9/24 3:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

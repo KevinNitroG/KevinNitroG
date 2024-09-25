@@ -301,20 +301,20 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 25 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/VNULIB-Downloader](https://github.com/KevinNitroG/VNULIB-Downloader)<br>
-3. ⬆️ Pushed 9 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-5. ⬆️ Pushed 32 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-6. 💬 Commented on [#2](https://github.com/NTGNguyen/IT004-CS115-UIT/issues/2#issuecomment-2366845031) in [NTGNguyen/IT004-CS115-UIT](https://github.com/NTGNguyen/IT004-CS115-UIT)<br>
-7. ⭐ Starred [NTGNguyen/IT004-CS115-UIT](https://github.com/NTGNguyen/IT004-CS115-UIT)<br>
-8. ⭐ Starred [NTGNguyen/IT004-CS115-UIT](https://github.com/NTGNguyen/IT004-CS115-UIT)<br>
-9. ⭐ Starred [LQK164/IT004](https://github.com/LQK164/IT004)<br>
-10. ⭐ Starred [anhkiet1227/IT004_Database_Excercise_Teaching-Management](https://github.com/anhkiet1227/IT004_Database_Excercise_Teaching-Management)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/VNULIB-Downloader](https://github.com/KevinNitroG/VNULIB-Downloader)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+3. ⬆️ Pushed 25 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/VNULIB-Downloader](https://github.com/KevinNitroG/VNULIB-Downloader)<br>
+5. ⬆️ Pushed 9 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+7. ⬆️ Pushed 32 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+8. 💬 Commented on [#2](https://github.com/NTGNguyen/IT004-CS115-UIT/issues/2#issuecomment-2366845031) in [NTGNguyen/IT004-CS115-UIT](https://github.com/NTGNguyen/IT004-CS115-UIT)<br>
+9. ⭐ Starred [NTGNguyen/IT004-CS115-UIT](https://github.com/NTGNguyen/IT004-CS115-UIT)<br>
+10. ⭐ Starred [NTGNguyen/IT004-CS115-UIT](https://github.com/NTGNguyen/IT004-CS115-UIT)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Wednesday, 25/9/24 3:09 AM
+Last Updated on Wednesday, 25/9/24 3:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

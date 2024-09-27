@@ -301,20 +301,20 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 6 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-2. ⬆️ Pushed 28 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-3. 💬 Commented on [#62](https://github.com/Alexis12119/nvim-config/pull/62#issuecomment-2377283267) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-4. ⭐ Starred [r00tee/Proxy-List](https://github.com/r00tee/Proxy-List)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-6. ⭐ Starred [reisxd/TizenTube](https://github.com/reisxd/TizenTube)<br>
-7. ⬆️ Pushed 33 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/VNULIB-Downloader](https://github.com/KevinNitroG/VNULIB-Downloader)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-10. ⬆️ Pushed 25 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+1. ⭐ Starred [cgsdev0/termsand](https://github.com/cgsdev0/termsand)<br>
+2. ⬆️ Pushed 21 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+3. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitro-s-UIT/IT004](https://github.com/KevinNitro-s-UIT/IT004)<br>
+6. ⬆️ Pushed 2 commit(s) to [KevinNitro-s-UIT/IT004](https://github.com/KevinNitro-s-UIT/IT004)<br>
+7. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+8. 📔 Created new repository [KevinNitro-s-UIT/IT004](https://github.com/KevinNitro-s-UIT/IT004)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+10. ⬆️ Pushed 6 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 27/9/24 3:09 PM
+Last Updated on Saturday, 28/9/24 3:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

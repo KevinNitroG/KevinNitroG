@@ -301,20 +301,20 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-2. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-3. ⬆️ Pushed 18 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-4. ⬆️ Pushed 26 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-5. ⬆️ Pushed 17 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-7. ⬆️ Pushed 22 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-8. ⬆️ Pushed 19 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-9. ⬆️ Pushed 3 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+1. ⬆️ Pushed 8 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+3. ⬆️ Pushed 3 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+4. ⬆️ Pushed 18 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+5. ⬆️ Pushed 26 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+6. ⬆️ Pushed 17 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+8. ⬆️ Pushed 22 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+9. ⬆️ Pushed 19 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
+10. ⬆️ Pushed 3 commit(s) to [KevinNitroG/zed](https://github.com/KevinNitroG/zed)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 5/10/24 3:10 PM
+Last Updated on Sunday, 6/10/24 3:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

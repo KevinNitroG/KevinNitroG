@@ -302,20 +302,20 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-3. ⭐ Starred [AbdallahHemdan/Sorting-Visualizer](https://github.com/AbdallahHemdan/Sorting-Visualizer)<br>
-4. ⬆️ Pushed 2 commit(s) to [KevinNitroG/UIT-Auto-Lecture-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecture-Survey)<br>
-5. ⭐ Starred [alebeck/boring](https://github.com/alebeck/boring)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitro-s-UIT/IT004](https://github.com/KevinNitro-s-UIT/IT004)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+4. ⭐ Starred [AbdallahHemdan/Sorting-Visualizer](https://github.com/AbdallahHemdan/Sorting-Visualizer)<br>
+5. ⬆️ Pushed 2 commit(s) to [KevinNitroG/UIT-Auto-Lecture-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecture-Survey)<br>
+6. ⭐ Starred [alebeck/boring](https://github.com/alebeck/boring)<br>
 7. ⬆️ Pushed 1 commit(s) to [KevinNitro-s-UIT/IT004](https://github.com/KevinNitro-s-UIT/IT004)<br>
-8. 💬 Commented on [#735](https://github.com/Ileriayo/markdown-badges/pull/735#issuecomment-2409583304) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)<br>
-9. ❌ Closed PR [#735](https://github.com/Ileriayo/markdown-badges/pull/735) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitro-s-UIT/IT004](https://github.com/KevinNitro-s-UIT/IT004)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitro-s-UIT/IT004](https://github.com/KevinNitro-s-UIT/IT004)<br>
+9. 💬 Commented on [#735](https://github.com/Ileriayo/markdown-badges/pull/735#issuecomment-2409583304) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)<br>
+10. ❌ Closed PR [#735](https://github.com/Ileriayo/markdown-badges/pull/735) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 25/10/24 3:10 AM
+Last Updated on Friday, 25/10/24 3:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

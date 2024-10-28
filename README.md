@@ -298,20 +298,20 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [KevinNitroG/ReVanced-auto-build](https://github.com/KevinNitroG/ReVanced-auto-build)<br>
-2. ⭐ Starred [ssssssander/youtube-more-speeds](https://github.com/ssssssander/youtube-more-speeds)<br>
-3. ⭐ Starred [osm0sis/PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork)<br>
-4. ⭐ Starred [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-8. ⭐ Starred [AbdallahHemdan/Sorting-Visualizer](https://github.com/AbdallahHemdan/Sorting-Visualizer)<br>
-9. ⬆️ Pushed 2 commit(s) to [KevinNitroG/UIT-Auto-Lecture-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecture-Survey)<br>
-10. ⭐ Starred [alebeck/boring](https://github.com/alebeck/boring)<br>
+1. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+2. ⭐ Starred [Isrothy/neominimap.nvim](https://github.com/Isrothy/neominimap.nvim)<br>
+3. ⬆️ Pushed 3 commit(s) to [KevinNitroG/ReVanced-auto-build](https://github.com/KevinNitroG/ReVanced-auto-build)<br>
+4. ⭐ Starred [ssssssander/youtube-more-speeds](https://github.com/ssssssander/youtube-more-speeds)<br>
+5. ⭐ Starred [osm0sis/PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork)<br>
+6. ⭐ Starred [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+10. ⭐ Starred [AbdallahHemdan/Sorting-Visualizer](https://github.com/AbdallahHemdan/Sorting-Visualizer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Monday, 28/10/24 3:10 PM
+Last Updated on Tuesday, 29/10/24 3:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

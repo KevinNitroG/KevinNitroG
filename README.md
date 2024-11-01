@@ -301,20 +301,20 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-4. ⭐ Starred [orbstack/orbstack](https://github.com/orbstack/orbstack)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-6. ⭐ Starred [ejbills/DockDoor](https://github.com/ejbills/DockDoor)<br>
-7. ⬆️ Pushed 2 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
-8. ⭐ Starred [Isrothy/neominimap.nvim](https://github.com/Isrothy/neominimap.nvim)<br>
-9. ⬆️ Pushed 3 commit(s) to [KevinNitroG/ReVanced-auto-build](https://github.com/KevinNitroG/ReVanced-auto-build)<br>
-10. ⭐ Starred [ssssssander/youtube-more-speeds](https://github.com/ssssssander/youtube-more-speeds)<br>
+1. ⭐ Starred [nathanjukes/Sorting-Algorithm-Visualisation-Tool](https://github.com/nathanjukes/Sorting-Algorithm-Visualisation-Tool)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitro-s-UIT/IT007](https://github.com/KevinNitro-s-UIT/IT007)<br>
+3. 📔 Created new repository [KevinNitro-s-UIT/IT007](https://github.com/KevinNitro-s-UIT/IT007)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+9. ⭐ Starred [orbstack/orbstack](https://github.com/orbstack/orbstack)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/Alexis12119-nvim](https://github.com/KevinNitroG/Alexis12119-nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 1/11/24 3:11 AM
+Last Updated on Friday, 1/11/24 3:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

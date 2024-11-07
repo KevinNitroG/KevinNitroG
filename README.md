@@ -304,19 +304,19 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT002](https://github.com/KevMi-UIT/IT002)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT007](https://github.com/KevMi-UIT/IT007)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT007](https://github.com/KevMi-UIT/IT007)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT007](https://github.com/KevMi-UIT/IT007)<br>
+2. ⭐ Starred [orhun/git-cliff](https://github.com/orhun/git-cliff)<br>
+3. ⭐ Starred [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)<br>
+4. ⭐ Starred [softprops/action-gh-release](https://github.com/softprops/action-gh-release)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT002](https://github.com/KevMi-UIT/IT002)<br>
 7. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT007](https://github.com/KevMi-UIT/IT007)<br>
-8. 💬 Commented on [#69](https://github.com/Alexis12119/nvim-config/issues/69#issuecomment-2454638244) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-9. 💬 Commented on [#69](https://github.com/Alexis12119/nvim-config/issues/69#issuecomment-2453806443) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-10. ⬆️ Pushed 2 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT007](https://github.com/KevMi-UIT/IT007)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT007](https://github.com/KevMi-UIT/IT007)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 7/11/24 3:11 PM
+Last Updated on Friday, 8/11/24 3:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

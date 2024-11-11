@@ -303,20 +303,20 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 23 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-5. ⭐ Starred [PowerShell/PSResourceGet](https://github.com/PowerShell/PSResourceGet)<br>
-6. ⭐ Starred [whame/tmux-modal](https://github.com/whame/tmux-modal)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-8. ⭐ Starred [orhun/git-cliff](https://github.com/orhun/git-cliff)<br>
-9. ⭐ Starred [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)<br>
-10. ⭐ Starred [softprops/action-gh-release](https://github.com/softprops/action-gh-release)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+2. ⬆️ Pushed 3 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
+4. ⬆️ Pushed 2 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
+7. ⬆️ Pushed 2 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
+8. ⬆️ Pushed 23 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Monday, 11/11/24 3:11 AM
+Last Updated on Monday, 11/11/24 3:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -301,20 +301,20 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pamburus/hl](https://github.com/pamburus/hl)<br>
-2. ⬆️ Pushed 3 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
+1. ⭐ Starred [RFS-ADRENO/fbapy](https://github.com/RFS-ADRENO/fbapy)<br>
+2. ⭐ Starred [pamburus/hl](https://github.com/pamburus/hl)<br>
+3. ⬆️ Pushed 3 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
 4. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
-5. 💬 Commented on [#15](https://github.com/KevMi-UIT/IT008-ViSort/pull/15#issuecomment-2492809616) in [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
+6. 💬 Commented on [#15](https://github.com/KevMi-UIT/IT008-ViSort/pull/15#issuecomment-2492809616) in [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
 7. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
-8. 🎉 Merged PR [#16](https://github.com/KevMi-UIT/IT008-ViSort/pull/16) in [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
-10. ⭐ Starred [er2de2/catppuccin_walls](https://github.com/er2de2/catppuccin_walls)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
+9. 🎉 Merged PR [#16](https://github.com/KevMi-UIT/IT008-ViSort/pull/16) in [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 23/11/24 3:11 PM
+Last Updated on Sunday, 24/11/24 3:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

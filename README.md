@@ -305,17 +305,17 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 1. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
 2. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
 3. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
-4. 🎉 Merged PR [#18](https://github.com/KevMi-UIT/IT008-ViSort/pull/18) in [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
+4. ⬆️ Pushed 2 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
 5. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
-6. ⬆️ Pushed 3 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/ReVanced-auto-build](https://github.com/KevinNitroG/ReVanced-auto-build)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/ReVanced-auto-build](https://github.com/KevinNitroG/ReVanced-auto-build)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/ReVanced-auto-build](https://github.com/KevinNitroG/ReVanced-auto-build)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/ReVanced-auto-build](https://github.com/KevinNitroG/ReVanced-auto-build)<br>
+6. 🎉 Merged PR [#20](https://github.com/KevMi-UIT/IT008-ViSort/pull/20) in [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
+8. ⬆️ Pushed 4 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 28/11/24 3:11 PM
+Last Updated on Friday, 29/11/24 3:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

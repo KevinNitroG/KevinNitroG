@@ -302,20 +302,20 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
-2. 💬 Commented on [#71](https://github.com/Alexis12119/nvim-config/pull/71#issuecomment-2517112127) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT007](https://github.com/KevMi-UIT/IT007)<br>
-4. ⭐ Starred [yxyzjuGIT/TrafficMonitor](https://github.com/yxyzjuGIT/TrafficMonitor)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-6. 💪 Opened PR [#71](https://github.com/Alexis12119/nvim-config/pull/71) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-8. ⭐ Starred [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT007](https://github.com/KevMi-UIT/IT007)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+4. ❗️ Opened issue [#72](https://github.com/Alexis12119/nvim-config/issues/72) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+5. 💬 Commented on [#295](https://github.com/rcarriga/nvim-notify/issues/295#issuecomment-2517878185) in [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify)<br>
+6. ⬆️ Pushed 3 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+7. ⬆️ Pushed 2 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+8. 💬 Commented on [#1252](https://github.com/L3MON4D3/LuaSnip/pull/1252#issuecomment-2517667311) in [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip)<br>
+9. ⬆️ Pushed 2 commit(s) to [KevMi-UIT/IT004](https://github.com/KevMi-UIT/IT004)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT004](https://github.com/KevMi-UIT/IT004)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 5/12/24 3:12 AM
+Last Updated on Thursday, 5/12/24 3:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -303,20 +303,20 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-battery-check](https://github.com/KevinNitroG/win-battery-check)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-battery-check](https://github.com/KevinNitroG/win-battery-check)<br>
-3. ❌ Closed PR [#2](https://github.com/KevinNitroG/win-battery-check/pull/2) in [KevinNitroG/win-battery-check](https://github.com/KevinNitroG/win-battery-check)<br>
-4. ❌ Closed PR [#1](https://github.com/KevinNitroG/win-battery-check/pull/1) in [KevinNitroG/win-battery-check](https://github.com/KevinNitroG/win-battery-check)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-battery-check](https://github.com/KevinNitroG/win-battery-check)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-battery-check](https://github.com/KevinNitroG/win-battery-check)<br>
-7. 📔 Created new repository [KevinNitroG/win-battery-check](https://github.com/KevinNitroG/win-battery-check)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/ENG003](https://github.com/KevMi-UIT/ENG003)<br>
-9. ⬆️ Pushed 237 commit(s) to [KevinNitroG/uYouEnhanced](https://github.com/KevinNitroG/uYouEnhanced)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/ENG003](https://github.com/KevMi-UIT/ENG003)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+2. ⭐ Starred [yao-pkg/pkg](https://github.com/yao-pkg/pkg)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 7/12/24 3:12 PM
+Last Updated on Sunday, 8/12/24 3:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

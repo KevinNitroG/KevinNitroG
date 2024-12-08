@@ -303,20 +303,20 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-2. ⭐ Starred [yao-pkg/pkg](https://github.com/yao-pkg/pkg)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
 3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+4. ⬆️ Pushed 2 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008-ViSort](https://github.com/KevMi-UIT/IT008-ViSort)<br>
+6. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+8. ⭐ Starred [yao-pkg/pkg](https://github.com/yao-pkg/pkg)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
 10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 8/12/24 3:12 AM
+Last Updated on Sunday, 8/12/24 3:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

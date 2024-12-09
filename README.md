@@ -303,20 +303,20 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wagoodman/dive](https://github.com/wagoodman/dive)<br>
-2. ⭐ Starred [slimtoolkit/slim](https://github.com/slimtoolkit/slim)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
-6. 💬 Commented on [#746](https://github.com/semantic-release/release-notes-generator/issues/746#issuecomment-2526278622) in [semantic-release/release-notes-generator](https://github.com/semantic-release/release-notes-generator)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+2. ⬆️ Pushed 2 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT004](https://github.com/KevMi-UIT/IT004)<br>
+4. ⭐ Starred [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
-9. ❗️ Opened issue [#746](https://github.com/semantic-release/release-notes-generator/issues/746) in [semantic-release/release-notes-generator](https://github.com/semantic-release/release-notes-generator)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+9. ⬆️ Pushed 3 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+10. ⭐ Starred [wagoodman/dive](https://github.com/wagoodman/dive)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Monday, 9/12/24 3:12 PM
+Last Updated on Tuesday, 10/12/24 3:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

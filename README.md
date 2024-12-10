@@ -303,20 +303,20 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
-4. 💬 Commented on [#72](https://github.com/Alexis12119/nvim-config/issues/72#issuecomment-2530203911) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+1. ❗️ Opened issue [#3499](https://github.com/neovim/nvim-lspconfig/issues/3499) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)<br>
+2. 🔱 Forked [KevinNitroG/nvim-lspconfig](https://github.com/KevinNitroG/nvim-lspconfig) from [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008](https://github.com/KevMi-UIT/IT008)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
 6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
-8. ⬆️ Pushed 2 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT004](https://github.com/KevMi-UIT/IT004)<br>
-10. ⭐ Starred [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)<br>
+7. 💬 Commented on [#72](https://github.com/Alexis12119/nvim-config/issues/72#issuecomment-2530203911) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 10/12/24 3:12 PM
+Last Updated on Wednesday, 11/12/24 3:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

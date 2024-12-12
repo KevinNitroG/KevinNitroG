@@ -303,20 +303,20 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#3500](https://github.com/neovim/nvim-lspconfig/pull/3500#discussion_r1879998629) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)<br>
-2. 💬 Commented on [#3500](https://github.com/neovim/nvim-lspconfig/pull/3500#discussion_r1879994655) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)<br>
-3. 💪 Opened PR [#3500](https://github.com/neovim/nvim-lspconfig/pull/3500) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)<br>
-4. 💬 Commented on [#3499](https://github.com/neovim/nvim-lspconfig/issues/3499#issuecomment-2535652424) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
-6. ⬆️ Pushed 3 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008](https://github.com/KevMi-UIT/IT008)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
-9. ⬆️ Pushed 3 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT008](https://github.com/KevMi-UIT/IT008)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+3. 🎉 Merged PR [#6](https://github.com/KevinNitroG/win-check-bat/pull/6) in [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+5. 🎉 Merged PR [#5](https://github.com/KevinNitroG/win-check-bat/pull/5) in [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+6. ⬆️ Pushed 2 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+7. 🎉 Merged PR [#4](https://github.com/KevinNitroG/win-check-bat/pull/4) in [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 12/12/24 3:12 AM
+Last Updated on Thursday, 12/12/24 3:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

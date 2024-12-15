@@ -303,20 +303,20 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-2. 💬 Commented on [#75](https://github.com/Alexis12119/nvim-config/issues/75#issuecomment-2543101858) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-3. 💬 Commented on [#75](https://github.com/Alexis12119/nvim-config/issues/75#issuecomment-2543100986) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-4. ⬆️ Pushed 2 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/ReVanced-auto-build](https://github.com/KevinNitroG/ReVanced-auto-build)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/ReVanced-auto-build](https://github.com/KevinNitroG/ReVanced-auto-build)<br>
-7. 💬 Commented on [#105](https://github.com/max397574/better-escape.nvim/issues/105#issuecomment-2543058184) in [max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim)<br>
-8. 💬 Commented on [#105](https://github.com/max397574/better-escape.nvim/issues/105#issuecomment-2543057966) in [max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-10. ❗️ Opened issue [#105](https://github.com/max397574/better-escape.nvim/issues/105) in [max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+2. 💪 Opened PR [#76](https://github.com/Alexis12119/nvim-config/pull/76) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+3. ⭐ Starred [Sin-cy/dotfiles](https://github.com/Sin-cy/dotfiles)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT004](https://github.com/KevMi-UIT/IT004)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT004](https://github.com/KevMi-UIT/IT004)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+8. ⬆️ Pushed 2 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+9. 💬 Commented on [#75](https://github.com/Alexis12119/nvim-config/issues/75#issuecomment-2543149217) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+10. ⬆️ Pushed 2 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 15/12/24 3:12 AM
+Last Updated on Sunday, 15/12/24 3:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

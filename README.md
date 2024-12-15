@@ -302,20 +302,20 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-2. 💪 Opened PR [#76](https://github.com/Alexis12119/nvim-config/pull/76) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-3. ⭐ Starred [Sin-cy/dotfiles](https://github.com/Sin-cy/dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT004](https://github.com/KevMi-UIT/IT004)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT004](https://github.com/KevMi-UIT/IT004)<br>
+1. ⭐ Starred [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT004](https://github.com/KevMi-UIT/IT004)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT004](https://github.com/KevMi-UIT/IT004)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+5. ⬆️ Pushed 5 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
 6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-8. ⬆️ Pushed 2 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-9. 💬 Commented on [#75](https://github.com/Alexis12119/nvim-config/issues/75#issuecomment-2543149217) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-10. ⬆️ Pushed 2 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+8. 🎉 Merged PR [#9](https://github.com/KevinNitroG/win-check-bat/pull/9) in [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 15/12/24 3:12 PM
+Last Updated on Monday, 16/12/24 3:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

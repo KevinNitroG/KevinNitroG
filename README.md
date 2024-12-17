@@ -302,20 +302,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-3. ❗️ Opened issue [#77](https://github.com/Alexis12119/nvim-config/issues/77) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-4. 💬 Commented on [#1252](https://github.com/L3MON4D3/LuaSnip/pull/1252#issuecomment-2544652754) in [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-7. ⭐ Starred [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT004](https://github.com/KevMi-UIT/IT004)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT004](https://github.com/KevMi-UIT/IT004)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
+1. ❌ Closed PR [#14](https://github.com/KevinNitroG/UIT-Auto-Lecture-Survey/pull/14) in [KevinNitroG/UIT-Auto-Lecture-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecture-Survey)<br>
+2. ⬆️ Pushed 2 commit(s) to [KevinNitroG/UIT-Auto-Lecture-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecture-Survey)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecture-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecture-Survey)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecture-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecture-Survey)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecture-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecture-Survey)<br>
+7. ⬆️ Pushed 2 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+9. ❗️ Opened issue [#77](https://github.com/Alexis12119/nvim-config/issues/77) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+10. 💬 Commented on [#1252](https://github.com/L3MON4D3/LuaSnip/pull/1252#issuecomment-2544652754) in [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 17/12/24 3:12 AM
+Last Updated on Tuesday, 17/12/24 3:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

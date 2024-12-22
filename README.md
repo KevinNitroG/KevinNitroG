@@ -300,20 +300,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [apkunpacker/MagiskDetection](https://github.com/apkunpacker/MagiskDetection)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/win-check-bat](https://github.com/KevinNitroG/win-check-bat)<br>
-4. ⭐ Starred [weecici/CiGRUB](https://github.com/weecici/CiGRUB)<br>
-5. ⭐ Starred [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)<br>
-6. ⭐ Starred [dvtng/react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/UIT-Auto-Lecture-Survey](https://github.com/KevinNitroG/UIT-Auto-Lecture-Survey)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-9. ⭐ Starred [WCY-dt/my-github-2024](https://github.com/WCY-dt/my-github-2024)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/gha-check-phat-nguoi](https://github.com/KevinNitroG/gha-check-phat-nguoi)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/gha-check-phat-nguoi](https://github.com/KevinNitroG/gha-check-phat-nguoi)<br>
+5. 🎉 Merged PR [#1](https://github.com/KevinNitroG/gha-check-phat-nguoi/pull/1) in [KevinNitroG/gha-check-phat-nguoi](https://github.com/KevinNitroG/gha-check-phat-nguoi)<br>
+6. ⬆️ Pushed 2 commit(s) to [KevinNitroG/gha-check-phat-nguoi](https://github.com/KevinNitroG/gha-check-phat-nguoi)<br>
+7. 🤝 Became collaborator on [KevinNitroG/gha-check-phat-nguoi](https://github.com/KevinNitroG/gha-check-phat-nguoi)<br>
+8. 📔 Created new repository [KevinNitroG/gha-check-phat-nguoi](https://github.com/KevinNitroG/gha-check-phat-nguoi)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/ReVanced-auto-build](https://github.com/KevinNitroG/ReVanced-auto-build)<br>
+10. ⬆️ Pushed 8 commit(s) to [KevinNitroG/ReVanced-auto-build](https://github.com/KevinNitroG/ReVanced-auto-build)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 22/12/24 3:12 AM
+Last Updated on Sunday, 22/12/24 3:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -301,20 +301,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-2. ⬆️ Pushed 3 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
-8. ⬆️ Pushed 2 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/linux-dotfiles](https://github.com/KevinNitroG/linux-dotfiles)<br>
-10. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+1. 💬 Commented on [#4170](https://github.com/twpayne/chezmoi/issues/4170#issuecomment-2566658669) in [twpayne/chezmoi](https://github.com/twpayne/chezmoi)<br>
+2. 💬 Commented on [#4170](https://github.com/twpayne/chezmoi/issues/4170#issuecomment-2566646776) in [twpayne/chezmoi](https://github.com/twpayne/chezmoi)<br>
+3. ❗️ Opened issue [#78](https://github.com/Alexis12119/nvim-config/issues/78) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+4. ❗️ Opened issue [#4170](https://github.com/twpayne/chezmoi/issues/4170) in [twpayne/chezmoi](https://github.com/twpayne/chezmoi)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevMi-UIT/IT004](https://github.com/KevMi-UIT/IT004)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+7. ⬆️ Pushed 3 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/windows-dotfiles](https://github.com/KevinNitroG/windows-dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 31/12/24 3:12 PM
+Last Updated on Wednesday, 1/1/25 3:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

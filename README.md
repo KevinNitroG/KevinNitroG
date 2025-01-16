@@ -299,20 +299,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-2. 💬 Commented on [#28](https://github.com/NTGNguyen/check-phat-nguoi/issues/28#issuecomment-2593457736) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-3. ✔️ Closed issue [#28](https://github.com/NTGNguyen/check-phat-nguoi/issues/28) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-4. ✔️ Closed issue [#39](https://github.com/NTGNguyen/check-phat-nguoi/issues/39) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+2. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
 5. ⬆️ Pushed 2 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-6. 👍 Approved [#38](https://github.com/NTGNguyen/check-phat-nguoi/pull/38#pullrequestreview-2553346288) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-7. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-8. ✔️ Closed issue [#36](https://github.com/NTGNguyen/check-phat-nguoi/issues/36) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-9. 🎉 Merged PR [#38](https://github.com/NTGNguyen/check-phat-nguoi/pull/38) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-10. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+6. ❗️ Opened issue [#42](https://github.com/NTGNguyen/check-phat-nguoi/issues/42) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+7. ⬆️ Pushed 28 commit(s) to [KevinNitroG/check-phat-nguoi](https://github.com/KevinNitroG/check-phat-nguoi)<br>
+8. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+9. ⬆️ Pushed 2 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+10. 💬 Commented on [#28](https://github.com/NTGNguyen/check-phat-nguoi/issues/28#issuecomment-2593457736) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 16/1/25 3:01 PM
+Last Updated on Friday, 17/1/25 3:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

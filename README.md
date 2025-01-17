@@ -299,20 +299,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#17](https://github.com/NTGNguyen/check-phat-nguoi/issues/17#issuecomment-2597442741) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-2. ❗️ Opened issue [#48](https://github.com/NTGNguyen/check-phat-nguoi/issues/48) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-3. ❗️ Opened issue [#47](https://github.com/NTGNguyen/check-phat-nguoi/issues/47) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-5. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-7. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-8. ⬆️ Pushed 2 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-9. ❗️ Opened issue [#42](https://github.com/NTGNguyen/check-phat-nguoi/issues/42) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-10. ⬆️ Pushed 28 commit(s) to [KevinNitroG/check-phat-nguoi](https://github.com/KevinNitroG/check-phat-nguoi)<br>
+1. 💬 Commented on [#47](https://github.com/check-phat-nguoi/cpn/issues/47#issuecomment-2598759987) in [check-phat-nguoi/cpn](https://github.com/check-phat-nguoi/cpn)<br>
+2. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn](https://github.com/check-phat-nguoi/cpn)<br>
+3. ⬆️ Pushed 3 commit(s) to [check-phat-nguoi/cpn](https://github.com/check-phat-nguoi/cpn)<br>
+4. ✔️ Closed issue [#43](https://github.com/check-phat-nguoi/cpn/issues/43) in [check-phat-nguoi/cpn](https://github.com/check-phat-nguoi/cpn)<br>
+5. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn](https://github.com/check-phat-nguoi/cpn)<br>
+6. 🎉 Merged PR [#49](https://github.com/check-phat-nguoi/cpn/pull/49) in [check-phat-nguoi/cpn](https://github.com/check-phat-nguoi/cpn)<br>
+7. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn](https://github.com/check-phat-nguoi/cpn)<br>
+8. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn](https://github.com/check-phat-nguoi/cpn)<br>
+9. ❗️ Opened issue [#50](https://github.com/check-phat-nguoi/cpn/issues/50) in [check-phat-nguoi/cpn](https://github.com/check-phat-nguoi/cpn)<br>
+10. 💬 Commented on [#17](https://github.com/NTGNguyen/check-phat-nguoi/issues/17#issuecomment-2597442741) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 17/1/25 3:01 PM
+Last Updated on Saturday, 18/1/25 3:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

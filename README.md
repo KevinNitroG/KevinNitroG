@@ -299,20 +299,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#47](https://github.com/check-phat-nguoi/cpn/issues/47#issuecomment-2598759987) in [check-phat-nguoi/cpn](https://github.com/check-phat-nguoi/cpn)<br>
-2. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn](https://github.com/check-phat-nguoi/cpn)<br>
-3. ⬆️ Pushed 3 commit(s) to [check-phat-nguoi/cpn](https://github.com/check-phat-nguoi/cpn)<br>
-4. ✔️ Closed issue [#43](https://github.com/check-phat-nguoi/cpn/issues/43) in [check-phat-nguoi/cpn](https://github.com/check-phat-nguoi/cpn)<br>
-5. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn](https://github.com/check-phat-nguoi/cpn)<br>
-6. 🎉 Merged PR [#49](https://github.com/check-phat-nguoi/cpn/pull/49) in [check-phat-nguoi/cpn](https://github.com/check-phat-nguoi/cpn)<br>
-7. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn](https://github.com/check-phat-nguoi/cpn)<br>
-8. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn](https://github.com/check-phat-nguoi/cpn)<br>
-9. ❗️ Opened issue [#50](https://github.com/check-phat-nguoi/cpn/issues/50) in [check-phat-nguoi/cpn](https://github.com/check-phat-nguoi/cpn)<br>
-10. 💬 Commented on [#17](https://github.com/NTGNguyen/check-phat-nguoi/issues/17#issuecomment-2597442741) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+1. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/.github](https://github.com/check-phat-nguoi/.github)<br>
+2. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
+3. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+4. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/check-phat-nguoi.github.io](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/.github](https://github.com/check-phat-nguoi/.github)<br>
+6. 📔 Created new repository [check-phat-nguoi/.github](https://github.com/check-phat-nguoi/.github)<br>
+7. ❗️ Opened issue [#6](https://github.com/check-phat-nguoi/cpn-core/issues/6) in [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+8. ❗️ Opened issue [#5](https://github.com/check-phat-nguoi/cpn-cli/issues/5) in [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
+9. ❗️ Opened issue [#4](https://github.com/check-phat-nguoi/cpn-cli/issues/4) in [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
+10. ✔️ Closed issue [#27](https://github.com/check-phat-nguoi/cpn-legacy/issues/27) in [check-phat-nguoi/cpn-legacy](https://github.com/check-phat-nguoi/cpn-legacy)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 18/1/25 3:01 AM
+Last Updated on Saturday, 18/1/25 3:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

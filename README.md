@@ -298,20 +298,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested changes in [#8](https://github.com/check-phat-nguoi/cpn-core/pull/8#pullrequestreview-2560937266) in [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-2. 💬 Commented on [#8](https://github.com/check-phat-nguoi/cpn-core/pull/8#discussion_r1921491294) in [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+1. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
+2. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
 3. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-4. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
-5. ⬆️ Pushed 2 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
-6. ⬆️ Pushed 3 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+4. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+5. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn](https://github.com/check-phat-nguoi/cpn)<br>
+6. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-telegram-bot](https://github.com/check-phat-nguoi/cpn-telegram-bot)<br>
 7. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/check-phat-nguoi.github.io](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io)<br>
-8. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-9. ⬆️ Pushed 2 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
-10. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+8. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/check-phat-nguoi.github.io](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io)<br>
+9. 💬 Commented on [#2](https://github.com/check-phat-nguoi/cpn-cli/issues/2#issuecomment-2600922879) in [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
+10. ✔️ Closed issue [#2](https://github.com/check-phat-nguoi/cpn-cli/issues/2) in [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 19/1/25 3:01 PM
+Last Updated on Monday, 20/1/25 3:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

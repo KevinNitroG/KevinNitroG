@@ -298,20 +298,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn](https://github.com/check-phat-nguoi/cpn)<br>
-2. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
-3. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
-4. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/check-phat-nguoi.github.io](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io)<br>
-5. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
-6. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
-7. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
-8. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
-9. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn](https://github.com/check-phat-nguoi/cpn)<br>
-10. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-telegram-bot](https://github.com/check-phat-nguoi/cpn-telegram-bot)<br>
+1. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/check-phat-nguoi.github.io](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/check-phat-nguoi.github.io](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-gha](https://github.com/check-phat-nguoi/cpn-gha)<br>
+4. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+8. 💪 Opened PR [#79](https://github.com/Alexis12119/nvim-config/pull/79) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Monday, 20/1/25 3:01 PM
+Last Updated on Tuesday, 21/1/25 3:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

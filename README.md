@@ -298,20 +298,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
-2. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
-3. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
-4. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-5. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn](https://github.com/check-phat-nguoi/cpn)<br>
-6. 💬 Commented on [#4](https://github.com/check-phat-nguoi/cpn-core/issues/4#issuecomment-2603674175) in [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-7. ✔️ Closed issue [#4](https://github.com/check-phat-nguoi/cpn-core/issues/4) in [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+2. 💬 Commented on [#11](https://github.com/check-phat-nguoi/cpn-core/pull/11#discussion_r1923537347) in [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+3. 💬 Commented on [#11](https://github.com/check-phat-nguoi/cpn-core/pull/11#discussion_r1923534755) in [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+4. 💬 Commented on [#11](https://github.com/check-phat-nguoi/cpn-core/pull/11#issuecomment-2604432638) in [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+5. 💬 Commented on [#11](https://github.com/check-phat-nguoi/cpn-core/pull/11#issuecomment-2604430407) in [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+6. ⬆️ Pushed 2 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+7. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
 8. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+9. ⬆️ Pushed 3 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+10. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 21/1/25 3:01 PM
+Last Updated on Wednesday, 22/1/25 3:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

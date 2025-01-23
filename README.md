@@ -299,19 +299,19 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-2. 🎉 Merged PR [#11](https://github.com/check-phat-nguoi/cpn-core/pull/11) in [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-3. 💬 Commented on [#12](https://github.com/check-phat-nguoi/cpn-core/pull/12#issuecomment-2606487998) in [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-4. ⬆️ Pushed 2 commit(s) to [check-phat-nguoi/check-phat-nguoi.github.io](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io)<br>
-5. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
+2. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-telegram-bot](https://github.com/check-phat-nguoi/cpn-telegram-bot)<br>
+3. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+4. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
+5. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
 6. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
-7. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-8. ❗️ Opened issue [#7](https://github.com/check-phat-nguoi/cpn-cli/issues/7) in [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+7. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-telegram-bot](https://github.com/check-phat-nguoi/cpn-telegram-bot)<br>
+8. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/check-phat-nguoi.github.io](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io)<br>
+9. ❗️ Opened issue [#13](https://github.com/check-phat-nguoi/cpn-core/issues/13) in [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+10. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 23/1/25 3:01 AM
+Last Updated on Thursday, 23/1/25 3:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

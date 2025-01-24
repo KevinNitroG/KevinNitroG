@@ -298,20 +298,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+1. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-telegram-bot](https://github.com/check-phat-nguoi/cpn-telegram-bot)<br>
 2. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
-3. ✔️ Closed issue [#7](https://github.com/check-phat-nguoi/cpn-cli/issues/7) in [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
-4. 🎉 Merged PR [#9](https://github.com/check-phat-nguoi/cpn-cli/pull/9) in [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
-5. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
-6. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-7. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-8. 💪 Opened PR [#10](https://github.com/check-phat-nguoi/cpn-cli/pull/10) in [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
-9. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-10. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-telegram-bot](https://github.com/check-phat-nguoi/cpn-telegram-bot)<br>
+3. ✔️ Closed issue [#11](https://github.com/check-phat-nguoi/cpn-cli/issues/11) in [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
+4. 🎉 Merged PR [#12](https://github.com/check-phat-nguoi/cpn-cli/pull/12) in [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
+5. ⬆️ Pushed 4 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
+6. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-telegram-bot](https://github.com/check-phat-nguoi/cpn-telegram-bot)<br>
+7. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-telegram-bot](https://github.com/check-phat-nguoi/cpn-telegram-bot)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+9. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-telegram-bot](https://github.com/check-phat-nguoi/cpn-telegram-bot)<br>
+10. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 24/1/25 3:01 AM
+Last Updated on Friday, 24/1/25 3:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

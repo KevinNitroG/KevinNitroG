@@ -298,20 +298,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/check-phat-nguoi.github.io](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io)<br>
+1. ❗️ Opened issue [#1898](https://github.com/pypa/hatch/issues/1898) in [pypa/hatch](https://github.com/pypa/hatch)<br>
 2. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/check-phat-nguoi.github.io](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io)<br>
-3. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+3. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/check-phat-nguoi.github.io](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io)<br>
 4. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
 5. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+6. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
 7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-8. ✔️ Closed issue [#2](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io/issues/2) in [check-phat-nguoi/check-phat-nguoi.github.io](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io)<br>
-9. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+9. ✔️ Closed issue [#2](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io/issues/2) in [check-phat-nguoi/check-phat-nguoi.github.io](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io)<br>
 10. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Wednesday, 29/1/25 3:01 PM
+Last Updated on Thursday, 30/1/25 3:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

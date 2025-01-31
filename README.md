@@ -297,20 +297,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1898](https://github.com/pypa/hatch/issues/1898) in [pypa/hatch](https://github.com/pypa/hatch)<br>
-2. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/check-phat-nguoi.github.io](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io)<br>
-3. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/check-phat-nguoi.github.io](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io)<br>
-4. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-5. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+1. ⭐ Starred [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts)<br>
+2. ⭐ Starred [xiaorouji/openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall)<br>
+3. ❗️ Opened issue [#1898](https://github.com/pypa/hatch/issues/1898) in [pypa/hatch](https://github.com/pypa/hatch)<br>
+4. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/check-phat-nguoi.github.io](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/check-phat-nguoi.github.io](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io)<br>
 6. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-9. ✔️ Closed issue [#2](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io/issues/2) in [check-phat-nguoi/check-phat-nguoi.github.io](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io)<br>
-10. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+7. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+8. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 31/1/25 3:01 PM
+Last Updated on Saturday, 1/2/25 3:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

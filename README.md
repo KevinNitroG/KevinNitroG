@@ -300,18 +300,18 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-3. ❗️ Opened issue [#4](https://github.com/KevinNitroG/dotfiles/issues/4) in [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+3. ✔️ Closed issue [#9](https://github.com/KevinNitroG/dotfiles/issues/9) in [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+4. ✔️ Closed issue [#6](https://github.com/KevinNitroG/dotfiles/issues/6) in [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-6. ⭐ Starred [megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor)<br>
-7. ⭐ Starred [amnweb/yasb](https://github.com/amnweb/yasb)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-9. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/check-phat-nguoi.github.io](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io)<br>
-10. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/check-phat-nguoi.github.io](https://github.com/check-phat-nguoi/check-phat-nguoi.github.io)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+10. ⬆️ Pushed 2 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 6/2/25 3:02 PM
+Last Updated on Friday, 7/2/25 3:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

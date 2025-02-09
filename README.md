@@ -298,20 +298,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-2. 💬 Commented on [#4264](https://github.com/twpayne/chezmoi/issues/4264#issuecomment-2646119104) in [twpayne/chezmoi](https://github.com/twpayne/chezmoi)<br>
-3. ✔️ Closed issue [#4264](https://github.com/twpayne/chezmoi/issues/4264) in [twpayne/chezmoi](https://github.com/twpayne/chezmoi)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-5. ❗️ Opened issue [#4264](https://github.com/twpayne/chezmoi/issues/4264) in [twpayne/chezmoi](https://github.com/twpayne/chezmoi)<br>
-6. ⭐ Starred [Axlefublr/lib-v2](https://github.com/Axlefublr/lib-v2)<br>
-7. ⭐ Starred [Axlefublr/edister.nvim](https://github.com/Axlefublr/edister.nvim)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-10. ✔️ Closed issue [#7](https://github.com/KevinNitroG/dotfiles/issues/7) in [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+1. 💬 Commented on [#80](https://github.com/Alexis12119/nvim-config/issues/80#issuecomment-2646421928) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+3. 💬 Commented on [#80](https://github.com/Alexis12119/nvim-config/issues/80#issuecomment-2646359209) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+5. 💬 Commented on [#80](https://github.com/Alexis12119/nvim-config/issues/80#issuecomment-2646355287) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+6. 💬 Commented on [#80](https://github.com/Alexis12119/nvim-config/issues/80#issuecomment-2646348935) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+8. ⬆️ Pushed 5 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 9/2/25 3:02 PM
+Last Updated on Monday, 10/2/25 3:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

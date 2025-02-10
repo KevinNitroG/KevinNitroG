@@ -298,20 +298,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+5. 💬 Commented on [#6](https://github.com/catppuccin/ghostty/issues/6#issuecomment-2647919544) in [catppuccin/ghostty](https://github.com/catppuccin/ghostty)<br>
+6. 💬 Commented on [#6](https://github.com/catppuccin/ghostty/issues/6#issuecomment-2647860430) in [catppuccin/ghostty](https://github.com/catppuccin/ghostty)<br>
+7. ❗️ Opened issue [#86](https://github.com/Alexis12119/nvim-config/issues/86) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+8. 💬 Commented on [#85](https://github.com/Alexis12119/nvim-config/pull/85#issuecomment-2647294907) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+9. 💪 Opened PR [#85](https://github.com/Alexis12119/nvim-config/pull/85) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Monday, 10/2/25 3:02 PM
+Last Updated on Tuesday, 11/2/25 3:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

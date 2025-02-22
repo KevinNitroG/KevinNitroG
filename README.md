@@ -302,19 +302,19 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
-2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
-3. 💪 Opened PR [#91](https://github.com/Alexis12119/nvim-config/pull/91) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-5. ⬆️ Pushed 106 commit(s) to [KevinNitroG/uYouEnhanced](https://github.com/KevinNitroG/uYouEnhanced)<br>
-6. ⬆️ Pushed 2 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-8. ⬆️ Pushed 2 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-10. ⭐ Starred [Sepero/temp-throttle](https://github.com/Sepero/temp-throttle)<br>
+2. ⬆️ Pushed 2 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+4. ⬆️ Pushed 2 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+6. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+7. ⭐ Starred [FDH2/UxPlay](https://github.com/FDH2/UxPlay)<br>
+8. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+9. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 22/2/25 3:02 PM
+Last Updated on Sunday, 23/2/25 3:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

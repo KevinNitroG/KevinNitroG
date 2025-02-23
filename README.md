@@ -301,20 +301,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
-2. ⬆️ Pushed 2 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+1. 💬 Commented on [#2](https://github.com/coinhub-uit/server/pull/2#issuecomment-2676662430) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/web](https://github.com/coinhub-uit/web)<br>
 3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
-4. ⬆️ Pushed 2 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+4. ❗️ Opened issue [#7](https://github.com/coinhub-uit/mobile/issues/7) in [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
 5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
-6. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
-7. ⭐ Starred [FDH2/UxPlay](https://github.com/FDH2/UxPlay)<br>
-8. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-9. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
-10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+6. ⬆️ Pushed 7 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+7. 💬 Commented on [#6](https://github.com/coinhub-uit/mobile/pull/6#discussion_r1966650715) in [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+8. 💬 Commented on [#6](https://github.com/coinhub-uit/mobile/pull/6#discussion_r1966650733) in [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+9. 💬 Commented on [#6](https://github.com/coinhub-uit/mobile/pull/6#discussion_r1966650673) in [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+10. 💬 Commented on [#6](https://github.com/coinhub-uit/mobile/pull/6#discussion_r1966650623) in [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 23/2/25 3:02 AM
+Last Updated on Sunday, 23/2/25 3:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

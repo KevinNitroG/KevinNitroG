@@ -301,20 +301,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#10](https://github.com/coinhub-uit/mobile/issues/10#issuecomment-2681395641) in [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
-2. ❗️ Opened issue [#5](https://github.com/coinhub-uit/server/issues/5) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/.github](https://github.com/coinhub-uit/.github)<br>
+1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/.github](https://github.com/coinhub-uit/.github)<br>
+2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
 4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/.github](https://github.com/coinhub-uit/.github)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-6. ❗️ Opened issue [#2](https://github.com/coinhub-uit/web/issues/2) in [coinhub-uit/web](https://github.com/coinhub-uit/web)<br>
-7. ❗️ Opened issue [#1](https://github.com/coinhub-uit/web/issues/1) in [coinhub-uit/web](https://github.com/coinhub-uit/web)<br>
-8. ⭐ Starred [dayanch96/YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)<br>
-9. ❗️ Opened issue [#9](https://github.com/coinhub-uit/mobile/issues/9) in [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
-10. ❗️ Opened issue [#8](https://github.com/coinhub-uit/mobile/issues/8) in [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+6. 🎉 Merged PR [#6](https://github.com/coinhub-uit/mobile/pull/6) in [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+7. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+8. ✔️ Closed issue [#4](https://github.com/coinhub-uit/mobile/issues/4) in [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+9. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+10. ⬆️ Pushed 2 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Wednesday, 26/2/25 3:02 AM
+Last Updated on Wednesday, 26/2/25 3:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

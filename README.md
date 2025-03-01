@@ -301,20 +301,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#13](https://github.com/coinhub-uit/mobile/issues/13) in [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
-2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/web](https://github.com/coinhub-uit/web)<br>
+1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/.github](https://github.com/coinhub-uit/.github)<br>
+2. ❗️ Opened issue [#13](https://github.com/coinhub-uit/mobile/issues/13) in [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
 3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/web](https://github.com/coinhub-uit/web)<br>
 4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/web](https://github.com/coinhub-uit/web)<br>
-5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/web](https://github.com/coinhub-uit/web)<br>
 6. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
 7. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-9. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+8. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 1/3/25 3:03 AM
+Last Updated on Saturday, 1/3/25 3:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -301,20 +301,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#17](https://github.com/coinhub-uit/mobile/issues/17) in [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
-2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/web](https://github.com/coinhub-uit/web)<br>
+1. 💬 Commented on [#8714](https://github.com/facebook/docusaurus/issues/8714#issuecomment-2694732653) in [facebook/docusaurus](https://github.com/facebook/docusaurus)<br>
+2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
 3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
 4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/web](https://github.com/coinhub-uit/web)<br>
-6. 💬 Commented on [#16](https://github.com/coinhub-uit/mobile/issues/16#issuecomment-2692859394) in [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
-7. 💬 Commented on [#7](https://github.com/coinhub-uit/server/issues/7#issuecomment-2692859244) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-8. ❗️ Opened issue [#7](https://github.com/coinhub-uit/server/issues/7) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-9. ❗️ Opened issue [#16](https://github.com/coinhub-uit/mobile/issues/16) in [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
-10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/coinhub-uit.github.io](https://github.com/coinhub-uit/coinhub-uit.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+6. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+7. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+9. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Monday, 3/3/25 3:03 PM
+Last Updated on Tuesday, 4/3/25 3:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

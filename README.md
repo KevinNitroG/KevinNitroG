@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">
   <img src="https://i.giphy.com/CaiVJuZGvR8HK.webp" alt="Huhm face" width="25px" height="25px">
   KEVIN NITRO
@@ -5,6 +6,13 @@
 </h1>
 
 <hr>
+-->
+
+<!-- CATPPUCCIN BAR -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+</div>
 
 <!-- ABOUT ME SECTION -->
 
@@ -144,13 +152,16 @@
 <h2 align="center">⛏️ SKILLS 🔨</h2>
 
 <section>
+  <h3>OSes</h3>
   <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"> -->
 </section>
+
 <section>
+  <h3>Languages</h3>
   <img src="https://img.shields.io/badge/Python-3F7CAD?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F9AB00?style=for-the-badge&logo=javascript&logoColor=white">
@@ -162,11 +173,24 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> -->
 </section>
+
 <section>
-    <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <h3>Libraries</h3>
+  <img src="https://img.shields.io/badge/react-2320232a?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/redux-23593d88?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/daisyui-1AD1A5?style=for-the-badge&logo=daisyui&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white">
 </section>
+
 <section>
+  <h3>Frameworks</h3>
+  <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+</section>
+
+<section>
+  <h3>Tools</h3>
   <!-- <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> -->
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
   <img src="https://img.shields.io/badge/docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
@@ -174,14 +198,18 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
 </section>
+
 <section>
+  <h3>Text Editors / Code Editors / IDEs</h3>
   <img src="https://img.shields.io/badge/NeoVim-2357A143?&style=for-the-badge&logo=neovim&logoColor=white">
   <img src="https://img.shields.io/badge/Vim-019733?&style=for-the-badge&logo=vim&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"> -->
 </section>
+
 <section>
+  <h3>Terminals</h3>
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white">
   <img src="https://img.shields.io/badge/ghosty-3551f3?style=for-the-badge&logo=ghostery&logoColor=white">
   <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white">
@@ -189,12 +217,16 @@
   <!-- <img src="https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white"> -->
 </section>
+
 <section>
+  <h3>Apps</h3>
   <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white">
   <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </section>
+
 <section>
+  <h3>Cooding...</h3>
   <a href="https://leetcode.com/u/KevinNitro/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white">
   </a>
@@ -206,17 +238,41 @@
 <h2 align="center">📑 WILL <em>(MAY)</em> LEARN 🧾</h2>
 
 <section>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
+  <h3>Languages</h3>
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
 </section>
+
 <section>
+  <h3>Technologies</h3>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/redis-%23DD0031?&style=for-the-badge&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/postgres-23316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
+  <img src="https://img.shields.io/badge/firebase-%23039BE5?style=for-the-badge&logo=firebase">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
 </section>
+
 <section>
+  <h3>Platforms</h3>
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-23FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+</section>
+
+<section>
+  <h3>Ops</h3>
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
+  <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/zookeeper-699452?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/grpc-fbb03b?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+</section>
+
+<section>
+  <h3>Cool</h3>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
 </section>
 
 <hr>
@@ -383,14 +439,18 @@ Last Updated on Sunday, 9/3/25 3:03 PM
               <td align="center" rowspan="2"><strong>LAPTOP</strong></td>
               <td rowspan="2"><a href="https://www.nguyenkim.com/laptop-dell-vostro-5410-v4i5214w1.html">Dell Vostro 5410<em>(V4I5214W1)</em></a></td>
               <td>Windows 11 Home 🪟</td>
-          </tr>
-          <tr>
-            <td>Arch 🐧</td>
             </tr>
             <tr>
-              <td align="center"><strong>PHONE</strong></td>
-              <td><a href="https://www.gsmarena.com/xiaomi_redmi_k30_5g-9979.php">Xiaomi Redmi K30 5G</a></td>
-              <td>Android 12 <em>(MIUI CN 13)</em><br><em>(rooted with Magisk Delta)</em></td>
+              <td>Arch 🐧</td>
+            </tr>
+            <tr>
+              <td align="center" rowspan="2"><strong>PHONE</strong></td>
+              <td>iPhone 14 Pro Max</td>
+              <td>iOS 16.3 <em>(Trollstore installed)</em></td>
+            </tr>
+            <tr>
+              <td>Xiaomi Redmi K30 5G</td>
+              <td>Android 12</td>
             </tr>
           </tbody>
         </table>
@@ -414,10 +474,9 @@ Last Updated on Sunday, 9/3/25 3:03 PM
     </div>
 </details>
 
-<hr>
-
 <!-- HOLOPIN SECTION -->
 
+<!--
 <h2 align="center">😶‍🌫️ HOLOPIN 🦖</h2>
 
 <details>
@@ -430,6 +489,7 @@ Last Updated on Sunday, 9/3/25 3:03 PM
         </a>
     </div>
 </details>
+-->
 
 <!-- TRACKING -->
 

@@ -143,77 +143,81 @@
 
 <h2 align="center">⛏️ SKILLS 🔨</h2>
 
-<div>
+<section>
   <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> -->
-  <!-- <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"> -->
-</div>
-<div>
+</section>
+<section>
   <img src="https://img.shields.io/badge/Python-3F7CAD?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F9AB00?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F9AB00?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=educative&logoColor=white"> <!-- old logo is powershell -->
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-</div>
-<div>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> -->
+</section>
+<section>
+    <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+</section>
+<section>
+  <!-- <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> -->
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/docker_compose-b1c2d3?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-</div>
-<div>
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
+</section>
+<section>
+  <img src="https://img.shields.io/badge/NeoVim-2357A143?&style=for-the-badge&logo=neovim&logoColor=white">
+  <img src="https://img.shields.io/badge/Vim-019733?&style=for-the-badge&logo=vim&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
-</div>
-<div>
+  <!-- <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"> -->
+</section>
+<section>
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white">
+  <img src="https://img.shields.io/badge/ghosty-3551f3?style=for-the-badge&logo=ghostery&logoColor=white">
   <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white">
   <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white"> -->
-</div>
-<div>
+</section>
+<section>
   <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white">
   <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-</div>
-<div>
+</section>
+<section>
   <a href="https://leetcode.com/u/KevinNitro/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-</div>
+</section>
 
 <hr>
 
 <h2 align="center">📑 WILL <em>(MAY)</em> LEARN 🧾</h2>
 
-<div>
+<section>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-</div>
-<div>
+</section>
+<section>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-%23DD0031?&style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/postgres-23316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white">
-</div>
-<div>
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
+</section>
+<section>
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-</div>
+</section>
 
 <hr>
 
@@ -235,47 +239,46 @@
 <!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Bangkok
 
-💬 Programming Languages: 
-TypeScript               9 hrs 57 mins       ███████████░░░░░░░░░░░░░░   44.38 % 
-Markdown                 3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-YAML                     3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Dart                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Docker                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+💬 Programming Languages:
+TypeScript               9 hrs 57 mins       ███████████░░░░░░░░░░░░░░   44.38 %
+Markdown                 3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
+YAML                     3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
+Dart                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Docker                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
 
-🔥 Editors: 
-Neovim                   22 hrs 24 mins      █████████████████████████   99.91 % 
-Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+🔥 Editors:
+Neovim                   22 hrs 24 mins      █████████████████████████   99.91 %
+Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 
-🐱‍💻 Projects: 
-web                      7 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   35.47 % 
-server                   5 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.62 % 
-mobile                   3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-github                   2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-coinhub-uit.github.io    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+🐱‍💻 Projects:
+web                      7 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   35.47 %
+server                   5 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.62 %
+mobile                   3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.29 %
+github                   2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 %
+coinhub-uit.github.io    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
 
-💻 Operating System: 
-Linux                    22 hrs 25 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Linux                    22 hrs 25 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   17 repos            █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Shell                    11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Vim Script               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Python                   17 repos            █████░░░░░░░░░░░░░░░░░░░░   18.89 %
+Shell                    11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
+TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+Vim Script               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
+Last Updated on Sunday, 09/03/25 at 08:11 AM UTC
 
-
-
- Last Updated on Sunday, 09/03/25 at 08:11 AM UTC
 <!--END_SECTION:waka-->
 
 <hr>
@@ -298,6 +301,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 2. ✔️ Closed issue [#3](https://github.com/coinhub-uit/mobile/issues/3) in [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
 3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
@@ -311,7 +315,9 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated on Sunday, 9/3/25 3:03 PM
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

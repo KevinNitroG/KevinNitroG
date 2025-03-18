@@ -176,7 +176,7 @@
 
 <section>
   <h3>Libraries</h3>
-  <img src="https://img.shields.io/badge/react-2320232a?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/redux-23593d88?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/daisyui-1AD1A5?style=for-the-badge&logo=daisyui&logoColor=white">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
@@ -261,13 +261,15 @@
 <section>
   <h3>Ops</h3>
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
+  <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
   <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/zookeeper-699452?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/grpc-fbb03b?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
   <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
 </section>
 
 <section>

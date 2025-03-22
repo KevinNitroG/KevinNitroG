@@ -365,19 +365,19 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/coinhub-uit.github.io](https://github.com/coinhub-uit/coinhub-uit.github.io)<br>
-2. 💬 Commented on [#3](https://github.com/Lacquer-UIT/Mobile/issues/3#issuecomment-2742550059) in [Lacquer-UIT/Mobile](https://github.com/Lacquer-UIT/Mobile)<br>
-3. ⭐ Starred [jacquindev/windots](https://github.com/jacquindev/windots)<br>
-4. ⭐ Starred [Maplespe/ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-8. ⭐ Starred [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks)<br>
-9. ⭐ Starred [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)<br>
-10. ⭐ Starred [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)<br>
+2. ⬆️ Pushed 8 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/coinhub-uit.github.io](https://github.com/coinhub-uit/coinhub-uit.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/coinhub-uit.github.io](https://github.com/coinhub-uit/coinhub-uit.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/coinhub-uit.github.io](https://github.com/coinhub-uit/coinhub-uit.github.io)<br>
+6. 💬 Commented on [#3](https://github.com/Lacquer-UIT/Mobile/issues/3#issuecomment-2742550059) in [Lacquer-UIT/Mobile](https://github.com/Lacquer-UIT/Mobile)<br>
+7. ⭐ Starred [jacquindev/windots](https://github.com/jacquindev/windots)<br>
+8. ⭐ Starred [Maplespe/ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 22/3/25 3:03 AM
+Last Updated on Saturday, 22/3/25 3:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

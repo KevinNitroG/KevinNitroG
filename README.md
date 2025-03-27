@@ -364,20 +364,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+1. ⬆️ Pushed 5 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
 2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-3. ⬆️ Pushed 5 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-5. ⬆️ Pushed 3 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-6. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-7. ✔️ Closed issue [#12](https://github.com/coinhub-uit/server/issues/12) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-8. ✔️ Closed issue [#12](https://github.com/coinhub-uit/server/issues/12) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-9. 🎉 Merged PR [#13](https://github.com/coinhub-uit/server/pull/13) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-10. 💪 Opened PR [#13](https://github.com/coinhub-uit/server/pull/13) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+4. ❗️ Opened issue [#16](https://github.com/coinhub-uit/server/issues/16) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+5. ❗️ Opened issue [#15](https://github.com/coinhub-uit/server/issues/15) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+6. ❗️ Opened issue [#14](https://github.com/coinhub-uit/server/issues/14) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+7. ⬆️ Pushed 3 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+9. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+10. ⬆️ Pushed 5 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 27/3/25 3:03 AM
+Last Updated on Thursday, 27/3/25 3:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -364,20 +364,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nikolovlazar/dotfiles](https://github.com/nikolovlazar/dotfiles)<br>
-2. ⭐ Starred [streamich/react-use](https://github.com/streamich/react-use)<br>
-3. 💪 Opened PR [#24](https://github.com/coinhub-uit/server/pull/24) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/coinhub-uit.github.io](https://github.com/coinhub-uit/coinhub-uit.github.io)<br>
-5. ❗️ Opened issue [#23](https://github.com/coinhub-uit/server/issues/23) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-6. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-7. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-8. 🎉 Merged PR [#18](https://github.com/coinhub-uit/server/pull/18) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-9. ❗️ Opened issue [#22](https://github.com/coinhub-uit/server/issues/22) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/web](https://github.com/coinhub-uit/web)<br>
+2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/web](https://github.com/coinhub-uit/web)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+6. ⬆️ Pushed 1 commit(s) to [coinhub-uit/web](https://github.com/coinhub-uit/web)<br>
+7. ⬆️ Pushed 2 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+8. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+9. ⬆️ Pushed 1 commit(s) to [coinhub-uit/web](https://github.com/coinhub-uit/web)<br>
+10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/web](https://github.com/coinhub-uit/web)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 30/3/25 3:03 AM
+Last Updated on Sunday, 30/3/25 3:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

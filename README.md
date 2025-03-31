@@ -363,20 +363,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#3](https://github.com/lehuygiang28/nestjs-vnpay/issues/3) in [lehuygiang28/nestjs-vnpay](https://github.com/lehuygiang28/nestjs-vnpay)<br>
-2. ⬆️ Pushed 10 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
 3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-5. ❗️ Opened issue [#3](https://github.com/coinhub-uit/coinhub-uit.github.io/issues/3) in [coinhub-uit/coinhub-uit.github.io](https://github.com/coinhub-uit/coinhub-uit.github.io)<br>
-6. ⭐ Starred [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)<br>
-7. ⬆️ Pushed 1 commit(s) to [coinhub-uit/coinhub-uit.github.io](https://github.com/coinhub-uit/coinhub-uit.github.io)<br>
-8. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-9. ❗️ Opened issue [#27](https://github.com/coinhub-uit/server/issues/27) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-10. ❗️ Opened issue [#23](https://github.com/coinhub-uit/mobile/issues/23) in [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+4. 💬 Commented on [#3](https://github.com/lehuygiang28/nestjs-vnpay/issues/3#issuecomment-2765769507) in [lehuygiang28/nestjs-vnpay](https://github.com/lehuygiang28/nestjs-vnpay)<br>
+5. ✔️ Closed issue [#3](https://github.com/lehuygiang28/nestjs-vnpay/issues/3) in [lehuygiang28/nestjs-vnpay](https://github.com/lehuygiang28/nestjs-vnpay)<br>
+6. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+7. 💬 Commented on [#3](https://github.com/lehuygiang28/nestjs-vnpay/issues/3#issuecomment-2765497757) in [lehuygiang28/nestjs-vnpay](https://github.com/lehuygiang28/nestjs-vnpay)<br>
+8. 💬 Commented on [#3](https://github.com/lehuygiang28/nestjs-vnpay/issues/3#issuecomment-2765479775) in [lehuygiang28/nestjs-vnpay](https://github.com/lehuygiang28/nestjs-vnpay)<br>
+9. ❗️ Opened issue [#3](https://github.com/lehuygiang28/nestjs-vnpay/issues/3) in [lehuygiang28/nestjs-vnpay](https://github.com/lehuygiang28/nestjs-vnpay)<br>
+10. ⬆️ Pushed 10 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Monday, 31/3/25 3:03 PM
+Last Updated on Tuesday, 1/4/25 3:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

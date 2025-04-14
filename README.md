@@ -364,20 +364,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [RonelXavier/VimMotions](https://github.com/RonelXavier/VimMotions)<br>
-2. ⭐ Starred [lekhanhduc/microservices-book-store](https://github.com/lekhanhduc/microservices-book-store)<br>
-3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/coinhub-uit.github.io](https://github.com/coinhub-uit/coinhub-uit.github.io)<br>
-5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/coinhub-uit.github.io](https://github.com/coinhub-uit/coinhub-uit.github.io)<br>
-6. 💬 Commented on [#3](https://github.com/coinhub-uit/coinhub-uit.github.io/issues/3#issuecomment-2799878792) in [coinhub-uit/coinhub-uit.github.io](https://github.com/coinhub-uit/coinhub-uit.github.io)<br>
-7. ✔️ Closed issue [#3](https://github.com/coinhub-uit/coinhub-uit.github.io/issues/3) in [coinhub-uit/coinhub-uit.github.io](https://github.com/coinhub-uit/coinhub-uit.github.io)<br>
-8. ⬆️ Pushed 1 commit(s) to [coinhub-uit/coinhub-uit.github.io](https://github.com/coinhub-uit/coinhub-uit.github.io)<br>
+1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/coinhub-uit.github.io](https://github.com/coinhub-uit/coinhub-uit.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
+5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+6. ⭐ Starred [2KAbhishek/pickme.nvim](https://github.com/2KAbhishek/pickme.nvim)<br>
+7. ⭐ Starred [RonelXavier/VimMotions](https://github.com/RonelXavier/VimMotions)<br>
+8. ⭐ Starred [lekhanhduc/microservices-book-store](https://github.com/lekhanhduc/microservices-book-store)<br>
 9. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
 10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/coinhub-uit.github.io](https://github.com/coinhub-uit/coinhub-uit.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Monday, 14/4/25 3:04 AM
+Last Updated on Monday, 14/4/25 3:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

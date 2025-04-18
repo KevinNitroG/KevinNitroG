@@ -364,20 +364,20 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [iguanacucumber/mason.nvim](https://github.com/iguanacucumber/mason.nvim)<br>
-2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
-3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-5. ⭐ Starred [Sebastian-Nielsen/better-type-hover](https://github.com/Sebastian-Nielsen/better-type-hover)<br>
-6. ⭐ Starred [AhmedElsh3rawy/dotfiles](https://github.com/AhmedElsh3rawy/dotfiles)<br>
-7. ⭐ Starred [rezhaTanuharja/minimalistNVIM](https://github.com/rezhaTanuharja/minimalistNVIM)<br>
-8. ⭐ Starred [tamago324/nlsp-settings.nvim](https://github.com/tamago324/nlsp-settings.nvim)<br>
-9. ⬆️ Pushed 2 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
-10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim-temp](https://github.com/KevinNitroG/nvim-temp)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim-temp](https://github.com/KevinNitroG/nvim-temp)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim-temp](https://github.com/KevinNitroG/nvim-temp)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim-temp](https://github.com/KevinNitroG/nvim-temp)<br>
+5. 🤝 Became collaborator on [KevinNitroG/nvim-temp](https://github.com/KevinNitroG/nvim-temp)<br>
+6. 📔 Created new repository [KevinNitroG/nvim-temp](https://github.com/KevinNitroG/nvim-temp)<br>
+7. ⭐ Starred [iguanacucumber/mason.nvim](https://github.com/iguanacucumber/mason.nvim)<br>
+8. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+9. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 18/4/25 3:04 PM
+Last Updated on Saturday, 19/4/25 3:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -364,20 +364,20 @@ Vim Script               2 repos             █░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim-temp](https://github.com/KevinNitroG/nvim-temp)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim-temp](https://github.com/KevinNitroG/nvim-temp)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim-temp](https://github.com/KevinNitroG/nvim-temp)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim-temp](https://github.com/KevinNitroG/nvim-temp)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/nvim-temp](https://github.com/KevinNitroG/nvim-temp)<br>
-6. 🤝 Became collaborator on [KevinNitroG/nvim-temp](https://github.com/KevinNitroG/nvim-temp)<br>
-7. 📔 Created new repository [KevinNitroG/nvim-temp](https://github.com/KevinNitroG/nvim-temp)<br>
-8. ⭐ Starred [iguanacucumber/mason.nvim](https://github.com/iguanacucumber/mason.nvim)<br>
-9. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
-10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+1. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+2. ⬆️ Pushed 8 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+3. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+4. ⬆️ Pushed 3 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+5. ⬆️ Pushed 2 commit(s) to [uitvim/nvim](https://github.com/uitvim/nvim)<br>
+6. ⬆️ Pushed 1 commit(s) to [uitvim/nvim](https://github.com/uitvim/nvim)<br>
+7. ⬆️ Pushed 4 commit(s) to [uitvim/nvim](https://github.com/uitvim/nvim)<br>
+8. ❗️ Opened issue [#12](https://github.com/coinhub-uit/web/issues/12) in [coinhub-uit/web](https://github.com/coinhub-uit/web)<br>
+9. ⬆️ Pushed 2 commit(s) to [uitvim/nvim](https://github.com/uitvim/nvim)<br>
+10. ⬆️ Pushed 1 commit(s) to [uitvim/nvim](https://github.com/uitvim/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 19/4/25 3:04 PM
+Last Updated on Sunday, 20/4/25 3:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -363,20 +363,20 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#16](https://github.com/uitdots/nvim/issues/16) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-2. ❗️ Opened issue [#15](https://github.com/uitdots/nvim/issues/15) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-3. ❗️ Opened issue [#14](https://github.com/uitdots/nvim/issues/14) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-4. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-5. ⬆️ Pushed 1 commit(s) to [uitdots/vim](https://github.com/uitdots/vim)<br>
+1. ⬆️ Pushed 1 commit(s) to [uitdots/vim](https://github.com/uitdots/vim)<br>
+2. 💬 Commented on [#17](https://github.com/uitdots/nvim/issues/17#issuecomment-2875820445) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+3. ✔️ Closed issue [#17](https://github.com/uitdots/nvim/issues/17) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+4. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+5. ❗️ Opened issue [#17](https://github.com/uitdots/nvim/issues/17) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 6. ⬆️ Pushed 1 commit(s) to [uitdots/vim](https://github.com/uitdots/vim)<br>
-7. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+7. ⬆️ Pushed 1 commit(s) to [uitdots/vim](https://github.com/uitdots/vim)<br>
 8. ⬆️ Pushed 1 commit(s) to [uitdots/vim](https://github.com/uitdots/vim)<br>
-9. ⬆️ Pushed 1 commit(s) to [uitdots/vim](https://github.com/uitdots/vim)<br>
-10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+9. ❗️ Opened issue [#16](https://github.com/uitdots/nvim/issues/16) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+10. ❗️ Opened issue [#15](https://github.com/uitdots/nvim/issues/15) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 13/5/25 3:05 PM
+Last Updated on Wednesday, 14/5/25 3:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

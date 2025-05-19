@@ -361,20 +361,20 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+1. ⬆️ Pushed 1 commit(s) to [uitdots/vim](https://github.com/uitdots/vim)<br>
+2. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-4. 💬 Commented on [#2](https://github.com/uitdots/nvim/issues/2#issuecomment-2888899674) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-5. 💬 Commented on [#2](https://github.com/uitdots/nvim/issues/2#issuecomment-2888899167) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-6. 💬 Commented on [#2](https://github.com/uitdots/nvim/issues/2#issuecomment-2888896812) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-7. ⭐ Starred [DevelopCubeLab/BatteryInfo](https://github.com/DevelopCubeLab/BatteryInfo)<br>
-8. ❗️ Opened issue [#19](https://github.com/uitdots/nvim/issues/19) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-9. ⬆️ Pushed 1 commit(s) to [coinhub-uit/coinhub-uit.github.io](https://github.com/coinhub-uit/coinhub-uit.github.io)<br>
-10. ⭐ Starred [EndCredits/kernel_xiaomi_sm7250](https://github.com/EndCredits/kernel_xiaomi_sm7250)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+5. 💬 Commented on [#2](https://github.com/uitdots/nvim/issues/2#issuecomment-2888899674) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+6. 💬 Commented on [#2](https://github.com/uitdots/nvim/issues/2#issuecomment-2888899167) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+7. 💬 Commented on [#2](https://github.com/uitdots/nvim/issues/2#issuecomment-2888896812) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+8. ⭐ Starred [DevelopCubeLab/BatteryInfo](https://github.com/DevelopCubeLab/BatteryInfo)<br>
+9. ❗️ Opened issue [#19](https://github.com/uitdots/nvim/issues/19) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/coinhub-uit.github.io](https://github.com/coinhub-uit/coinhub-uit.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Monday, 19/5/25 3:05 AM
+Last Updated on Monday, 19/5/25 3:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -361,20 +361,20 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+1. 💬 Commented on [#14](https://github.com/uitdots/nvim/issues/14#issuecomment-2892920458) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 2. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 3. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-4. ⭐ Starred [BuiTam22/HubtCampusDemo](https://github.com/BuiTam22/HubtCampusDemo)<br>
-5. ⭐ Starred [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim)<br>
-6. ⬆️ Pushed 1 commit(s) to [uitdots/vim](https://github.com/uitdots/vim)<br>
-7. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+4. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+5. ⭐ Starred [BuiTam22/HubtCampusDemo](https://github.com/BuiTam22/HubtCampusDemo)<br>
+6. ⭐ Starred [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim)<br>
+7. ⬆️ Pushed 1 commit(s) to [uitdots/vim](https://github.com/uitdots/vim)<br>
+8. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-10. 💬 Commented on [#2](https://github.com/uitdots/nvim/issues/2#issuecomment-2888899674) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 20/5/25 3:05 AM
+Last Updated on Tuesday, 20/5/25 3:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -335,23 +335,20 @@ Last Updated on Friday, 23/05/25 at 08:13 PM UTC
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-
-1. 💬 Commented on [#24](https://github.com/uitdots/nvim/issues/24#issuecomment-2904191127) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-2. ✔️ Closed issue [#24](https://github.com/uitdots/nvim/issues/24) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-3. ❗️ Opened issue [#25](https://github.com/uitdots/nvim/issues/25) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-6. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-7. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-8. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-9. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+1. ❗️ Opened issue [#26](https://github.com/uitdots/nvim/issues/26) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+3. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+4. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+5. ⭐ Starred [DevelopCubeLab/ClearResidue](https://github.com/DevelopCubeLab/ClearResidue)<br>
+6. ⭐ Starred [thomaspark/gridgarden](https://github.com/thomaspark/gridgarden)<br>
+7. 💬 Commented on [#24](https://github.com/uitdots/nvim/issues/24#issuecomment-2904191127) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+8. ✔️ Closed issue [#24](https://github.com/uitdots/nvim/issues/24) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+9. ❗️ Opened issue [#25](https://github.com/uitdots/nvim/issues/25) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-
-Last Updated on Saturday, 24/5/25 3:05 AM
-
+Last Updated on Saturday, 24/5/25 3:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

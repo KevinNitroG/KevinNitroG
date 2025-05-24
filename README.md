@@ -155,7 +155,7 @@
   <h3>OSes</h3>
   <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"> -->
 </section>
@@ -165,12 +165,13 @@
   <img src="https://img.shields.io/badge/Python-3F7CAD?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F9AB00?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=educative&logoColor=white"> <!-- old logo is powershell -->
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> -->
 </section>
 
@@ -187,6 +188,7 @@
   <h3>Frameworks</h3>
   <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/jetpack_compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
 </section>
 
 <section>
@@ -210,10 +212,11 @@
 
 <section>
   <h3>Terminals</h3>
+  <img src="https://img.shields.io/badge/kitty-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white">
-  <img src="https://img.shields.io/badge/ghosty-3551f3?style=for-the-badge&logo=ghostery&logoColor=white">
-  <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white">
   <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/ghosty-3551f3?style=for-the-badge&logo=ghostery&logoColor=white"> -->
+  <!-- <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white"> -->
 </section>
@@ -221,12 +224,12 @@
 <section>
   <h3>Apps</h3>
   <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white">
-  <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"> -->
 </section>
 
 <section>
-  <h3>Cooding...</h3>
+  <h3>Coding...</h3>
   <a href="https://leetcode.com/u/KevinNitro/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white">
   </a>
@@ -263,13 +266,13 @@
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
   <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
-  <img src="https://img.shields.io/badge/zookeeper-699452?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/grpc-fbb03b?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
   <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/zookeeper-699452?style=for-the-badge&logoColor=white"> -->
 </section>
 
 <section>
@@ -297,20 +300,19 @@
 <!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
-**I Mostly Code in Python** 
+
+**I Mostly Code in Python**
 
 ```text
-Python                   17 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-TypeScript               14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Shell                    11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Kotlin                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Python                   17 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
+TypeScript               14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.46 %
+Shell                    11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+Kotlin                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
+Last Updated on Friday, 23/05/25 at 08:13 PM UTC
 
-
-
- Last Updated on Friday, 23/05/25 at 08:13 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>
@@ -333,6 +335,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
+
 1. 💬 Commented on [#24](https://github.com/uitdots/nvim/issues/24#issuecomment-2904191127) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 2. ✔️ Closed issue [#24](https://github.com/uitdots/nvim/issues/24) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 3. ❗️ Opened issue [#25](https://github.com/uitdots/nvim/issues/25) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
@@ -346,7 +349,9 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated on Saturday, 24/5/25 3:05 AM
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

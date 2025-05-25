@@ -364,20 +364,20 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#4](https://github.com/coinhub-uit/android/issues/4) in [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-2. 📔 Created new repository [uitdots/uals](https://github.com/uitdots/uals)<br>
-3. ❗️ Opened issue [#28](https://github.com/uitdots/nvim/issues/28) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-4. ❗️ Opened issue [#27](https://github.com/uitdots/nvim/issues/27) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-5. ❗️ Opened issue [#3](https://github.com/coinhub-uit/android/issues/3) in [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-6. ❗️ Opened issue [#2](https://github.com/coinhub-uit/android/issues/2) in [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-7. ❗️ Opened issue [#1](https://github.com/coinhub-uit/android/issues/1) in [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-8. ❗️ Opened issue [#12](https://github.com/KevinNitroG/dotfiles/issues/12) in [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-9. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+1. ⭐ Starred [Diniboy1123/usque](https://github.com/Diniboy1123/usque)<br>
+2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+3. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+6. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+7. ❗️ Opened issue [#29](https://github.com/uitdots/nvim/issues/29) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+8. ⬆️ Pushed 1 commit(s) to [uitdots/vim](https://github.com/uitdots/vim)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+10. ❗️ Opened issue [#4](https://github.com/coinhub-uit/android/issues/4) in [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 25/5/25 3:05 PM
+Last Updated on Monday, 26/5/25 3:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

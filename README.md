@@ -363,20 +363,20 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#21](https://github.com/yioneko/nvim-vtsls/issues/21#issuecomment-2917328709) in [yioneko/nvim-vtsls](https://github.com/yioneko/nvim-vtsls)<br>
-2. 💬 Commented on [#14](https://github.com/uitdots/nvim/issues/14#issuecomment-2917325585) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-3. ⭐ Starred [TheWinner02/TGExtra](https://github.com/TheWinner02/TGExtra)<br>
-4. ⭐ Starred [waruhachi/TGExtra](https://github.com/waruhachi/TGExtra)<br>
-5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-6. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-7. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-8. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+1. ⬆️ Pushed 2 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+3. ⭐ Starred [bibicadotnet/telegram-link-redirector](https://github.com/bibicadotnet/telegram-link-redirector)<br>
+4. ❗️ Opened issue [#7](https://github.com/coinhub-uit/android/issues/7) in [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+5. ❗️ Opened issue [#6](https://github.com/coinhub-uit/android/issues/6) in [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+6. ❗️ Opened issue [#5](https://github.com/coinhub-uit/android/issues/5) in [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+7. 💬 Commented on [#21](https://github.com/yioneko/nvim-vtsls/issues/21#issuecomment-2917328709) in [yioneko/nvim-vtsls](https://github.com/yioneko/nvim-vtsls)<br>
+8. 💬 Commented on [#14](https://github.com/uitdots/nvim/issues/14#issuecomment-2917325585) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+9. ⭐ Starred [TheWinner02/TGExtra](https://github.com/TheWinner02/TGExtra)<br>
+10. ⭐ Starred [waruhachi/TGExtra](https://github.com/waruhachi/TGExtra)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 29/5/25 3:05 PM
+Last Updated on Friday, 30/5/25 3:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

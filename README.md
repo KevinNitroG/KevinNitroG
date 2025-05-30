@@ -363,20 +363,20 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-3. ⭐ Starred [bibicadotnet/telegram-link-redirector](https://github.com/bibicadotnet/telegram-link-redirector)<br>
-4. ❗️ Opened issue [#7](https://github.com/coinhub-uit/android/issues/7) in [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-5. ❗️ Opened issue [#6](https://github.com/coinhub-uit/android/issues/6) in [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-6. ❗️ Opened issue [#5](https://github.com/coinhub-uit/android/issues/5) in [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-7. 💬 Commented on [#21](https://github.com/yioneko/nvim-vtsls/issues/21#issuecomment-2917328709) in [yioneko/nvim-vtsls](https://github.com/yioneko/nvim-vtsls)<br>
-8. 💬 Commented on [#14](https://github.com/uitdots/nvim/issues/14#issuecomment-2917325585) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-9. ⭐ Starred [TheWinner02/TGExtra](https://github.com/TheWinner02/TGExtra)<br>
-10. ⭐ Starred [waruhachi/TGExtra](https://github.com/waruhachi/TGExtra)<br>
+1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+6. ❗️ Opened issue [#11](https://github.com/coinhub-uit/android/issues/11) in [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+7. ❗️ Opened issue [#31](https://github.com/uitdots/nvim/issues/31) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+8. ❗️ Opened issue [#10](https://github.com/coinhub-uit/android/issues/10) in [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+9. ❗️ Opened issue [#9](https://github.com/coinhub-uit/android/issues/9) in [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+10. ⬆️ Pushed 2 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 30/5/25 3:05 AM
+Last Updated on Friday, 30/5/25 3:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

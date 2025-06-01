@@ -364,20 +364,20 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#14](https://github.com/coinhub-uit/android/issues/14) in [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
 2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-4. ❗️ Opened issue [#1](https://github.com/uitdots/vim/issues/1) in [uitdots/vim](https://github.com/uitdots/vim)<br>
-5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-6. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+3. ✔️ Closed issue [#1](https://github.com/coinhub-uit/android/issues/1) in [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+4. 🎉 Merged PR [#8](https://github.com/coinhub-uit/android/pull/8) in [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+5. 👍 Approved [#8](https://github.com/coinhub-uit/android/pull/8#pullrequestreview-2885175416) in [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+6. ⬆️ Pushed 42 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
 7. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
 8. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
 9. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 1/6/25 3:06 AM
+Last Updated on Sunday, 1/6/25 3:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

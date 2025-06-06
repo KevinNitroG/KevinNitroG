@@ -367,20 +367,20 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#96](https://github.com/Alexis12119/nvim-config/issues/96#issuecomment-2945468660) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+1. 💬 Commented on [#96](https://github.com/Alexis12119/nvim-config/issues/96#issuecomment-2948401449) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
 2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
 3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+4. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+5. 💬 Commented on [#96](https://github.com/Alexis12119/nvim-config/issues/96#issuecomment-2945468660) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
 6. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
 7. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-8. 💬 Commented on [#96](https://github.com/Alexis12119/nvim-config/issues/96#issuecomment-2944880559) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-9. ⬆️ Pushed 2 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+8. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+9. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
 10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 6/6/25 3:06 PM
+Last Updated on Saturday, 7/6/25 3:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

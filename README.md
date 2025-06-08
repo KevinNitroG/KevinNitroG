@@ -367,20 +367,20 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#14](https://github.com/uitdots/nvim/issues/14#issuecomment-2952915702) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-3. 💬 Commented on [#96](https://github.com/Alexis12119/nvim-config/issues/96#issuecomment-2952372778) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+4. 💬 Commented on [#347](https://github.com/pmizio/typescript-tools.nvim/issues/347#issuecomment-2953580661) in [pmizio/typescript-tools.nvim](https://github.com/pmizio/typescript-tools.nvim)<br>
 5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-6. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-7. ❗️ Opened issue [#34](https://github.com/uitdots/nvim/issues/34) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-8. ⭐ Starred [da-luce/astroterm](https://github.com/da-luce/astroterm)<br>
+6. 💬 Commented on [#14](https://github.com/uitdots/nvim/issues/14#issuecomment-2952915702) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+7. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+8. 💬 Commented on [#96](https://github.com/Alexis12119/nvim-config/issues/96#issuecomment-2952372778) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
 9. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
 10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 8/6/25 3:06 AM
+Last Updated on Sunday, 8/6/25 3:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

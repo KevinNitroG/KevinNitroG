@@ -367,20 +367,20 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Original IPAs](https://github.com/KevinNitroG/uYouEnhanced/releases/tag/origin) in [KevinNitroG/uYouEnhanced](https://github.com/KevinNitroG/uYouEnhanced)<br>
-2. ⬆️ Pushed 51 commit(s) to [KevinNitroG/uYouEnhanced](https://github.com/KevinNitroG/uYouEnhanced)<br>
-3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-6. ⬆️ Pushed 1 commit(s) to [uitdots/vim](https://github.com/uitdots/vim)<br>
+1. ⬆️ Pushed 2 commit(s) to [KevinNitroG/uYouEnhanced](https://github.com/KevinNitroG/uYouEnhanced)<br>
+2. ⬆️ Pushed 2 commit(s) to [KevinNitroG/uYouEnhanced](https://github.com/KevinNitroG/uYouEnhanced)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/uYouEnhanced](https://github.com/KevinNitroG/uYouEnhanced)<br>
+4. ⭐ Starred [Mon-ius/Docker-Warp-Socks](https://github.com/Mon-ius/Docker-Warp-Socks)<br>
+5. ⬆️ Pushed 7 commit(s) to [KevinNitroG/uYouEnhanced](https://github.com/KevinNitroG/uYouEnhanced)<br>
+6. ⬆️ Pushed 3 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 7. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-8. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-9. ⬆️ Pushed 1 commit(s) to [uitdots/uals](https://github.com/uitdots/uals)<br>
-10. ❗️ Opened issue [#2](https://github.com/Calamivathan/StudoCu-PDF-Downloader/issues/2) in [Calamivathan/StudoCu-PDF-Downloader](https://github.com/Calamivathan/StudoCu-PDF-Downloader)<br>
+8. ✌️ Released [Original IPAs](https://github.com/KevinNitroG/uYouEnhanced/releases/tag/origin) in [KevinNitroG/uYouEnhanced](https://github.com/KevinNitroG/uYouEnhanced)<br>
+9. ⬆️ Pushed 51 commit(s) to [KevinNitroG/uYouEnhanced](https://github.com/KevinNitroG/uYouEnhanced)<br>
+10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Wednesday, 11/6/25 3:06 AM
+Last Updated on Wednesday, 11/6/25 3:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

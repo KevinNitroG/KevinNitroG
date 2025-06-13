@@ -367,20 +367,20 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Pumba98/flux2-gitops](https://github.com/Pumba98/flux2-gitops)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-4. ⭐ Starred [mfontanini/presenterm](https://github.com/mfontanini/presenterm)<br>
-5. ⭐ Starred [pvolok/mprocs](https://github.com/pvolok/mprocs)<br>
-6. ⭐ Starred [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot)<br>
-7. ⭐ Starred [Byron/dua-cli](https://github.com/Byron/dua-cli)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/YTLitePlus](https://github.com/KevinNitroG/YTLitePlus)<br>
-9. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+1. ⭐ Starred [L3MON4D3/nvim-matchconfig](https://github.com/L3MON4D3/nvim-matchconfig)<br>
+2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+4. ⭐ Starred [dayanch96/Glow](https://github.com/dayanch96/Glow)<br>
+5. ⭐ Starred [dayanch96/Flow](https://github.com/dayanch96/Flow)<br>
+6. ⭐ Starred [Pumba98/flux2-gitops](https://github.com/Pumba98/flux2-gitops)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+9. ⭐ Starred [mfontanini/presenterm](https://github.com/mfontanini/presenterm)<br>
+10. ⭐ Starred [pvolok/mprocs](https://github.com/pvolok/mprocs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 13/6/25 3:06 PM
+Last Updated on Saturday, 14/6/25 3:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

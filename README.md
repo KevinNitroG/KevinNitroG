@@ -367,20 +367,20 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-6. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-7. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-9. ❗️ Opened issue [#36](https://github.com/uitdots/nvim/issues/36) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-10. 💬 Commented on [#14](https://github.com/uitdots/nvim/issues/14#issuecomment-2971803998) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+1. 💬 Commented on [#2](https://github.com/uitdots/nvim/issues/2#issuecomment-2973499767) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+2. ⭐ Starred [kana/vim-textobj-entire](https://github.com/kana/vim-textobj-entire)<br>
+3. 💬 Commented on [#38](https://github.com/uitdots/nvim/issues/38#issuecomment-2973105132) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+4. 💬 Commented on [#38](https://github.com/uitdots/nvim/issues/38#issuecomment-2973101062) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+5. 💬 Commented on [#37](https://github.com/uitdots/nvim/issues/37#issuecomment-2973078311) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+6. ❗️ Opened issue [#38](https://github.com/uitdots/nvim/issues/38) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+7. ❗️ Opened issue [#37](https://github.com/uitdots/nvim/issues/37) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+8. ⭐ Starred [khoakomlem/khoakomlem-internal](https://github.com/khoakomlem/khoakomlem-internal)<br>
+9. ⭐ Starred [containers/bubblewrap](https://github.com/containers/bubblewrap)<br>
+10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 15/6/25 3:06 AM
+Last Updated on Sunday, 15/6/25 3:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

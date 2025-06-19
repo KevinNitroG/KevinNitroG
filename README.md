@@ -366,20 +366,20 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Origin](https://github.com/KevinNitroG/SCInsta/releases/tag/origin) in [KevinNitroG/SCInsta](https://github.com/KevinNitroG/SCInsta)<br>
-2. 🔱 Forked [KevinNitroG/SCInsta](https://github.com/KevinNitroG/SCInsta) from [SoCuul/SCInsta](https://github.com/SoCuul/SCInsta)<br>
-3. ⭐ Starred [UInt2048/CyberKit](https://github.com/UInt2048/CyberKit)<br>
-4. ⭐ Starred [PoomSmart/Polyfills](https://github.com/PoomSmart/Polyfills)<br>
-5. ❗️ Opened issue [#40](https://github.com/uitdots/nvim/issues/40) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-6. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-7. ⬆️ Pushed 3 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-8. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-9. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+1. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+2. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+4. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+5. 💬 Commented on [#14](https://github.com/uitdots/nvim/issues/14#issuecomment-2983896925) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+6. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+7. ✌️ Released [Origin](https://github.com/KevinNitroG/SCInsta/releases/tag/origin) in [KevinNitroG/SCInsta](https://github.com/KevinNitroG/SCInsta)<br>
+8. 🔱 Forked [KevinNitroG/SCInsta](https://github.com/KevinNitroG/SCInsta) from [SoCuul/SCInsta](https://github.com/SoCuul/SCInsta)<br>
+9. ⭐ Starred [UInt2048/CyberKit](https://github.com/UInt2048/CyberKit)<br>
+10. ⭐ Starred [PoomSmart/Polyfills](https://github.com/PoomSmart/Polyfills)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 19/6/25 3:06 AM
+Last Updated on Thursday, 19/6/25 3:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

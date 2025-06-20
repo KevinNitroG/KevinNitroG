@@ -366,20 +366,20 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#13](https://github.com/KevinNitroG/dotfiles/issues/13) in [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-6. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+1. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+2. ⬆️ Pushed 4 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+3. ❗️ Opened issue [#204](https://github.com/Davidyz/VectorCode/issues/204) in [Davidyz/VectorCode](https://github.com/Davidyz/VectorCode)<br>
+4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+5. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 7. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-8. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-9. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-10. 💬 Commented on [#14](https://github.com/uitdots/nvim/issues/14#issuecomment-2983896925) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+8. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+9. ❗️ Opened issue [#13](https://github.com/KevinNitroG/dotfiles/issues/13) in [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 20/6/25 3:06 AM
+Last Updated on Friday, 20/6/25 3:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

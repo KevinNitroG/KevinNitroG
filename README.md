@@ -336,20 +336,20 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#37](https://github.com/uitdots/nvim/issues/37#issuecomment-2988814927) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-2. 💬 Commented on [#37](https://github.com/uitdots/nvim/issues/37#issuecomment-2988812799) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-3. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-4. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-5. 💬 Commented on [#37](https://github.com/uitdots/nvim/issues/37#issuecomment-2988687302) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+1. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+2. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
 6. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-7. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-8. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-9. ⬆️ Pushed 4 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-10. ❗️ Opened issue [#204](https://github.com/Davidyz/VectorCode/issues/204) in [Davidyz/VectorCode](https://github.com/Davidyz/VectorCode)<br>
+7. ⭐ Starred [upstash/context7](https://github.com/upstash/context7)<br>
+8. ⭐ Starred [ntd249/ntdiptv](https://github.com/ntd249/ntdiptv)<br>
+9. 💬 Commented on [#41](https://github.com/uitdots/nvim/issues/41#issuecomment-2990164761) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+10. ✔️ Closed issue [#41](https://github.com/uitdots/nvim/issues/41) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 21/6/25 3:06 AM
+Last Updated on Saturday, 21/6/25 3:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

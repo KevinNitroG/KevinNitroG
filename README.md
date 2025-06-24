@@ -452,11 +452,11 @@ Last Updated on Tuesday, 24/6/25 3:06 PM
             <tr>
               <td align="center" rowspan="2"><strong>PHONE</strong></td>
               <td>iPhone 14 Pro Max</td>
-              <td>iOS 16.3 <em>(Trollstore installed)</em></td>
+              <td>iOS 16.3 <em>(Trollstore)</em></td>
             </tr>
             <tr>
               <td>Xiaomi Redmi K30 5G</td>
-              <td>Android 12</td>
+              <td>Android 15 YASP</td>
             </tr>
           </tbody>
         </table>

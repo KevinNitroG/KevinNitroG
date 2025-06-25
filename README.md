@@ -366,20 +366,20 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-2. 💬 Commented on [#1936](https://github.com/Saghen/blink.cmp/issues/1936#issuecomment-3001053750) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)<br>
-3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-4. ❗️ Opened issue [#42](https://github.com/uitdots/nvim/issues/42) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-5. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-6. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-7. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-8. ⬆️ Pushed 3 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-9. ⬆️ Pushed 1 commit(s) to [coinhub-uit/coinhub-uit.github.io](https://github.com/coinhub-uit/coinhub-uit.github.io)<br>
-10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/coinhub-uit.github.io](https://github.com/coinhub-uit/coinhub-uit.github.io)<br>
+1. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+2. 💬 Commented on [#1936](https://github.com/Saghen/blink.cmp/issues/1936#issuecomment-3003600986) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)<br>
+3. 💬 Commented on [#1936](https://github.com/Saghen/blink.cmp/issues/1936#issuecomment-3003530594) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)<br>
+4. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+5. ⭐ Starred [sonnh-uit/HCMUIT_thesistemplate](https://github.com/sonnh-uit/HCMUIT_thesistemplate)<br>
+6. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+7. 💬 Commented on [#1936](https://github.com/Saghen/blink.cmp/issues/1936#issuecomment-3001053750) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)<br>
+8. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+9. ❗️ Opened issue [#42](https://github.com/uitdots/nvim/issues/42) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+10. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Wednesday, 25/6/25 3:06 PM
+Last Updated on Thursday, 26/6/25 3:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

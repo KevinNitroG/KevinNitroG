@@ -367,20 +367,20 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-2. ✔️ Closed issue [#35](https://github.com/uitdots/nvim/issues/35) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-3. ✔️ Closed issue [#43](https://github.com/uitdots/nvim/issues/43) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-4. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-5. ✔️ Closed issue [#39](https://github.com/uitdots/nvim/issues/39) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-6. 💬 Commented on [#25](https://github.com/nikhilbadyal/ghaction-telegram-uploader/issues/25#issuecomment-3016665465) in [nikhilbadyal/ghaction-telegram-uploader](https://github.com/nikhilbadyal/ghaction-telegram-uploader)<br>
-7. ⭐ Starred [grafana/k6](https://github.com/grafana/k6)<br>
-8. ⭐ Starred [derailed/k9s](https://github.com/derailed/k9s)<br>
-9. ⭐ Starred [p0deje/Maccy](https://github.com/p0deje/Maccy)<br>
+1. ⬆️ Pushed 2 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+2. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+3. ⬆️ Pushed 3 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+4. ⭐ Starred [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui)<br>
+5. ⭐ Starred [isd-project/isd](https://github.com/isd-project/isd)<br>
+6. ⭐ Starred [vietmap-company/vietnam_administrative_address](https://github.com/vietmap-company/vietnam_administrative_address)<br>
+7. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+8. ✔️ Closed issue [#35](https://github.com/uitdots/nvim/issues/35) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+9. ✔️ Closed issue [#43](https://github.com/uitdots/nvim/issues/43) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 10. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Monday, 30/6/25 3:06 PM
+Last Updated on Tuesday, 1/7/25 3:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

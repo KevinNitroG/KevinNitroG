@@ -366,20 +366,20 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-2. ❗️ Opened issue [#44](https://github.com/uitdots/nvim/issues/44) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/hello-devops](https://github.com/KevinNitroG/hello-devops)<br>
-5. ⭐ Starred [minhpq331/devops-training](https://github.com/minhpq331/devops-training)<br>
-6. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-7. ❌ Closed PR [#1](https://github.com/KevinNitroG/hello-devops/pull/1) in [KevinNitroG/hello-devops](https://github.com/KevinNitroG/hello-devops)<br>
-8. ❌ Closed PR [#2](https://github.com/KevinNitroG/hello-devops/pull/2) in [KevinNitroG/hello-devops](https://github.com/KevinNitroG/hello-devops)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/hello-devops](https://github.com/KevinNitroG/hello-devops)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/hello-devops](https://github.com/KevinNitroG/hello-devops)<br>
+1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+2. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+3. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+4. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+5. ✌️ Released [v1.0.0](https://github.com/coinhub-uit/android/releases/tag/1.0.0) in [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+6. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+7. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+8. 💬 Commented on [#6](https://github.com/fcitx/fcitx5-bamboo/issues/6#issuecomment-3031807655) in [fcitx/fcitx5-bamboo](https://github.com/fcitx/fcitx5-bamboo)<br>
+9. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+10. 💬 Commented on [#10](https://github.com/uitdots/nvim/issues/10#issuecomment-3028304783) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 3/7/25 3:07 PM
+Last Updated on Friday, 4/7/25 3:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -367,19 +367,19 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-2. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-3. ⬆️ Pushed 3 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+2. ✔️ Closed issue [#2](https://github.com/uitdots/nvim/issues/2) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+3. ✔️ Closed issue [#44](https://github.com/uitdots/nvim/issues/44) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 4. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-5. 💬 Commented on [#46](https://github.com/uitdots/nvim/issues/46#issuecomment-3036718244) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-6. ✔️ Closed issue [#46](https://github.com/uitdots/nvim/issues/46) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-7. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-8. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-9. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+5. ✔️ Closed issue [#10](https://github.com/uitdots/nvim/issues/10) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+6. ❗️ Opened issue [#49](https://github.com/uitdots/nvim/issues/49) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+7. ⬆️ Pushed 5 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+8. ✔️ Closed issue [#45](https://github.com/uitdots/nvim/issues/45) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+9. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 10. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 5/7/25 3:07 PM
+Last Updated on Sunday, 6/7/25 3:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

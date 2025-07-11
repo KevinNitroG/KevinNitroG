@@ -366,18 +366,18 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 2. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-3. 💬 Commented on [#78](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim/issues/78#issuecomment-3056023576) in [WhoIsSethDaniel/mason-tool-installer.nvim](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+3. ⭐ Starred [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs)<br>
+4. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 5. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-6. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-7. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-8. 💬 Commented on [#51](https://github.com/uitdots/nvim/issues/51#issuecomment-3055765996) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-9. ✔️ Closed issue [#51](https://github.com/uitdots/nvim/issues/51) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+6. 💬 Commented on [#78](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim/issues/78#issuecomment-3056023576) in [WhoIsSethDaniel/mason-tool-installer.nvim](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+8. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+9. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 10. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 11/7/25 3:07 PM
+Last Updated on Saturday, 12/7/25 3:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

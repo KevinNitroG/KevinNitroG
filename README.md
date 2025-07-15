@@ -363,20 +363,20 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-4. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-5. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-6. ⭐ Starred [small-hack/argocd-apps](https://github.com/small-hack/argocd-apps)<br>
+1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/argocd-manifest](https://github.com/coinhub-uit/argocd-manifest)<br>
+2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/argocd-manifest](https://github.com/coinhub-uit/argocd-manifest)<br>
+3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/argocd-manifest](https://github.com/coinhub-uit/argocd-manifest)<br>
+4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/argocd-manifest](https://github.com/coinhub-uit/argocd-manifest)<br>
+5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/argocd-manifest](https://github.com/coinhub-uit/argocd-manifest)<br>
+6. 🎉 Merged PR [#1](https://github.com/coinhub-uit/argocd-manifest/pull/1) in [coinhub-uit/argocd-manifest](https://github.com/coinhub-uit/argocd-manifest)<br>
 7. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-8. 💬 Commented on [#9](https://github.com/argoproj/argo-schema-generator/issues/9#issuecomment-3069592105) in [argoproj/argo-schema-generator](https://github.com/argoproj/argo-schema-generator)<br>
-9. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+8. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+9. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+10. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 15/7/25 3:07 AM
+Last Updated on Tuesday, 15/7/25 3:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

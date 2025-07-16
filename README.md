@@ -363,20 +363,20 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [norsemangrey/zsh-active-cheatsheet](https://github.com/norsemangrey/zsh-active-cheatsheet)<br>
-2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/argocd-manifest](https://github.com/coinhub-uit/argocd-manifest)<br>
-3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/argocd-manifest](https://github.com/coinhub-uit/argocd-manifest)<br>
-4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/argocd-manifest](https://github.com/coinhub-uit/argocd-manifest)<br>
-5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/argocd-manifest](https://github.com/coinhub-uit/argocd-manifest)<br>
-6. ⬆️ Pushed 1 commit(s) to [coinhub-uit/argocd-manifest](https://github.com/coinhub-uit/argocd-manifest)<br>
-7. 🎉 Merged PR [#1](https://github.com/coinhub-uit/argocd-manifest/pull/1) in [coinhub-uit/argocd-manifest](https://github.com/coinhub-uit/argocd-manifest)<br>
-8. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-9. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+1. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+2. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+3. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+4. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+5. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+6. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+9. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+10. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Wednesday, 16/7/25 3:07 PM
+Last Updated on Thursday, 17/7/25 3:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

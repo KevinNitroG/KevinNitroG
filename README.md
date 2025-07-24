@@ -365,18 +365,18 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/argocd-manifest](https://github.com/coinhub-uit/argocd-manifest)<br>
 2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/argocd-manifest](https://github.com/coinhub-uit/argocd-manifest)<br>
-3. 💬 Commented on [#98](https://github.com/supabase-community/supabase-kubernetes/issues/98#issuecomment-3109545495) in [supabase-community/supabase-kubernetes](https://github.com/supabase-community/supabase-kubernetes)<br>
-4. ❗️ Opened issue [#25](https://github.com/tokens-studio/helm/issues/25) in [tokens-studio/helm](https://github.com/tokens-studio/helm)<br>
+3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/argocd-manifest](https://github.com/coinhub-uit/argocd-manifest)<br>
+4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/argocd-manifest](https://github.com/coinhub-uit/argocd-manifest)<br>
 5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/argocd-manifest](https://github.com/coinhub-uit/argocd-manifest)<br>
-6. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-7. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-8. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-9. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-10. 💬 Commented on [#53](https://github.com/uitdots/nvim/issues/53#issuecomment-3102138387) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+6. ⭐ Starred [ngodat0103/home-lab](https://github.com/ngodat0103/home-lab)<br>
+7. ⬆️ Pushed 1 commit(s) to [coinhub-uit/argocd-manifest](https://github.com/coinhub-uit/argocd-manifest)<br>
+8. ⬆️ Pushed 1 commit(s) to [coinhub-uit/argocd-manifest](https://github.com/coinhub-uit/argocd-manifest)<br>
+9. ⬆️ Pushed 1 commit(s) to [coinhub-uit/argocd-manifest](https://github.com/coinhub-uit/argocd-manifest)<br>
+10. ⬆️ Pushed 1 commit(s) to [coinhub-uit/argocd-manifest](https://github.com/coinhub-uit/argocd-manifest)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 24/7/25 3:07 PM
+Last Updated on Friday, 25/7/25 3:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

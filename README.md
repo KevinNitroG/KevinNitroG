@@ -364,19 +364,19 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-2. ⭐ Starred [ethersync/ethersync](https://github.com/ethersync/ethersync)<br>
-3. ⭐ Starred [CookieGMVN/MBBank](https://github.com/CookieGMVN/MBBank)<br>
-4. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+2. ⭐ Starred [tueduong05/dotfiles](https://github.com/tueduong05/dotfiles)<br>
+3. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+4. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 5. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 6. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-7. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-8. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-9. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-10. ⭐ Starred [schasse/tmux-jump](https://github.com/schasse/tmux-jump)<br>
+7. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+8. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+9. ⭐ Starred [mgastonportillo/nvchad-config](https://github.com/mgastonportillo/nvchad-config)<br>
+10. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 8/8/25 3:08 AM
+Last Updated on Friday, 8/8/25 3:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

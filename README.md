@@ -364,20 +364,20 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-2. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-3. ⭐ Starred [tueduong05/dotfiles](https://github.com/tueduong05/dotfiles)<br>
-4. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-5. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-6. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-7. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-8. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+1. ⭐ Starred [devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops)<br>
+2. ⭐ Starred [bregman-arie/howtheydevops](https://github.com/bregman-arie/howtheydevops)<br>
+3. ⭐ Starred [dynamotn/home-ops](https://github.com/dynamotn/home-ops)<br>
+4. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+5. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+6. ⭐ Starred [tueduong05/dotfiles](https://github.com/tueduong05/dotfiles)<br>
+7. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+8. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 9. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-10. ⭐ Starred [mgastonportillo/nvchad-config](https://github.com/mgastonportillo/nvchad-config)<br>
+10. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 9/8/25 3:08 PM
+Last Updated on Sunday, 10/8/25 3:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -365,19 +365,19 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/cv](https://github.com/KevinNitroG/cv)<br>
-2. 📔 Created new repository [KevinNitroG/cv](https://github.com/KevinNitroG/cv)<br>
-3. ⬆️ Pushed 3 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-4. ⭐ Starred [devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops)<br>
-5. ⭐ Starred [bregman-arie/howtheydevops](https://github.com/bregman-arie/howtheydevops)<br>
-6. ⭐ Starred [dynamotn/home-ops](https://github.com/dynamotn/home-ops)<br>
-7. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-8. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-9. ⭐ Starred [tueduong05/dotfiles](https://github.com/tueduong05/dotfiles)<br>
-10. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/cv](https://github.com/KevinNitroG/cv)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/cv](https://github.com/KevinNitroG/cv)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/cv](https://github.com/KevinNitroG/cv)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/cv](https://github.com/KevinNitroG/cv)<br>
+6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/cv](https://github.com/KevinNitroG/cv)<br>
+7. ❌ Closed PR [#1](https://github.com/KevinNitroG/cv/pull/1) in [KevinNitroG/cv](https://github.com/KevinNitroG/cv)<br>
+8. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/cv](https://github.com/KevinNitroG/cv)<br>
+10. 📔 Created new repository [KevinNitroG/cv](https://github.com/KevinNitroG/cv)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 10/8/25 3:08 PM
+Last Updated on Monday, 11/8/25 3:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

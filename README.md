@@ -365,19 +365,19 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/cv](https://github.com/KevinNitroG/cv)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/cv](https://github.com/KevinNitroG/cv)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/cv](https://github.com/KevinNitroG/cv)<br>
+2. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+3. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/cv](https://github.com/KevinNitroG/cv)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/cv](https://github.com/KevinNitroG/cv)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/cv](https://github.com/KevinNitroG/cv)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/cv](https://github.com/KevinNitroG/cv)<br>
-8. ❌ Closed PR [#1](https://github.com/KevinNitroG/cv/pull/1) in [KevinNitroG/cv](https://github.com/KevinNitroG/cv)<br>
-9. ⬆️ Pushed 2 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+5. ⬆️ Pushed 2 commit(s) to [KevinNitroG/cv](https://github.com/KevinNitroG/cv)<br>
+6. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+7. ⬆️ Pushed 3 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+8. ⬆️ Pushed 2 commit(s) to [KevinNitroG/cv](https://github.com/KevinNitroG/cv)<br>
+9. ⬆️ Pushed 2 commit(s) to [KevinNitroG/cv](https://github.com/KevinNitroG/cv)<br>
 10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/cv](https://github.com/KevinNitroG/cv)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Monday, 11/8/25 3:08 PM
+Last Updated on Tuesday, 12/8/25 3:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

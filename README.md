@@ -364,7 +364,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+1. ⭐ Starred [KindleModding/KindleForge](https://github.com/KindleModding/KindleForge)<br>
 2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
@@ -377,7 +377,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 24/8/25 3:08 PM
+Last Updated on Monday, 25/8/25 3:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

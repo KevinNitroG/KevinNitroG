@@ -362,20 +362,20 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [marimo-team/marimo](https://github.com/marimo-team/marimo)<br>
-2. ❗️ Opened issue [#60](https://github.com/uitdots/nvim/issues/60) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-3. ⭐ Starred [derailed/popeye](https://github.com/derailed/popeye)<br>
-4. ⭐ Starred [oribarilan/lensline.nvim](https://github.com/oribarilan/lensline.nvim)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+1. ⭐ Starred [mitchross/talos-argocd-proxmox-starter](https://github.com/mitchross/talos-argocd-proxmox-starter)<br>
+2. ⭐ Starred [marimo-team/marimo](https://github.com/marimo-team/marimo)<br>
+3. ❗️ Opened issue [#60](https://github.com/uitdots/nvim/issues/60) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+4. ⭐ Starred [derailed/popeye](https://github.com/derailed/popeye)<br>
+5. ⭐ Starred [oribarilan/lensline.nvim](https://github.com/oribarilan/lensline.nvim)<br>
 6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-7. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+8. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 2/9/25 3:09 PM
+Last Updated on Wednesday, 3/9/25 3:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

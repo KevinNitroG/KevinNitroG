@@ -336,20 +336,20 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-8. ❗️ Opened issue [#3](https://github.com/KevinNitroG/homelab/issues/3) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-9. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 6/9/25 3:09 AM
+Last Updated on Saturday, 6/9/25 3:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

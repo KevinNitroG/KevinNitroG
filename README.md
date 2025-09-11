@@ -363,19 +363,19 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-4. ⬆️ Pushed 2 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-5. 💬 Commented on [#97](https://github.com/Alexis12119/nvim-config/issues/97#issuecomment-3272838676) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+5. ⬆️ Pushed 2 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+6. 💬 Commented on [#97](https://github.com/Alexis12119/nvim-config/issues/97#issuecomment-3272838676) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
 7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-10. 💬 Commented on [#97](https://github.com/Alexis12119/nvim-config/issues/97#issuecomment-3271589963) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 11/9/25 3:09 PM
+Last Updated on Friday, 12/9/25 3:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

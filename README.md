@@ -364,20 +364,20 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#98](https://github.com/Alexis12119/nvim-config/issues/98#issuecomment-3301022328) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
-2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+1. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+2. 💬 Commented on [#98](https://github.com/Alexis12119/nvim-config/issues/98#issuecomment-3301022328) in [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config)<br>
 3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [electricilies/incremental-model-slide](https://github.com/electricilies/incremental-model-slide)<br>
-5. ⬆️ Pushed 2 commit(s) to [electricilies/data](https://github.com/electricilies/data)<br>
-6. 📔 Created new repository [electricilies/data](https://github.com/electricilies/data)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-9. ⬆️ Pushed 1 commit(s) to [electricilies/incremental-model-slide](https://github.com/electricilies/incremental-model-slide)<br>
+4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+5. ⬆️ Pushed 1 commit(s) to [electricilies/incremental-model-slide](https://github.com/electricilies/incremental-model-slide)<br>
+6. ⬆️ Pushed 2 commit(s) to [electricilies/data](https://github.com/electricilies/data)<br>
+7. 📔 Created new repository [electricilies/data](https://github.com/electricilies/data)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 10. ⬆️ Pushed 1 commit(s) to [electricilies/incremental-model-slide](https://github.com/electricilies/incremental-model-slide)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 18/9/25 3:09 AM
+Last Updated on Thursday, 18/9/25 3:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

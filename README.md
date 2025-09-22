@@ -363,19 +363,19 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-2. ⬆️ Pushed 1 commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-4. 🎉 Merged PR [#13](https://github.com/KevinNitroG/homelab/pull/13) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+3. ⬆️ Pushed 2 commit(s) to [electricilies/kubernetes-manifest](https://github.com/electricilies/kubernetes-manifest)<br>
+4. ⬆️ Pushed 1 commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+5. ⬆️ Pushed 1 commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
 6. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-8. 🎉 Merged PR [#10](https://github.com/KevinNitroG/homelab/pull/10) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+7. 🎉 Merged PR [#13](https://github.com/KevinNitroG/homelab/pull/13) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-10. ❗️ Opened issue [#3](https://github.com/electricilies/kubernetes-manifest/issues/3) in [electricilies/kubernetes-manifest](https://github.com/electricilies/kubernetes-manifest)<br>
+10. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Monday, 22/9/25 3:09 PM
+Last Updated on Tuesday, 23/9/25 3:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

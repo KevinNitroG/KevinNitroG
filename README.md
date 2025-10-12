@@ -362,20 +362,20 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-2. ⭐ Starred [WillianPaiva/jira-nvim](https://github.com/WillianPaiva/jira-nvim)<br>
-3. ⬆️ Pushed 1 commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+1. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/blink-sql.nvim](https://github.com/KevinNitroG/blink-sql.nvim)<br>
+3. 📔 Created new repository [KevinNitroG/blink-sql.nvim](https://github.com/KevinNitroG/blink-sql.nvim)<br>
 4. ⬆️ Pushed 1 commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
 5. ⬆️ Pushed 1 commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-6. ⬆️ Pushed 1 commit(s) to [electricilies/electricilies.github.io](https://github.com/electricilies/electricilies.github.io)<br>
-7. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-8. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-10. ⬆️ Pushed 1 commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+6. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+7. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+8. 🎉 Merged PR [#17](https://github.com/KevinNitroG/homelab/pull/17) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+9. ⬆️ Pushed 1 commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+10. 🎉 Merged PR [#16](https://github.com/KevinNitroG/homelab/pull/16) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 12/10/25 3:10 PM
+Last Updated on Monday, 13/10/25 3:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

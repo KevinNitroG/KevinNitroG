@@ -367,16 +367,16 @@ TeX                      1 repo              ░░░░░░░░░░░�
 2. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
 3. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
 4. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-5. ⬆️ Pushed undefined commit(s) to [electricilies/frontend](https://github.com/electricilies/frontend)<br>
-6. ⬆️ Pushed undefined commit(s) to [electricilies/frontend](https://github.com/electricilies/frontend)<br>
-7. ⬆️ Pushed undefined commit(s) to [electricilies/frontend](https://github.com/electricilies/frontend)<br>
-8. ⬆️ Pushed undefined commit(s) to [electricilies/frontend](https://github.com/electricilies/frontend)<br>
-9. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-10. ⬆️ Pushed undefined commit(s) to [electricilies/frontend](https://github.com/electricilies/frontend)<br>
+5. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+6. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+7. ⬆️ Pushed undefined commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+8. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+9. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+10. ⬆️ Pushed undefined commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 19/10/25 3:10 PM
+Last Updated on Monday, 20/10/25 3:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

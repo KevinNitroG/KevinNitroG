@@ -364,19 +364,19 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-2. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+2. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 3. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-4. ⬆️ Pushed undefined commit(s) to [honya-bookstore/infrastructure](https://github.com/honya-bookstore/infrastructure)<br>
-5. ⬆️ Pushed undefined commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-6. ⬆️ Pushed undefined commit(s) to [electricilies/infrastructure](https://github.com/electricilies/infrastructure)<br>
-7. ⬆️ Pushed undefined commit(s) to [honya-bookstore/infrastructure](https://github.com/honya-bookstore/infrastructure)<br>
-8. ⬆️ Pushed undefined commit(s) to [electricilies/infrastructure](https://github.com/electricilies/infrastructure)<br>
-9. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-10. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+4. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+5. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+6. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+7. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+8. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+9. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+10. ⬆️ Pushed undefined commit(s) to [electricilies/electricilies.github.io](https://github.com/electricilies/electricilies.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Wednesday, 5/11/25 3:11 PM
+Last Updated on Thursday, 6/11/25 3:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

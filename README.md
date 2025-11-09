@@ -363,20 +363,20 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [electricilies/infrastructure](https://github.com/electricilies/infrastructure)<br>
-2. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-3. ⬆️ Pushed undefined commit(s) to [electricilies/infrastructure](https://github.com/electricilies/infrastructure)<br>
-4. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-5. ⬆️ Pushed undefined commit(s) to [electricilies/infrastructure](https://github.com/electricilies/infrastructure)<br>
-6. ⬆️ Pushed undefined commit(s) to [electricilies/infrastructure](https://github.com/electricilies/infrastructure)<br>
+1. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+2. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+3. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+4. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+5. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+6. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 7. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-8. ⬆️ Pushed undefined commit(s) to [electricilies/infrastructure](https://github.com/electricilies/infrastructure)<br>
-9. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-10. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+8. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+9. ⬆️ Pushed undefined commit(s) to [electricilies/infrastructure](https://github.com/electricilies/infrastructure)<br>
+10. ⬆️ Pushed undefined commit(s) to [electricilies/frontend](https://github.com/electricilies/frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 9/11/25 3:11 PM
+Last Updated on Monday, 10/11/25 3:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

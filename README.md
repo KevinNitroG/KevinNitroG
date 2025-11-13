@@ -363,20 +363,20 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [electricilies/playwright-slide](https://github.com/electricilies/playwright-slide)<br>
-2. ⬆️ Pushed undefined commit(s) to [electricilies/playwright-slide](https://github.com/electricilies/playwright-slide)<br>
+1. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+2. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 3. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 4. ⬆️ Pushed undefined commit(s) to [electricilies/playwright-slide](https://github.com/electricilies/playwright-slide)<br>
-5. ⬆️ Pushed undefined commit(s) to [electricilies/playwright-slide](https://github.com/electricilies/playwright-slide)<br>
+5. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 6. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 7. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-8. ⬆️ Pushed undefined commit(s) to [electricilies/playwright-slide](https://github.com/electricilies/playwright-slide)<br>
-9. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-10. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+8. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+9. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+10. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 13/11/25 3:11 PM
+Last Updated on Friday, 14/11/25 3:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

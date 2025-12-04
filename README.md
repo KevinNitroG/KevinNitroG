@@ -365,20 +365,20 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [honya-bookstore/backend](https://github.com/honya-bookstore/backend)<br>
-2. ⬆️ Pushed undefined commit(s) to [honya-bookstore/backend](https://github.com/honya-bookstore/backend)<br>
-3. ⬆️ Pushed undefined commit(s) to [honya-bookstore/backend](https://github.com/honya-bookstore/backend)<br>
-4. ⬆️ Pushed undefined commit(s) to [honya-bookstore/backend](https://github.com/honya-bookstore/backend)<br>
+1. ⬆️ Pushed undefined commit(s) to [honya-bookstore/honya-bookstore.github.io](https://github.com/honya-bookstore/honya-bookstore.github.io)<br>
+2. ⬆️ Pushed undefined commit(s) to [honya-bookstore/honya-bookstore.github.io](https://github.com/honya-bookstore/honya-bookstore.github.io)<br>
+3. ⬆️ Pushed undefined commit(s) to [electricilies/electricilies.github.io](https://github.com/electricilies/electricilies.github.io)<br>
+4. ⬆️ Pushed undefined commit(s) to [electricilies/electricilies.github.io](https://github.com/electricilies/electricilies.github.io)<br>
 5. ⬆️ Pushed undefined commit(s) to [honya-bookstore/backend](https://github.com/honya-bookstore/backend)<br>
-6. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+6. ⬆️ Pushed undefined commit(s) to [honya-bookstore/backend](https://github.com/honya-bookstore/backend)<br>
 7. ⬆️ Pushed undefined commit(s) to [honya-bookstore/backend](https://github.com/honya-bookstore/backend)<br>
-8. ⬆️ Pushed undefined commit(s) to [electricilies/test](https://github.com/electricilies/test)<br>
-9. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-10. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+8. ⬆️ Pushed undefined commit(s) to [honya-bookstore/backend](https://github.com/honya-bookstore/backend)<br>
+9. ⬆️ Pushed undefined commit(s) to [honya-bookstore/backend](https://github.com/honya-bookstore/backend)<br>
+10. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 4/12/25 3:12 PM
+Last Updated on Friday, 5/12/25 3:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

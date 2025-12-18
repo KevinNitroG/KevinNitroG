@@ -363,20 +363,20 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [electricilies/electricilies.github.io](https://github.com/electricilies/electricilies.github.io)<br>
-2. ⬆️ Pushed undefined commit(s) to [electricilies/electricilies.github.io](https://github.com/electricilies/electricilies.github.io)<br>
-3. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-4. ⬆️ Pushed undefined commit(s) to [electricilies/electricilies.github.io](https://github.com/electricilies/electricilies.github.io)<br>
-5. ⬆️ Pushed undefined commit(s) to [electricilies/electricilies.github.io](https://github.com/electricilies/electricilies.github.io)<br>
-6. ⬆️ Pushed undefined commit(s) to [electricilies/electricilies.github.io](https://github.com/electricilies/electricilies.github.io)<br>
+1. ⭐ Starred [armsnyder/openapi-language-server](https://github.com/armsnyder/openapi-language-server)<br>
+2. ⭐ Starred [icholy/lsplinks.nvim](https://github.com/icholy/lsplinks.nvim)<br>
+3. ⬆️ Pushed undefined commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+4. ⬆️ Pushed undefined commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+5. 💪 Opened PR [#27](undefined) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+6. ⬆️ Pushed undefined commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 7. ⬆️ Pushed undefined commit(s) to [electricilies/electricilies.github.io](https://github.com/electricilies/electricilies.github.io)<br>
 8. ⬆️ Pushed undefined commit(s) to [electricilies/electricilies.github.io](https://github.com/electricilies/electricilies.github.io)<br>
-9. ⭐ Starred [khaphanspace/gonhanh.org](https://github.com/khaphanspace/gonhanh.org)<br>
-10. ⭐ Starred [zekenie/d2-erd-from-postgres](https://github.com/zekenie/d2-erd-from-postgres)<br>
+9. ⬆️ Pushed undefined commit(s) to [electricilies/electricilies.github.io](https://github.com/electricilies/electricilies.github.io)<br>
+10. ⬆️ Pushed undefined commit(s) to [electricilies/electricilies.github.io](https://github.com/electricilies/electricilies.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 18/12/25 3:12 PM
+Last Updated on Friday, 19/12/25 3:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

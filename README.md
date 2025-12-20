@@ -363,20 +363,20 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#29](https://github.com/KevinNitroG/homelab/issues/29) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-2. ⭐ Starred [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema)<br>
-3. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-4. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-5. ❗️ Opened issue [#28](https://github.com/KevinNitroG/homelab/issues/28) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-6. ⬆️ Pushed undefined commit(s) to [KevinNitroG/vnpay-userscript](https://github.com/KevinNitroG/vnpay-userscript)<br>
-7. ⬆️ Pushed undefined commit(s) to [KevinNitroG/vnpay-userscript](https://github.com/KevinNitroG/vnpay-userscript)<br>
-8. ⬆️ Pushed undefined commit(s) to [KevinNitroG/vnpay-userscript](https://github.com/KevinNitroG/vnpay-userscript)<br>
-9. ⬆️ Pushed undefined commit(s) to [KevinNitroG/vnpay-userscript](https://github.com/KevinNitroG/vnpay-userscript)<br>
-10. ⬆️ Pushed undefined commit(s) to [KevinNitroG/vnpay-userscript](https://github.com/KevinNitroG/vnpay-userscript)<br>
+1. ✔️ Closed issue [#25](https://github.com/KevinNitroG/homelab/issues/25) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+2. 💬 Commented on [#32](https://github.com/KevinNitroG/homelab/pull/32#issuecomment-3678020468) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+3. 👍 Approved [#31](https://github.com/KevinNitroG/homelab/pull/31#pullrequestreview-3601201174) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+4. 💬 Commented on [#31](https://github.com/KevinNitroG/homelab/pull/31#issuecomment-3677954068) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+5. ❗️ Opened issue [#30](https://github.com/KevinNitroG/homelab/issues/30) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+6. ⬆️ Pushed undefined commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+7. ✔️ Closed issue [#29](https://github.com/KevinNitroG/homelab/issues/29) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+8. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+9. ⬆️ Pushed undefined commit(s) to [electricilies/electricilies.github.io](https://github.com/electricilies/electricilies.github.io)<br>
+10. ⬆️ Pushed undefined commit(s) to [electricilies/.github](https://github.com/electricilies/.github)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 20/12/25 3:12 PM
+Last Updated on Sunday, 21/12/25 3:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

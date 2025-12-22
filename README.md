@@ -363,20 +363,20 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#38](https://github.com/KevinNitroG/homelab/issues/38) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-2. ❗️ Opened issue [#37](https://github.com/KevinNitroG/homelab/issues/37) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-3. ❗️ Opened issue [#36](https://github.com/KevinNitroG/homelab/issues/36) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-4. ❌ Closed PR [#31](undefined) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-5. ❌ Closed PR [#32](undefined) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+1. 💬 Commented on [#5146](https://github.com/AndreiGavriliu/homelab/issues/5146#issuecomment-3680816576) in [AndreiGavriliu/homelab](https://github.com/AndreiGavriliu/homelab)<br>
+2. 💬 Commented on [#32](https://github.com/KevinNitroG/homelab/pull/32#issuecomment-3680810612) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+3. ⬆️ Pushed undefined commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+4. ⬆️ Pushed undefined commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+5. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 6. ⬆️ Pushed undefined commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-7. ✔️ Closed issue [#12](https://github.com/KevinNitroG/homelab/issues/12) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-8. 💬 Commented on [#12](https://github.com/KevinNitroG/homelab/issues/12#issuecomment-3678921979) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+7. ⬆️ Pushed undefined commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+8. ⬆️ Pushed undefined commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 9. ⬆️ Pushed undefined commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 10. ⬆️ Pushed undefined commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Monday, 22/12/25 3:12 AM
+Last Updated on Monday, 22/12/25 3:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -363,20 +363,20 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim)<br>
-2. ⭐ Starred [axkirillov/unified.nvim](https://github.com/axkirillov/unified.nvim)<br>
-3. ⭐ Starred [karol-broda/snitch](https://github.com/karol-broda/snitch)<br>
-4. ⭐ Starred [pranshuparmar/witr](https://github.com/pranshuparmar/witr)<br>
-5. ⭐ Starred [letieu/jira.nvim](https://github.com/letieu/jira.nvim)<br>
-6. ⭐ Starred [salesforce/bazel-vscode-java](https://github.com/salesforce/bazel-vscode-java)<br>
-7. ⭐ Starred [salesforce/bazel-eclipse](https://github.com/salesforce/bazel-eclipse)<br>
-8. ❗️ Opened issue [#67](https://github.com/uitdots/nvim/issues/67) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-9. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-10. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+1. ⬆️ Pushed undefined commit(s) to [electricilies/electricilies.github.io](https://github.com/electricilies/electricilies.github.io)<br>
+2. ⭐ Starred [Diaoul/home-ops](https://github.com/Diaoul/home-ops)<br>
+3. ⭐ Starred [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim)<br>
+4. ⭐ Starred [axkirillov/unified.nvim](https://github.com/axkirillov/unified.nvim)<br>
+5. ⭐ Starred [karol-broda/snitch](https://github.com/karol-broda/snitch)<br>
+6. ⭐ Starred [pranshuparmar/witr](https://github.com/pranshuparmar/witr)<br>
+7. ⭐ Starred [letieu/jira.nvim](https://github.com/letieu/jira.nvim)<br>
+8. ⭐ Starred [salesforce/bazel-vscode-java](https://github.com/salesforce/bazel-vscode-java)<br>
+9. ⭐ Starred [salesforce/bazel-eclipse](https://github.com/salesforce/bazel-eclipse)<br>
+10. ❗️ Opened issue [#67](https://github.com/uitdots/nvim/issues/67) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 30/12/25 3:12 PM
+Last Updated on Wednesday, 31/12/25 3:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

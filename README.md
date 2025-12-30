@@ -363,20 +363,20 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [letieu/jira.nvim](https://github.com/letieu/jira.nvim)<br>
-2. ⭐ Starred [salesforce/bazel-vscode-java](https://github.com/salesforce/bazel-vscode-java)<br>
-3. ⭐ Starred [salesforce/bazel-eclipse](https://github.com/salesforce/bazel-eclipse)<br>
-4. ❗️ Opened issue [#67](https://github.com/uitdots/nvim/issues/67) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-5. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-6. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-7. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-8. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+1. ⭐ Starred [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim)<br>
+2. ⭐ Starred [axkirillov/unified.nvim](https://github.com/axkirillov/unified.nvim)<br>
+3. ⭐ Starred [karol-broda/snitch](https://github.com/karol-broda/snitch)<br>
+4. ⭐ Starred [pranshuparmar/witr](https://github.com/pranshuparmar/witr)<br>
+5. ⭐ Starred [letieu/jira.nvim](https://github.com/letieu/jira.nvim)<br>
+6. ⭐ Starred [salesforce/bazel-vscode-java](https://github.com/salesforce/bazel-vscode-java)<br>
+7. ⭐ Starred [salesforce/bazel-eclipse](https://github.com/salesforce/bazel-eclipse)<br>
+8. ❗️ Opened issue [#67](https://github.com/uitdots/nvim/issues/67) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 9. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 10. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 30/12/25 3:12 AM
+Last Updated on Tuesday, 30/12/25 3:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

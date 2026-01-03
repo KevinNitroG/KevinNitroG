@@ -303,17 +303,17 @@
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               21 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Lua                      21 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Shell                    13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-YAML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+TypeScript               21 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Lua                      21 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Shell                    13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+YAML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 
 
 
 
- Last Updated on Saturday, 03/01/26 at 08:17 AM UTC
+ Last Updated on Saturday, 03/01/26 at 08:13 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

@@ -362,20 +362,20 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#65](https://github.com/uitdots/nvim/issues/65) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-2. 💬 Commented on [#65](https://github.com/uitdots/nvim/issues/65#issuecomment-3715420901) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-3. ✔️ Closed issue [#67](https://github.com/uitdots/nvim/issues/67) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-4. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-5. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-6. ⭐ Starred [thanhpy2009/VMK](https://github.com/thanhpy2009/VMK)<br>
-7. ⭐ Starred [aklt/plantuml-syntax](https://github.com/aklt/plantuml-syntax)<br>
-8. ⭐ Starred [Decodetalkers/tree_sitter_plantuml](https://github.com/Decodetalkers/tree_sitter_plantuml)<br>
-9. ⬆️ Pushed undefined commit(s) to [KevinNitroG/monorepo-bazel-test](https://github.com/KevinNitroG/monorepo-bazel-test)<br>
-10. ⬆️ Pushed undefined commit(s) to [KevinNitroG/monorepo-bazel-test](https://github.com/KevinNitroG/monorepo-bazel-test)<br>
+1. ⬆️ Pushed undefined commit(s) to [KevinNitroG/monorepo-bazel-test](https://github.com/KevinNitroG/monorepo-bazel-test)<br>
+2. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+3. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+4. ✔️ Closed issue [#65](https://github.com/uitdots/nvim/issues/65) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+5. 💬 Commented on [#65](https://github.com/uitdots/nvim/issues/65#issuecomment-3715420901) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+6. ✔️ Closed issue [#67](https://github.com/uitdots/nvim/issues/67) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+7. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+8. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+9. ⭐ Starred [thanhpy2009/VMK](https://github.com/thanhpy2009/VMK)<br>
+10. ⭐ Starred [aklt/plantuml-syntax](https://github.com/aklt/plantuml-syntax)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 8/1/26 3:01 PM
+Last Updated on Friday, 9/1/26 3:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

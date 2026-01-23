@@ -368,20 +368,20 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nvh0412/lazykafka](https://github.com/nvh0412/lazykafka)<br>
-2. ❗️ Opened issue [#18](https://github.com/notopia-uit/notopia/issues/18) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-3. ❗️ Opened issue [#70](https://github.com/uitdots/nvim/issues/70) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-4. ❗️ Opened issue [#11](https://github.com/vuesence/vitepress-plugin-diagrams/issues/11) in [vuesence/vitepress-plugin-diagrams](https://github.com/vuesence/vitepress-plugin-diagrams)<br>
-5. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+1. ⬆️ Pushed undefined commit(s) to [uitdots/mason-registry](https://github.com/uitdots/mason-registry)<br>
+2. 👍 Approved [#3](https://github.com/uitdots/mason-registry/pull/3#pullrequestreview-3699277584) in [uitdots/mason-registry](https://github.com/uitdots/mason-registry)<br>
+3. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+4. ✔️ Closed issue [#18](https://github.com/notopia-uit/notopia/issues/18) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+5. 💬 Commented on [#18](https://github.com/notopia-uit/notopia/issues/18#issuecomment-3789962696) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 6. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-7. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-8. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-9. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-10. ⬆️ Pushed undefined commit(s) to [notopia-uit/renovate-config](https://github.com/notopia-uit/renovate-config)<br>
+7. ✔️ Closed issue [#32](https://github.com/uitdots/nvim/issues/32) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+8. ✔️ Closed issue [#49](https://github.com/uitdots/nvim/issues/49) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+9. ⬆️ Pushed undefined commit(s) to [uitdots/mason-registry](https://github.com/uitdots/mason-registry)<br>
+10. ✔️ Closed issue [#68](https://github.com/uitdots/nvim/issues/68) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 23/1/26 3:01 PM
+Last Updated on Saturday, 24/1/26 3:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

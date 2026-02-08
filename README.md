@@ -368,20 +368,20 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-2. ✔️ Closed issue [#47](https://github.com/KevinNitroG/homelab/issues/47) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-3. ⬆️ Pushed undefined commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-4. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-5. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+1. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+2. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+3. ⬆️ Pushed undefined commit(s) to [uitdots/mason-registry](https://github.com/uitdots/mason-registry)<br>
+4. ⬆️ Pushed undefined commit(s) to [uitdots/mason-registry](https://github.com/uitdots/mason-registry)<br>
+5. ⬆️ Pushed undefined commit(s) to [uitdots/mason-registry](https://github.com/uitdots/mason-registry)<br>
 6. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-7. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-8. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-9. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-10. ✔️ Closed issue [#40](https://github.com/notopia-uit/notopia/issues/40) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+7. ✔️ Closed issue [#47](https://github.com/KevinNitroG/homelab/issues/47) in [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+8. ⬆️ Pushed undefined commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+9. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+10. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 8/2/26 3:02 AM
+Last Updated on Sunday, 8/2/26 3:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -367,20 +367,20 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-2. ⭐ Starred [aikhe/wrapped.nvim](https://github.com/aikhe/wrapped.nvim)<br>
-3. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-4. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+1. ⭐ Starred [LotusInputMethod/fcitx5-lotus](https://github.com/LotusInputMethod/fcitx5-lotus)<br>
+2. ⭐ Starred [b0o/incline.nvim](https://github.com/b0o/incline.nvim)<br>
+3. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+4. ⭐ Starred [aikhe/wrapped.nvim](https://github.com/aikhe/wrapped.nvim)<br>
 5. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 6. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 7. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 8. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-9. ⭐ Starred [vega/ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator)<br>
-10. ⭐ Starred [YousefED/typescript-json-schema](https://github.com/YousefED/typescript-json-schema)<br>
+9. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+10. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 20/2/26 3:02 PM
+Last Updated on Saturday, 21/2/26 3:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

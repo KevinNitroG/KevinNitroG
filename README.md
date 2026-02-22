@@ -306,24 +306,6 @@
 <!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-Lua                      4 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Neovim                   4 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-nvim                     4 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -337,7 +319,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on Sunday, 22/02/26 at 08:21 AM UTC
+ Last Updated on Sunday, 22/02/26 at 08:16 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

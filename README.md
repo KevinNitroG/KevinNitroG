@@ -306,20 +306,42 @@
 <!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Lua                      1 hr 1 min          ██████████████░░░░░░░░░░░   57.66 % 
+JSON                     40 mins             █████████░░░░░░░░░░░░░░░░   37.59 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+
+🔥 Editors: 
+Neovim                   1 hr 35 mins        ██████████████████████░░░   88.61 % 
+Opencode                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+
+🐱‍💻 Projects: 
+nvim                     1 hr 6 mins         ████████████████░░░░░░░░░   62.41 % 
+Unknown Project          40 mins             █████████░░░░░░░░░░░░░░░░   37.59 % 
+
+💻 Operating System: 
+Linux                    1 hr 47 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               23 repos            █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Lua                      20 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Shell                    13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-YAML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+TypeScript               24 repos            █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Lua                      21 repos            █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Shell                    13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+YAML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 
 
 
 
- Last Updated on Sunday, 22/02/26 at 08:16 PM UTC
+ Last Updated on Monday, 23/02/26 at 08:38 AM UTC
 <!--END_SECTION:waka-->
 
 <hr>

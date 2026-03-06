@@ -312,42 +312,42 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     6 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   31.59 % 
-Markdown                 5 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-JSON                     3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-YAML                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Lua                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+YAML                     20 hrs 23 mins      ███████████░░░░░░░░░░░░░░   45.56 % 
+JSON                     7 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Go                       5 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Markdown                 5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Docker                   2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 
 🔥 Editors: 
-Neovim                   12 hrs 22 mins      ███████████████░░░░░░░░░░   61.55 % 
-OpenCode                 7 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.44 % 
-Opencode                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Neovim                   43 hrs 53 mins      █████████████████████████   98.04 % 
+OpenCode                 41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🐱‍💻 Projects: 
-uit-mobile               10 hrs 56 mins      ██████████████░░░░░░░░░░░   54.44 % 
-go-slide                 3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Unknown Project          2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-redis-seminar            2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-nvim                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+notopia                  39 hrs 35 mins      ██████████████████████░░░   88.42 % 
+redis-seminar            1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+nvim                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+uitdots-mason-registry   46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+wild-workouts-go-ddd-exam43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 💻 Operating System: 
-Linux                    20 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    44 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in Lua** 
 
 ```text
-TypeScript               24 repos            █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-Lua                      22 repos            █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-YAML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Dart                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Lua                      24 repos            █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+TypeScript               23 repos            █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+YAML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Dart                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 
 
 
- Last Updated on Thursday, 26/02/26 at 08:27 PM UTC
+ Last Updated on Friday, 06/03/26 at 08:22 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

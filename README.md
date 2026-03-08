@@ -370,11 +370,11 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-2. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-3. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-4. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-5. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+1. ⭐ Starred [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)<br>
+2. ⭐ Starred [grepplabs/casbin-forward-auth](https://github.com/grepplabs/casbin-forward-auth)<br>
+3. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+4. ⭐ Starred [hostmyapps-git/live-preview.nvim](https://github.com/hostmyapps-git/live-preview.nvim)<br>
+5. ⭐ Starred [userstyles-world/userstyles.world](https://github.com/userstyles-world/userstyles.world)<br>
 6. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 7. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 8. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
@@ -383,7 +383,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 8/3/26 3:03 AM
+Last Updated on Sunday, 8/3/26 3:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

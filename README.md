@@ -372,19 +372,19 @@ Dart                     2 repos             ░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [KevinNitroG/ecfg](https://github.com/KevinNitroG/ecfg)<br>
-2. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-3. ⬆️ Pushed undefined commit(s) to [KevinNitroG/ecfg](https://github.com/KevinNitroG/ecfg)<br>
-4. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-5. ⬆️ Pushed undefined commit(s) to [egolia-uit/egolia](https://github.com/egolia-uit/egolia)<br>
-6. ⬆️ Pushed undefined commit(s) to [KevinNitroG/ecfg](https://github.com/KevinNitroG/ecfg)<br>
-7. ⭐ Starred [peternmuller/revanced-morphe-builder](https://github.com/peternmuller/revanced-morphe-builder)<br>
-8. ⬆️ Pushed undefined commit(s) to [egolia-uit/egolia](https://github.com/egolia-uit/egolia)<br>
+2. ⬆️ Pushed undefined commit(s) to [KevinNitroG/ecfg](https://github.com/KevinNitroG/ecfg)<br>
+3. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+4. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+5. ⬆️ Pushed undefined commit(s) to [KevinNitroG/ecfg](https://github.com/KevinNitroG/ecfg)<br>
+6. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+7. ⬆️ Pushed undefined commit(s) to [KevinNitroG/ecfg](https://github.com/KevinNitroG/ecfg)<br>
+8. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 9. ⬆️ Pushed undefined commit(s) to [egolia-uit/egolia](https://github.com/egolia-uit/egolia)<br>
-10. ⬆️ Pushed undefined commit(s) to [egolia-uit/egolia](https://github.com/egolia-uit/egolia)<br>
+10. ⬆️ Pushed undefined commit(s) to [KevinNitroG/ecfg](https://github.com/KevinNitroG/ecfg)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Thursday, 26/3/26 3:03 PM
+Last Updated on Friday, 27/3/26 3:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

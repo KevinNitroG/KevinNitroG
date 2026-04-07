@@ -369,20 +369,20 @@ Dart                     2 repos             ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-2. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-3. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-4. ⭐ Starred [vtuanjs/sqlc-gen-go](https://github.com/vtuanjs/sqlc-gen-go)<br>
+1. 💬 Commented on [#153](https://github.com/notopia-uit/notopia/pull/153#issuecomment-4201572269) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+2. 💬 Commented on [#153](https://github.com/notopia-uit/notopia/pull/153#issuecomment-4201556397) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+3. 💪 Opened PR [#153](undefined) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+4. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 5. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 6. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 7. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-8. ⬆️ Pushed undefined commit(s) to [egolia-uit/egolia](https://github.com/egolia-uit/egolia)<br>
+8. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 9. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-10. ⬆️ Pushed undefined commit(s) to [egolia-uit/egolia](https://github.com/egolia-uit/egolia)<br>
+10. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 7/4/26 3:04 PM
+Last Updated on Wednesday, 8/4/26 3:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

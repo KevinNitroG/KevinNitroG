@@ -312,41 +312,41 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       21 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   36.48 % 
-TypeScript               13 hrs 39 mins      ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-JSON                     8 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-YAML                     4 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-TSConfig                 2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Go                       29 hrs 2 mins       ████████████░░░░░░░░░░░░░   47.31 % 
+TypeScript               10 hrs 24 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+JSON                     7 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+YAML                     4 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+TSConfig                 2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 🔥 Editors: 
-Neovim                   55 hrs 47 mins      ███████████████████████░░   92.53 % 
-OpenCode                 4 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Neovim                   56 hrs 59 mins      ███████████████████████░░   92.87 % 
+OpenCode                 4 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
 
 🐱‍💻 Projects: 
-notopia                  52 hrs 16 mins      ██████████████████████░░░   86.71 % 
-egolia                   4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-nx-cache-action          1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Unknown Project          51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-nvim                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+notopia                  56 hrs 12 mins      ███████████████████████░░   91.60 % 
+egolia                   3 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+nvim                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Unknown Project          36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+test-shadcn-nextjs       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Linux                    60 hrs 17 mins      █████████████████████████   100.00 % 
+Linux                    61 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
 
 ```text
-Lua                      24 repos            █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-TypeScript               23 repos            █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-YAML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Dart                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Lua                      24 repos            █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+TypeScript               22 repos            █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+YAML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Dart                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 ```
 
 
 
 
- Last Updated on Tuesday, 07/04/26 at 08:53 AM UTC
+ Last Updated on Tuesday, 07/04/26 at 08:37 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

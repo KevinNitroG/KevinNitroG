@@ -306,20 +306,49 @@
 <!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Typst                    11 hrs 33 mins      █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+YAML                     11 hrs 12 mins      █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+JSON                     7 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Go                       4 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+TypeScript               4 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+
+🔥 Editors: 
+Neovim                   50 hrs 12 mins      ████████████████████████░   94.41 % 
+VS Code                  1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+OpenCode                 1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+
+🐱‍💻 Projects: 
+notopia                  21 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   40.31 % 
+notopia-report           12 hrs 52 mins      ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+egolia-infra             8 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+egolia                   6 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Unknown Project          1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+
+💻 Operating System: 
+Linux                    53 hrs 10 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Lua** 
 
 ```text
-Lua                      23 repos            █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-TypeScript               20 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-YAML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Dart                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Lua                      24 repos            █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+TypeScript               20 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+YAML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Dart                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 
 
 
 
- Last Updated on Thursday, 30/04/26 at 08:51 PM UTC
+ Last Updated on Friday, 01/05/26 at 09:26 AM UTC
 <!--END_SECTION:waka-->
 
 <hr>

@@ -372,20 +372,20 @@ Dart                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-2. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-3. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+1. ⭐ Starred [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor)<br>
+2. ⭐ Starred [eduwass/tmux-palette](https://github.com/eduwass/tmux-palette)<br>
+3. ⬆️ Pushed undefined commit(s) to [egolia-uit/infra](https://github.com/egolia-uit/infra)<br>
 4. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-5. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+5. ⬆️ Pushed undefined commit(s) to [notopia-uit/report](https://github.com/notopia-uit/report)<br>
 6. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-7. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-8. ❗️ Opened issue [#231](https://github.com/notopia-uit/notopia/issues/231) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-9. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+7. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+8. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+9. 💬 Commented on [#223](https://github.com/notopia-uit/notopia/pull/223#issuecomment-4440639309) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 10. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Wednesday, 13/5/26 5:05 PM
+Last Updated on Thursday, 14/5/26 4:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

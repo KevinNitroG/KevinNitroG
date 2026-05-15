@@ -374,18 +374,18 @@ Dart                     1 repo              ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 2. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-3. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+3. 💬 Commented on [#352](https://github.com/mason-org/mason-lspconfig.nvim/issues/352#issuecomment-4458014965) in [mason-org/mason-lspconfig.nvim](https://github.com/mason-org/mason-lspconfig.nvim)<br>
 4. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-5. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+5. 💬 Commented on [#352](https://github.com/mason-org/mason-lspconfig.nvim/issues/352#issuecomment-4457723736) in [mason-org/mason-lspconfig.nvim](https://github.com/mason-org/mason-lspconfig.nvim)<br>
 6. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-7. 💬 Commented on [#39785](https://github.com/neovim/neovim/issues/39785#issuecomment-4451055368) in [neovim/neovim](https://github.com/neovim/neovim)<br>
-8. ⬆️ Pushed undefined commit(s) to [egolia-uit/egolia](https://github.com/egolia-uit/egolia)<br>
-9. ⬆️ Pushed undefined commit(s) to [egolia-uit/infra](https://github.com/egolia-uit/infra)<br>
+7. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+8. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+9. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 10. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 15/5/26 4:05 AM
+Last Updated on Friday, 15/5/26 5:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -372,20 +372,20 @@ Dart                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#254](undefined) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+1. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 2. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-3. ⬆️ Pushed undefined commit(s) to [egolia-uit/egolia](https://github.com/egolia-uit/egolia)<br>
+3. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 4. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 5. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-6. 💪 Opened PR [#253](undefined) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-7. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-8. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-9. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-10. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+6. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+7. ⬆️ Pushed undefined commit(s) to [KevinNitroG/redis-seminar](https://github.com/KevinNitroG/redis-seminar)<br>
+8. 💬 Commented on [#254](https://github.com/notopia-uit/notopia/pull/254#issuecomment-4470521965) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+9. 💬 Commented on [#254](https://github.com/notopia-uit/notopia/pull/254#issuecomment-4470138997) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+10. 💪 Opened PR [#254](undefined) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 17/5/26 4:05 PM
+Last Updated on Monday, 18/5/26 3:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -372,20 +372,20 @@ Dart                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-2. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-3. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-4. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+1. ⭐ Starred [PartyWumpus/typst-concealer](https://github.com/PartyWumpus/typst-concealer)<br>
+2. ⬆️ Pushed undefined commit(s) to [KevinNitroG/redis-seminar](https://github.com/KevinNitroG/redis-seminar)<br>
+3. ⬆️ Pushed undefined commit(s) to [KevinNitroG/redis-seminar](https://github.com/KevinNitroG/redis-seminar)<br>
+4. ⬆️ Pushed undefined commit(s) to [KevinNitroG/redis-seminar](https://github.com/KevinNitroG/redis-seminar)<br>
 5. ⬆️ Pushed undefined commit(s) to [egolia-uit/egolia](https://github.com/egolia-uit/egolia)<br>
-6. ❗️ Opened issue [#263](https://github.com/notopia-uit/notopia/issues/263) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-7. ⭐ Starred [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw)<br>
-8. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-9. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-10. ✔️ Closed issue [#262](https://github.com/notopia-uit/notopia/issues/262) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+6. ⬆️ Pushed undefined commit(s) to [egolia-uit/egolia](https://github.com/egolia-uit/egolia)<br>
+7. ⬆️ Pushed undefined commit(s) to [egolia-uit/egolia](https://github.com/egolia-uit/egolia)<br>
+8. ❗️ Opened issue [#264](https://github.com/notopia-uit/notopia/issues/264) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+9. ⬆️ Pushed undefined commit(s) to [egolia-uit/egolia](https://github.com/egolia-uit/egolia)<br>
+10. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Wednesday, 20/5/26 5:05 PM
+Last Updated on Thursday, 21/5/26 4:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

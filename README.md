@@ -374,17 +374,17 @@ Dart                     1 repo              ░░░░░░░░░░░�
 1. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 2. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 3. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-4. ❗️ Opened issue [#268](https://github.com/notopia-uit/notopia/issues/268) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+4. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 5. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-6. ⬆️ Pushed undefined commit(s) to [egolia-uit/egolia](https://github.com/egolia-uit/egolia)<br>
+6. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 7. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-8. 💪 Opened PR [#267](undefined) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+8. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 9. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-10. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+10. ❗️ Opened issue [#268](https://github.com/notopia-uit/notopia/issues/268) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 22/5/26 4:05 AM
+Last Updated on Friday, 22/5/26 5:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

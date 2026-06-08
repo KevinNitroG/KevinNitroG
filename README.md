@@ -370,20 +370,20 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [KevinNitroG/code-practices](https://github.com/KevinNitroG/code-practices)<br>
-2. ⬆️ Pushed undefined commit(s) to [notopia-uit/se121-slide](https://github.com/notopia-uit/se121-slide)<br>
+1. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+2. ⬆️ Pushed undefined commit(s) to [KevinNitroG/code-practices](https://github.com/KevinNitroG/code-practices)<br>
 3. ⬆️ Pushed undefined commit(s) to [notopia-uit/se121-slide](https://github.com/notopia-uit/se121-slide)<br>
-4. ⬆️ Pushed undefined commit(s) to [KevinNitroG/code-practices](https://github.com/KevinNitroG/code-practices)<br>
+4. ⬆️ Pushed undefined commit(s) to [notopia-uit/se121-slide](https://github.com/notopia-uit/se121-slide)<br>
 5. ⬆️ Pushed undefined commit(s) to [KevinNitroG/code-practices](https://github.com/KevinNitroG/code-practices)<br>
-6. ⭐ Starred [jonaburg/tmux-animated](https://github.com/jonaburg/tmux-animated)<br>
-7. ⬆️ Pushed undefined commit(s) to [notopia-uit/report](https://github.com/notopia-uit/report)<br>
+6. ⬆️ Pushed undefined commit(s) to [KevinNitroG/code-practices](https://github.com/KevinNitroG/code-practices)<br>
+7. ⭐ Starred [jonaburg/tmux-animated](https://github.com/jonaburg/tmux-animated)<br>
 8. ⬆️ Pushed undefined commit(s) to [notopia-uit/report](https://github.com/notopia-uit/report)<br>
-9. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-10. ⬆️ Pushed undefined commit(s) to [notopia-uit/report](https://github.com/notopia-uit/report)<br>
+9. ⬆️ Pushed undefined commit(s) to [notopia-uit/report](https://github.com/notopia-uit/report)<br>
+10. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Monday, 8/6/26 7:06 PM
+Last Updated on Tuesday, 9/6/26 4:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

@@ -370,20 +370,20 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [KevinNitroG/code-practices](https://github.com/KevinNitroG/code-practices)<br>
+1. ⬆️ Pushed undefined commit(s) to [notopia-uit/report](https://github.com/notopia-uit/report)<br>
 2. ⬆️ Pushed undefined commit(s) to [notopia-uit/report](https://github.com/notopia-uit/report)<br>
-3. ⬆️ Pushed undefined commit(s) to [notopia-uit/report](https://github.com/notopia-uit/report)<br>
-4. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-5. ⬆️ Pushed undefined commit(s) to [KevinNitroG/code-practices](https://github.com/KevinNitroG/code-practices)<br>
+3. ⬆️ Pushed undefined commit(s) to [KevinNitroG/code-practices](https://github.com/KevinNitroG/code-practices)<br>
+4. ⬆️ Pushed undefined commit(s) to [notopia-uit/report](https://github.com/notopia-uit/report)<br>
+5. ⬆️ Pushed undefined commit(s) to [notopia-uit/report](https://github.com/notopia-uit/report)<br>
 6. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-7. ⬆️ Pushed undefined commit(s) to [notopia-uit/report](https://github.com/notopia-uit/report)<br>
-8. ⬆️ Pushed undefined commit(s) to [notopia-uit/report](https://github.com/notopia-uit/report)<br>
-9. ⬆️ Pushed undefined commit(s) to [KevinNitroG/uit-student-captcha](https://github.com/KevinNitroG/uit-student-captcha)<br>
-10. ⬆️ Pushed undefined commit(s) to [KevinNitroG/uit-student-captcha](https://github.com/KevinNitroG/uit-student-captcha)<br>
+7. ⬆️ Pushed undefined commit(s) to [KevinNitroG/code-practices](https://github.com/KevinNitroG/code-practices)<br>
+8. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+9. ⬆️ Pushed undefined commit(s) to [notopia-uit/report](https://github.com/notopia-uit/report)<br>
+10. ⬆️ Pushed undefined commit(s) to [notopia-uit/report](https://github.com/notopia-uit/report)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 14/6/26 4:06 AM
+Last Updated on Sunday, 14/6/26 5:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

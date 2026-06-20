@@ -312,42 +312,42 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 6 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
-Bash                     3 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-TypeScript               2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Typst                    2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Docker                   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Markdown                 6 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Bash                     3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+TypeScript               2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Docker                   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+JSON                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 2 mins       █████████████░░░░░░░░░░░░   52.56 % 
-Neovim                   12 hrs 39 mins      ████████████░░░░░░░░░░░░░   47.38 % 
-Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Claude Code              12 hrs 31 mins      █████████████░░░░░░░░░░░░   53.62 % 
+Neovim                   10 hrs 49 mins      ████████████░░░░░░░░░░░░░   46.31 % 
+Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-openclaw-railway         10 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   38.04 % 
-openclaw-fasmin-workspace4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-code-practices           4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-notopia-report           3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-uit-student-captcha      2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+openclaw-railway         10 hrs 9 mins       ███████████░░░░░░░░░░░░░░   43.46 % 
+openclaw-fasmin-workspace4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+code-practices           3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+uit-student-captcha      1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+chezmoi                  1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 
 💻 Operating System: 
-Linux                    26 hrs 42 mins      █████████████████████████   100.00 % 
+Linux                    23 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
 
 ```text
-Shell                    14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Python                   12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Roff                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Lua                      25 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Shell                    14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Python                   12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 
 
 
 
- Last Updated on Saturday, 20/06/26 at 10:26 AM UTC
+ Last Updated on Saturday, 20/06/26 at 09:05 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

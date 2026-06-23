@@ -312,43 +312,43 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 10 hrs 6 mins       ████████░░░░░░░░░░░░░░░░░   33.88 % 
-Bash                     3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-JSON                     2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Python                   2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Vim Script               2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Markdown                 8 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+JSON                     3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Vim Script               3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+YAML                     2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Python                   2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 
 🔥 Editors: 
-Neovim                   18 hrs 32 mins      ████████████████░░░░░░░░░   62.12 % 
-Claude Code              11 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   37.87 % 
+Neovim                   21 hrs 39 mins      ██████████████████░░░░░░░   70.96 % 
+Claude Code              8 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   29.03 % 
 Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-openclaw-railway         10 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   34.50 % 
-obsidian-note            9 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.91 % 
-openclaw-fasmin-workspace4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-egolia-se361-report      1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-coding                   1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+obsidian-note            13 hrs 56 mins      ███████████░░░░░░░░░░░░░░   45.69 % 
+openclaw-railway         6 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+openclaw-fasmin-workspace4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+egolia-se361-report      1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+coding                   1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 💻 Operating System: 
-Linux                    29 hrs 50 mins      █████████████████████████   100.00 % 
+Linux                    30 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-Shell                    14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Roff                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Shell                    14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Roff                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 
 
 
 
- Last Updated on Tuesday, 23/06/26 at 10:55 AM UTC
+ Last Updated on Tuesday, 23/06/26 at 09:24 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

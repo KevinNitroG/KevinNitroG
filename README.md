@@ -62,7 +62,7 @@
   <tfoot>
     <tr>
       <td colspan="2" align="center">
-        <pre>I use <strong>Arch</strong> 😎 BTW</pre>
+        <pre><strong>Arch</strong></pre>
       </td>
     </tr>
   </tfoot>
@@ -84,7 +84,7 @@
   <!-- Spotify Github Profile: https://github.com/kittinan/spotify-github-profile -->
   <div align="center">
     <a align="center" href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ms2mpwauroluxnjudw7a6u336e&redirect=true">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ms2mpwauroluxnjudw7a6u336e&cover_image=true&theme=default&show_offline=false&background_color=1a1b27&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" width="260px">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ms2mpwauroluxnjudw7a6u336e&cover_image=true&theme=default&show_offline=false&background_color=1a1b27&interchange=true&profanity=false&hide_remaster=false" alt="Spotify Now Playing" width="260px">
     </a>
   </div>
 </div>
@@ -168,14 +168,13 @@
   <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F9AB00?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/python-3F7CAD?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/grpc-fbb03b?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
   <img src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/shell_script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=educative&logoColor=white"> <!-- old logo is powershell -->
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> -->
 </section>
@@ -183,14 +182,18 @@
 <section>
   <h3>Libraries / Frameworks / Technology</h3>
   <img src="https://img.shields.io/badge/gin-008ECF?style=for-the-badge&logo=gin&logoColor=white">
+  <img src="https://img.shields.io/badge/sqlc-17dae0?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/watermill-95d8ff?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge&logo=typeorm&logoColor=white">
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/jetpack_compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
   <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/jetpack_compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/redux-23593d88?style=for-the-badge&logo=redux&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/daisyui-1AD1A5?style=for-the-badge&logo=daisyui&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge&logo=typeorm&logoColor=white">
+  <img src="https://img.shields.io/badge/openapi-23000000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/grpc-fbb03b?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
   <img src="https://img.shields.io/badge/testcontainer-0D7694?style=for-the-badge&logo=developmentcontainers&logoColor=white">
 </section>
@@ -203,47 +206,48 @@
 
 <section>
   <h3>Services</h3>
+  <img src="https://img.shields.io/badge/authentik-FD4B2D?style=for-the-badge&logo=authentik&logoColor=white">
   <img src="https://img.shields.io/badge/keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white">
+  <img src="https://img.shields.io/badge/rustfs-0196D0?style=for-the-badge&logo=rustfs&logoColor=white">
   <img src="https://img.shields.io/badge/minio-C72E49?style=for-the-badge&logo=minio&logoColor=white">
-  <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  <img src="https://img.shields.io/badge/traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white">
-  <img src="https://img.shields.io/badge/istio-466BB0?style=for-the-badge&logo=istio&logoColor=white">
-  <img src="https://img.shields.io/badge/oauth2_proxy-11D989?style=for-the-badge&logo=oauth2proxy&logoColor=white">
+  <img src="https://img.shields.io/badge/redpanda-e2401b?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
+  <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/oauth2_proxy-11D989?style=for-the-badge&logo=oauth2proxy&logoColor=white"> -->
 </section>
 
 <section>
   <h3>Tools / Platforms / Ops</h3>
   <!-- <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white">
   <img src="https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
   <img src="https://img.shields.io/badge/docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/docker_compose-b1c2d3?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
-  <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
-  <img src="https://img.shields.io/badge/loki-F46800?style=for-the-badge&logo=grafana&logoColor=white">
-  <img src="https://img.shields.io/badge/alloy-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/grafana_stack-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/loki-F46800?style=for-the-badge&logo=grafana&logoColor=white"> -->
+  <!-- <img src="https://img.shields.io/badge/alloy-F46800?style=for-the-badge&logo=grafana&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white">
+  <img src="https://img.shields.io/badge/istio-466BB0?style=for-the-badge&logo=istio&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> -->
 </section>
 
 <section>
-  <h3>Editors / IDEs</h3>
-  <img src="https://img.shields.io/badge/neovim-2357A143?&style=for-the-badge&logo=neovim&logoColor=white">
-  <img src="https://img.shields.io/badge/vim-019733?&style=for-the-badge&logo=vim&logoColor=white">
-  <img src="https://img.shields.io/badge/vscode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/visual_studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-  <!-- <img src="https://img.shields.io/badge/colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"> -->
-</section>
-
-<section>
-  <h3>Terminals</h3>
+  <h3>Terminal / Editors / IDEs</h3>
   <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white">
-  <img src="https://img.shields.io/badge/kitty-000000?style=for-the-badge">
+  <!-- <img src="https://img.shields.io/badge/kitty-000000?style=for-the-badge"> -->
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white">
-  <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/ghosty-3551f3?style=for-the-badge&logo=ghostery&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/neovim-2357A143?&style=for-the-badge&logo=neovim&logoColor=white">
+  <img src="https://img.shields.io/badge/vim-019733?&style=for-the-badge&logo=vim&logoColor=white">
+  <img src="https://img.shields.io/badge/vscode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/visual_studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"> -->
+  <!-- <img src="https://img.shields.io/badge/colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"> -->
 </section>
 
 <!--
@@ -254,14 +258,6 @@
   <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
 </section>
 -->
-
-<section>
-  <h3>Coding...</h3>
-  <a href="https://leetcode.com/u/KevinNitro/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-</section>
 
 <hr>
 
@@ -306,48 +302,47 @@
 <!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Bangkok
 
-💬 Programming Languages: 
-Markdown                 10 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   34.05 % 
-JSON                     3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-YAML                     3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Vim Script               3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Python                   2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+💬 Programming Languages:
+Markdown                 10 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   34.05 %
+JSON                     3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 %
+YAML                     3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
+Vim Script               3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.64 %
+Python                   2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
 
-🔥 Editors: 
-Neovim                   22 hrs 10 mins      ██████████████████░░░░░░░   73.93 % 
-Claude Code              7 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   26.04 % 
-Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+🔥 Editors:
+Neovim                   22 hrs 10 mins      ██████████████████░░░░░░░   73.93 %
+Claude Code              7 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   26.04 %
+Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 
-🐱‍💻 Projects: 
-obsidian-note            14 hrs 53 mins      ████████████░░░░░░░░░░░░░   49.67 % 
-openclaw-fasmin-workspace5 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-cv                       2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-openclaw-railway         2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-egolia-se361-report      1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+🐱‍💻 Projects:
+obsidian-note            14 hrs 53 mins      ████████████░░░░░░░░░░░░░   49.67 %
+openclaw-fasmin-workspace5 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.12 %
+cv                       2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+openclaw-railway         2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+egolia-se361-report      1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
 
-💻 Operating System: 
-Linux                    29 hrs 59 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Linux                    29 hrs 59 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in TypeScript**
 
 ```text
-Shell                    14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Roff                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Shell                    14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.32 %
+Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Roff                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
+Last Updated on Thursday, 25/06/26 at 10:35 AM UTC
 
-
-
- Last Updated on Thursday, 25/06/26 at 10:35 AM UTC
 <!--END_SECTION:waka-->
 
 <hr>
@@ -370,6 +365,7 @@ Roff                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⬆️ Pushed undefined commit(s) to [KevinNitroG/openclaw-fasmin](https://github.com/KevinNitroG/openclaw-fasmin)<br>
 2. ⬆️ Pushed undefined commit(s) to [KevinNitroG/openclaw-fasmin](https://github.com/KevinNitroG/openclaw-fasmin)<br>
 3. ⬆️ Pushed undefined commit(s) to [KevinNitroG/openclaw-fasmin](https://github.com/KevinNitroG/openclaw-fasmin)<br>
@@ -383,7 +379,9 @@ Roff                     1 repo              ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated on Thursday, 25/6/26 5:06 PM
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
@@ -415,7 +413,7 @@ Last Updated on Thursday, 25/6/26 5:06 PM
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinNitroG&theme=tokyo-night&radius=12&hide_border=false&area=true" alt="KevinNitroG's Activity Graph" width="570px">
       <br>
       <!-- Github Trophies: https://github.com/ryo-ma/github-profile-trophy -->
-      <img src="https://github-profile-trophy.vercel.app/?username=KevinNitroG&column=5&theme=tokyonight&no-bg=false" alt="KevinNitro's Trophies" width="570px">
+      <img src="https://gh-trophy.cdnsoft.net/?username=KevinNitroG&column=5&theme=tokyonight&no-bg=false" alt="KevinNitro's Trophies" width="570px">
       <!-- <br> -->
       <!-- Spotify Recently Played: https://github.com/JeffreyCA/spotify-recently-played-readme -->
       <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ms2mpwauroluxnjudw7a6u336e&count=5&width=570" alt="Spotify Recently Played" width="570px"> -->
@@ -448,10 +446,10 @@ Last Updated on Thursday, 25/6/26 5:06 PM
             <tr>
               <td align="center" rowspan="2"><strong>LAPTOP</strong></td>
               <td rowspan="2"><a href="https://www.nguyenkim.com/laptop-dell-vostro-5410-v4i5214w1.html">Dell Vostro 5410<em>(V4I5214W1)</em></a></td>
-              <td>Windows 11 Home 🪟</td>
+              <td>Arch 🐧</td>
             </tr>
             <tr>
-              <td>Arch 🐧</td>
+              <td>Windows 11 Home 🪟</td>
             </tr>
             <tr>
               <td align="center" rowspan="2"><strong>PHONE</strong></td>
@@ -460,7 +458,7 @@ Last Updated on Thursday, 25/6/26 5:06 PM
             </tr>
             <tr>
               <td>Xiaomi Redmi K30 5G</td>
-              <td>Android 15 YASP</td>
+              <td>Android 16 - Infinity Project <em>(KernelSU)</em></td>
             </tr>
           </tbody>
         </table>

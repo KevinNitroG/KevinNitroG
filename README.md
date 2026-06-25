@@ -302,47 +302,48 @@
 <!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
-
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Bangkok
 
-💬 Programming Languages:
-Markdown                 10 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   34.05 %
-JSON                     3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 %
-YAML                     3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
-Vim Script               3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.64 %
-Python                   2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
+💬 Programming Languages: 
+Markdown                 9 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.70 % 
+JSON                     4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+YAML                     4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Vim Script               3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Python                   1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
-🔥 Editors:
-Neovim                   22 hrs 10 mins      ██████████████████░░░░░░░   73.93 %
-Claude Code              7 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   26.04 %
-Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+🔥 Editors: 
+Neovim                   24 hrs 37 mins      █████████████████████░░░░   84.91 % 
+Claude Code              4 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
-🐱‍💻 Projects:
-obsidian-note            14 hrs 53 mins      ████████████░░░░░░░░░░░░░   49.67 %
-openclaw-fasmin-workspace5 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.12 %
-cv                       2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-openclaw-railway         2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
-egolia-se361-report      1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+🐱‍💻 Projects: 
+obsidian-note            17 hrs 59 mins      ████████████████░░░░░░░░░   62.03 % 
+cv                       2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+openclaw-fasmin-workspace2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+coding                   1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+egolia-se361-report      1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
-💻 Operating System:
-Linux                    29 hrs 59 mins      █████████████████████████   100.00 %
+💻 Operating System: 
+Linux                    29 hrs              █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in TypeScript**
+**I Mostly Code in TypeScript** 
 
 ```text
-Shell                    14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.11 %
-Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Roff                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Shell                    14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Roff                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 
-Last Updated on Thursday, 25/06/26 at 10:35 AM UTC
 
+
+
+ Last Updated on Thursday, 25/06/26 at 09:22 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

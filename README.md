@@ -308,42 +308,41 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 6 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   40.44 % 
-YAML                     2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-JSON                     1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Python                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Vim Script               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Markdown                 4 hrs 1 min         █████████░░░░░░░░░░░░░░░░   34.50 % 
+YAML                     2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+JSON                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Python                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Vim Script               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 
 🔥 Editors: 
-Neovim                   11 hrs 56 mins      ███████████████████░░░░░░   77.45 % 
-Claude Code              3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Neovim                   9 hrs 56 mins       █████████████████████░░░░   85.14 % 
+Claude Code              1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
 
 🐱‍💻 Projects: 
-cv                       5 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   35.71 % 
-obsidian-note            4 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   32.44 % 
-openclaw-fasmin-workspace1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-homelab                  56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Unknown Project          49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+obsidian-note            4 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   34.77 % 
+cv                       2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+openclaw-fasmin-workspace1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+homelab                  56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Unknown Project          49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 
 💻 Operating System: 
-Linux                    15 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-Shell                    14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Roff                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Shell                    14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Roff                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 
 
 
 
- Last Updated on Wednesday, 01/07/26 at 11:16 AM UTC
+ Last Updated on Wednesday, 01/07/26 at 09:19 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

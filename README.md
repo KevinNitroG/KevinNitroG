@@ -364,20 +364,20 @@ Roff                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-2. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-3. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+1. ⬆️ Pushed undefined commit(s) to [KevinNitroG/uit-student-captcha](https://github.com/KevinNitroG/uit-student-captcha)<br>
+2. ⬆️ Pushed undefined commit(s) to [KevinNitroG/uit-student-captcha](https://github.com/KevinNitroG/uit-student-captcha)<br>
+3. ⬆️ Pushed undefined commit(s) to [KevinNitroG/uit-student-captcha](https://github.com/KevinNitroG/uit-student-captcha)<br>
 4. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 5. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-6. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-7. ❗️ Opened issue [#75](https://github.com/uitdots/nvim/issues/75) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-8. ⬆️ Pushed undefined commit(s) to [KevinNitroG/coding](https://github.com/KevinNitroG/coding)<br>
-9. ⬆️ Pushed undefined commit(s) to [KevinNitroG/kevinnitrog.github.io](https://github.com/KevinNitroG/kevinnitrog.github.io)<br>
-10. ⬆️ Pushed undefined commit(s) to [KevinNitroG/kevinnitrog.github.io](https://github.com/KevinNitroG/kevinnitrog.github.io)<br>
+6. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+7. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+8. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+9. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+10. ❗️ Opened issue [#75](https://github.com/uitdots/nvim/issues/75) in [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 7/7/26 4:07 AM
+Last Updated on Tuesday, 7/7/26 5:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

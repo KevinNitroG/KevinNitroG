@@ -308,40 +308,40 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 4 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.78 % 
-Terraform                2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-TypeScript               1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-YAML                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Markdown                 5 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   35.65 % 
+TypeScript               2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+YAML                     2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Terraform                2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 
 🔥 Editors: 
-Neovim                   13 hrs 1 min        █████████████████████████   100.00 % 
+Neovim                   14 hrs 52 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-notopia                  2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-kevinnitrog.github.io    2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-coding                   1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-cv                       1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Unknown Project          1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+notopia                  2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+cv                       2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+kevinnitrog.github.io    2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+coding                   1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Unknown Project          1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
 
 💻 Operating System: 
-Linux                    13 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    14 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               27 repos            █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-Shell                    14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Roff                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+TypeScript               27 repos            ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+Shell                    14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Roff                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
 
 
 
- Last Updated on Thursday, 09/07/26 at 10:51 AM UTC
+ Last Updated on Thursday, 09/07/26 at 09:13 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

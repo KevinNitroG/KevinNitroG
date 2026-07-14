@@ -16,7 +16,7 @@
 
 <!-- ABOUT ME SECTION -->
 
-<h2 align="center"> 💬 ABOUT ME 😁</h2>
+<h2 align="center"> 💬 ABOUT ME</h2>
 
 <table align="left">
   <thead>
@@ -36,7 +36,7 @@
     </tr>
     <tr>
       <td align="center"><strong>GENDER</strong></td>
-      <td>Male 👨</td>
+      <td>Male</td>
     </tr>
     <tr>
       <td align="center"><strong>LOCATION</strong></td>
@@ -44,7 +44,7 @@
     </tr>
     <tr>
       <td align="center"><strong>OCCUPATION</strong></td>
-      <td>Undergraduate 👨‍🎓</td>
+      <td>Undergraduate</td>
     </tr>
     <tr>
       <td align="center"><strong>SCHOOL</strong></td>
@@ -52,11 +52,7 @@
     </tr>
     <tr>
       <td align="center"><strong>MAJOR</strong></td>
-      <td>Software Engineering 👨🏻‍💻</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>HOBBIES</strong></td>
-      <td>Guitar 🎸, Movies 🍿, Music 🎧,<br>Photograph 📸</td>
+      <td>Software Engineering</td>
     </tr>
   </tbody>
   <tfoot>
@@ -93,7 +89,7 @@
 
 <!-- SOCIAL NETWORKS SECTION -->
 
-<h2 align="center">🌐 SOCIAL NETWORKS 📩</h2>
+<h2 align="center">🌐 SOCIAL NETWORKS</h2>
 
 <div align="center" style="text-decoration=none;">
   <a href="mailto:kevinnitro@duck.com" target="_blank">
@@ -132,8 +128,8 @@
   <table align="center">
     <thead>
       <tr>
-        <th align="center"><h2>⛏️ SKILLS 🔨</h2></th>
-        <th align="center"><h2>📑 WILL <em>(MAY)</em> LEARN 🧾</h2></th>
+        <th align="center"><h2>⛏️ SKILLS</h2></th>
+        <th align="center"><h2>📑 WILL <em>(MAY)</em> LEARN</h2></th>
       </tr>
     </thead>
     <tbody>
@@ -151,7 +147,7 @@
 
 <hr>
 
-<h2 align="center">⛏️ SKILLS 🔨</h2>
+<h2 align="center">⛏️ SKILLS</h2>
 
 <section>
   <h3>OSes</h3>
@@ -261,7 +257,7 @@
 
 <hr>
 
-<h2 align="center">📑 WILL <em>(MAY)</em> LEARN 🧾</h2>
+<h2 align="center">📑 WILL <em>(MAY)</em> LEARN</h2>
 
 <section>
   <h3>Technologies</h3>
@@ -286,7 +282,7 @@
 
 <!-- WAKATIME SECTION -->
 
-<h2 align="center">⏲️ WAKATIME 🧑‍💻</h2>
+<h2 align="center">⏲️ WAKATIME</h2>
 
 <!-- WakaTime SVG: https://github.com/avinal/Profile-Readme-WakaTime -->
 
@@ -349,7 +345,7 @@ Roff                     1 repo              ░░░░░░░░░░░�
 
 <!-- RECENT ACTIVITIES SECTION -->
 
-<h2 align="center">⌛ RECENT ACTIVITIES ⌚</h2>
+<h2 align="center">⌛ RECENT ACTIVITIES</h2>
 
 <details>
   <summary align="center">
@@ -387,7 +383,7 @@ Last Updated on Tuesday, 14/7/26 4:07 PM
 
 <!-- MY STATS SECTION -->
 
-<h2 align="center">📈 MY STATS 🙄</h2>
+<h2 align="center">📈 MY STATS</h2>
 
 <details>
     <summary align="center">
@@ -424,7 +420,7 @@ Last Updated on Tuesday, 14/7/26 4:07 PM
 
 <!-- DEVICES SECTION -->
 
-<h2 align="center">💻 DEVICES 📱</h2>
+<h2 align="center">💻 DEVICES</h2>
 
 <details>
     <summary align="center">
@@ -466,7 +462,7 @@ Last Updated on Tuesday, 14/7/26 4:07 PM
 
 <!-- DAILY.DEV SECTION -->
 
-<h2 align="center">📆 DAILY DEV 🗓️</h2>
+<h2 align="center">📆 DAILY DEV</h2>
 
 <details>
     <summary align="center">
@@ -482,7 +478,7 @@ Last Updated on Tuesday, 14/7/26 4:07 PM
 <!-- HOLOPIN SECTION -->
 
 <!--
-<h2 align="center">😶‍🌫️ HOLOPIN 🦖</h2>
+<h2 align="center">🦖 HOLOPIN</h2>
 
 <details>
     <summary align="center">

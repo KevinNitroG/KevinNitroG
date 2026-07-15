@@ -58,7 +58,7 @@
   <tfoot>
     <tr>
       <td colspan="2" align="center">
-        <pre><strong>Arch</strong></pre>
+        <pre><strong>Neovim & Arch</strong> btw</pre>
       </td>
     </tr>
   </tfoot>

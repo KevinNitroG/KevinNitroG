@@ -304,43 +304,43 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 12 hrs 15 mins      ████████████████████░░░░░   78.14 % 
-YAML                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-Lua                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-TypeScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Markdown                 12 hrs 3 mins       █████████████████████░░░░   83.60 % 
+YAML                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+TypeScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Vim Script               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+zsh                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-Obsidian                 9 hrs 36 mins       ███████████████░░░░░░░░░░   61.19 % 
-Neovim                   4 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   31.66 % 
-OpenCode                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Opencode Cli             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Obsidian                 9 hrs 36 mins       █████████████████░░░░░░░░   66.54 % 
+Neovim                   3 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+OpenCode                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Opencode Cli             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Projects: 
-obsidian-note            12 hrs 11 mins      ███████████████████░░░░░░   77.71 % 
-nvim                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-cv                       1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-coding                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-notopia                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+obsidian-note            12 hrs 6 mins       █████████████████████░░░░   83.93 % 
+cv                       1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+coding                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+notopia                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Unknown Project          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 💻 Operating System: 
-Linux                    15 hrs 41 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               27 repos            ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-Shell                    14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Roff                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+TypeScript               26 repos            ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+Shell                    14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Roff                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 ```
 
 
 
 
- Last Updated on Saturday, 18/07/26 at 09:16 AM UTC
+ Last Updated on Saturday, 18/07/26 at 08:37 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

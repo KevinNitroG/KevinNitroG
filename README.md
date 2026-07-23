@@ -298,50 +298,20 @@
 <!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-Markdown                 3 hrs 16 mins       █████████████████░░░░░░░░   67.08 % 
-YAML                     1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
-Vim Script               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-
-🔥 Editors: 
-Neovim                   1 hr 40 mins        █████████░░░░░░░░░░░░░░░░   34.34 % 
-OpenCode                 1 hr 36 mins        ████████░░░░░░░░░░░░░░░░░   33.03 % 
-Obsidian                 1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   31.68 % 
-Word                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-
-🐱‍💻 Projects: 
-obsidian-note            3 hrs 12 mins       █████████████████░░░░░░░░   66.01 % 
-cv                       1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-Unknown Project          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-chezmoi                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-kevinnitro               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-
-💻 Operating System: 
-Linux                    4 hrs 49 mins       █████████████████████████   99.04 % 
-Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
 TypeScript               26 repos            █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+Lua                      18 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
 Shell                    14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
 C#                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Roff                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 
 
 
- Last Updated on Thursday, 23/07/26 at 10:12 AM UTC
+ Last Updated on Thursday, 23/07/26 at 08:51 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

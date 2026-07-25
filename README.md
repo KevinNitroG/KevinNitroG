@@ -304,27 +304,27 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 1 hr 50 mins        ██████████░░░░░░░░░░░░░░░   41.05 % 
-YAML                     1 hr 46 mins        ██████████░░░░░░░░░░░░░░░   39.73 % 
-Lua                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Vim Script               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Markdown                 1 hr 57 mins        ███████████░░░░░░░░░░░░░░   42.93 % 
+YAML                     1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   33.06 % 
+Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Lua                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 17 mins       █████████████░░░░░░░░░░░░   51.31 % 
-OpenCode                 2 hrs 8 mins        ████████████░░░░░░░░░░░░░   47.65 % 
-Word                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+OpenCode                 2 hrs 18 mins       █████████████░░░░░░░░░░░░   50.65 % 
+Neovim                   2 hrs 12 mins       ████████████░░░░░░░░░░░░░   48.33 % 
+Word                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🐱‍💻 Projects: 
-cv                       1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   38.74 % 
-obsidian-note            1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   36.38 % 
-hello-aws                19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Unknown Project          16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-nvim                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+cv                       2 hrs 4 mins        ███████████░░░░░░░░░░░░░░   45.44 % 
+obsidian-note            57 mins             █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Unknown Project          33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+hello-aws                19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+nvim                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 💻 Operating System: 
-Linux                    4 hrs 26 mins       █████████████████████████   98.96 % 
-Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Linux                    4 hrs 31 mins       █████████████████████████   98.98 % 
+Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -340,7 +340,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on Friday, 24/07/26 at 08:55 PM UTC
+ Last Updated on Saturday, 25/07/26 at 09:28 AM UTC
 <!--END_SECTION:waka-->
 
 <hr>

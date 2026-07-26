@@ -304,27 +304,25 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 1 hr 57 mins        ███████████░░░░░░░░░░░░░░   42.93 % 
-YAML                     1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   33.06 % 
-Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Lua                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+YAML                     6 hrs 17 mins       ████████████████░░░░░░░░░   62.90 % 
+Markdown                 1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Go                       19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Lua                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🔥 Editors: 
-OpenCode                 2 hrs 18 mins       █████████████░░░░░░░░░░░░   50.65 % 
-Neovim                   2 hrs 12 mins       ████████████░░░░░░░░░░░░░   48.33 % 
-Word                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Neovim                   7 hrs 25 mins       ███████████████████░░░░░░   74.25 % 
+OpenCode                 2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
 
 🐱‍💻 Projects: 
-cv                       2 hrs 4 mins        ███████████░░░░░░░░░░░░░░   45.44 % 
-obsidian-note            57 mins             █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-Unknown Project          33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-hello-aws                19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-nvim                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+homelab                  4 hrs 28 mins       ███████████░░░░░░░░░░░░░░   44.70 % 
+cv                       2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+obsidian-note            57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+ashpex-homelab           49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+kh-homelab               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 💻 Operating System: 
-Linux                    4 hrs 31 mins       █████████████████████████   98.98 % 
-Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Linux                    10 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -340,7 +338,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on Sunday, 26/07/26 at 09:51 AM UTC
+ Last Updated on Sunday, 26/07/26 at 08:46 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

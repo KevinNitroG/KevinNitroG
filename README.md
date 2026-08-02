@@ -306,49 +306,49 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-YAML                     15 hrs 10 mins      █████████████████░░░░░░░░   66.99 % 
-Terraform                2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Markdown                 1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Python                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-Go                       28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+YAML                     10 hrs 23 mins      ███████████████░░░░░░░░░░   61.37 % 
+Terraform                2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Markdown                 1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Python                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-Neovim                   19 hrs 49 mins      ██████████████████████░░░   87.50 % 
-OpenCode                 2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Neovim                   14 hrs 21 mins      █████████████████████░░░░   84.84 % 
+OpenCode                 2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
 
 🐱‍💻 Projects: 
-homelab                  13 hrs 44 mins      ███████████████░░░░░░░░░░   60.67 % 
-hello-aws                2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-cv                       2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-ashpex-homelab           54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Unknown Project          53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+homelab                  9 hrs 16 mins       ██████████████░░░░░░░░░░░   54.75 % 
+hello-aws                2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+cv                       2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Unknown Project          53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Thu                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 💻 Operating System: 
-Linux                    22 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 1 min (35.45%)
+⏱ AI Coding Time: 6 hrs 33 mins (38.73%)
 
-✍️ 5,456 lines written by AI, 2,666 lines written by hand (67.18% AI-written)
+✍️ 4,926 lines written by AI, 2,184 lines written by hand (69.28% AI-written)
 
-🔤 4,824,445 Input Tokens, 178,259 Output Tokens
+🔤 4,483,659 Input Tokens, 139,296 Output Tokens
 
-💵 $15.88 Estimated AI Cost This Week
+💵 $14.33 Estimated AI Cost This Week
 
-🧠 45 AI Sessions, 206 AI Prompts
+🧠 37 AI Sessions, 163 AI Prompts
 
-Mimo                     4,962 lines         ███████████████████████░░   92.08 % 
-Opencode-Cli             305 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Deepseek                 122 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Mimo                     4,500 lines         ███████████████████████░░   92.90 % 
+Opencode-Cli             222 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Deepseek                 122 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 67.18% of written lines came from AI
-📚 Verbose Prompter — average 2,421 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 40.7% of changed lines were hand-edited
+🤖 AI-Driven — 69.28% of written lines came from AI
+📚 Verbose Prompter — average 2,988 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 38.84% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -364,7 +364,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on Sunday, 02/08/26 at 09:48 AM UTC
+ Last Updated on Sunday, 02/08/26 at 08:43 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

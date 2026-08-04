@@ -298,7 +298,7 @@
 <!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-117%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2030%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -306,49 +306,49 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-YAML                     5 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   37.90 % 
-Terraform                2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-Markdown                 2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Python                   1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Lua                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Terraform                2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+Markdown                 2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+YAML                     1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Lua                      1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Python                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 21 mins      ███████████████████░░░░░░   75.93 % 
-OpenCode                 3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
+Neovim                   8 hrs 54 mins       ███████████████████░░░░░░   75.16 % 
+OpenCode                 2 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
 
 🐱‍💻 Projects: 
-homelab                  3 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-hello-aws                2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-cv                       1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-openclaw-fasmin-workspace1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Unknown Project          1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+hello-aws                2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+cv                       1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+openclaw-fasmin-workspace1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+coding                   1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Unknown Project          1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
 
 💻 Operating System: 
-Linux                    13 hrs 38 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 16 mins (45.93%)
+⏱ AI Coding Time: 5 hrs 47 mins (48.86%)
 
-✍️ 5,436 lines written by AI, 1,658 lines written by hand (76.63% AI-written)
+✍️ 4,948 lines written by AI, 1,519 lines written by hand (76.51% AI-written)
 
-🔤 3,363,216 Input Tokens, 165,678 Output Tokens
+🔤 2,663,760 Input Tokens, 154,266 Output Tokens
 
-💵 $11.63 Estimated AI Cost This Week
+💵 $9.43 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 174 AI Prompts
+🧠 30 AI Sessions, 146 AI Prompts
 
-Mimo                     4,640 lines         █████████████████████░░░░   83.94 % 
-Opencode-Cli             766 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Deepseek                 122 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Mimo                     4,299 lines         █████████████████████░░░░   85.43 % 
+Opencode-Cli             733 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.63% of written lines came from AI
-📄 Detailed Prompter — average 1,349 characters per prompt
+🤖 AI-Driven — 76.51% of written lines came from AI
+📄 Detailed Prompter — average 1,141 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 29.5% of changed lines were hand-edited
+🚀 High AI Trust — 26.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -364,7 +364,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on Tuesday, 04/08/26 at 10:27 AM UTC
+ Last Updated on Tuesday, 04/08/26 at 09:02 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

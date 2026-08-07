@@ -298,7 +298,59 @@
 <!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs%2023%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+YAML                     5 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   41.08 % 
+Lua                      2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Markdown                 1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+TypeScript               54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+
+🔥 Editors: 
+Neovim                   9 hrs 22 mins       ███████████████████░░░░░░   75.37 % 
+OpenCode                 2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+Claude Code              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+
+🐱‍💻 Projects: 
+homelab                  4 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.87 % 
+cv                       1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+openclaw-fasmin-workspace1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+nvim                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Unknown Project          54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+
+💻 Operating System: 
+Linux                    12 hrs 26 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 52 mins (39.24%)
+
+✍️ 4,793 lines written by AI, 3,070 lines written by hand (60.96% AI-written)
+
+🔤 2,012,208 Input Tokens, 145,747 Output Tokens
+
+💵 $7.92 Estimated AI Cost This Week
+
+🧠 25 AI Sessions, 132 AI Prompts
+
+Mimo                     4,124 lines         █████████████████████░░░░   83.74 % 
+Opencode-Cli             801 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 60.96% of written lines came from AI
+📄 Detailed Prompter — average 807 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 45.94% of changed lines were hand-edited
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -313,7 +365,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on Friday, 07/08/26 at 08:47 AM UTC
+ Last Updated on Friday, 07/08/26 at 08:30 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

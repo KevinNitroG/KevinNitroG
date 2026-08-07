@@ -300,71 +300,20 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs%2014%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-YAML                     4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-Terraform                2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Markdown                 1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Lua                      1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Python                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-
-🔥 Editors: 
-Neovim                   12 hrs 3 mins       ████████████████████░░░░░   80.36 % 
-OpenCode                 2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-
-🐱‍💻 Projects: 
-homelab                  3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-hello-aws                2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-cv                       2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-openclaw-fasmin-workspace1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-coding                   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-
-💻 Operating System: 
-Linux                    15 hrs              █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 7 hrs 11 mins (47.93%)
-
-✍️ 5,516 lines written by AI, 1,732 lines written by hand (76.1% AI-written)
-
-🔤 2,816,409 Input Tokens, 168,624 Output Tokens
-
-💵 $10.35 Estimated AI Cost This Week
-
-🧠 30 AI Sessions, 167 AI Prompts
-
-Mimo                     4,983 lines         █████████████████████░░░░   84.47 % 
-Opencode-Cli             916 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 76.1% of written lines came from AI
-📄 Detailed Prompter — average 1,142 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 30.62% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
 TypeScript               26 repos            █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-Lua                      17 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 Shell                    14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
 C#                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 
 
 
- Last Updated on Thursday, 06/08/26 at 10:29 AM UTC
+ Last Updated on Friday, 07/08/26 at 12:49 AM UTC
 <!--END_SECTION:waka-->
 
 <hr>

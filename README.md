@@ -298,7 +298,7 @@
 <!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-121%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-121%20hrs%2058%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -306,51 +306,51 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-YAML                     4 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   34.56 % 
-TypeScript               3 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   27.20 % 
-Markdown                 2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-Lua                      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Jinja2                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+YAML                     5 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   36.21 % 
+Markdown                 3 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+TypeScript               3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+Lua                      1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Jinja2                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🔥 Editors: 
-Neovim                   11 hrs 41 mins      ████████████████████░░░░░   80.79 % 
-OpenCode                 2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Neovim                   10 hrs 51 mins      ███████████████████░░░░░░   75.88 % 
+OpenCode                 3 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🐱‍💻 Projects: 
-homelab                  3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-coding                   3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-cv                       2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Unknown Project          1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-nvim                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+homelab                  3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
+coding                   2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+cv                       2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Unknown Project          1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+aws-etc                  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 
 💻 Operating System: 
-Linux                    14 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 48 mins (26.35%)
+⏱ AI Coding Time: 3 hrs 29 mins (24.39%)
 
-✍️ 4,653 lines written by AI, 2,840 lines written by hand (62.1% AI-written)
+✍️ 5,756 lines written by AI, 2,738 lines written by hand (67.77% AI-written)
 
-🔤 1,572,805 Input Tokens, 91,424 Output Tokens
+🔤 1,804,119 Input Tokens, 95,899 Output Tokens
 
-💵 $5.53 Estimated AI Cost This Week
+💵 $5.94 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 111 AI Prompts
+🧠 43 AI Sessions, 115 AI Prompts
 
-Mimo                     3,653 lines         ████████████████████░░░░░   79.60 % 
-Deepseek                 657 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Opencode-Cli             217 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Longcat                  62 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Mimo                     4,775 lines         █████████████████████░░░░   83.63 % 
+Deepseek                 657 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Opencode-Cli             200 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Longcat                  78 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 62.1% of written lines came from AI
-📄 Detailed Prompter — average 864 characters per prompt
+🤖 AI-Driven — 67.77% of written lines came from AI
+📄 Detailed Prompter — average 827 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 46.97% of changed lines were hand-edited
+🚀 High AI Trust — 41.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -366,7 +366,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on Tuesday, 11/08/26 at 08:44 AM UTC
+ Last Updated on Tuesday, 11/08/26 at 08:35 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

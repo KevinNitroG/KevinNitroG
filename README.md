@@ -306,54 +306,54 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 10 hrs 52 mins      █████████████████░░░░░░░░   68.45 % 
-YAML                     2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-TypeScript               1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Go                       18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Markdown                 8 hrs 21 mins       ██████████████████░░░░░░░   72.88 % 
+YAML                     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+TypeScript               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-Obsidian                 10 hrs 2 mins       ████████████████░░░░░░░░░   63.13 % 
-Neovim                   4 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.15 % 
-OpenCode                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Claude Code              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-Antigravity CLI          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Obsidian                 7 hrs 25 mins       ████████████████░░░░░░░░░   64.67 % 
+Neovim                   3 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+OpenCode                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Claude Code              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Antigravity CLI          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🐱‍💻 Projects: 
-obsidian-note            10 hrs 29 mins      ████████████████░░░░░░░░░   65.99 % 
-cv                       1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-coding                   1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-notopia                  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-tickopia                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+obsidian-note            8 hrs 7 mins        ██████████████████░░░░░░░   70.80 % 
+coding                   1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+notopia                  56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+cv                       42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+aws-etc                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 💻 Operating System: 
-Linux                    15 hrs 53 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 53 mins (18.22%)
+⏱ AI Coding Time: 1 hr 35 mins (13.84%)
 
-✍️ 1,217 lines written by AI, 3,444 lines written by hand (26.11% AI-written)
+✍️ 343 lines written by AI, 2,761 lines written by hand (11.05% AI-written)
 
-🔤 1,520,023 Input Tokens, 64,501 Output Tokens
+🔤 917,694 Input Tokens, 26,241 Output Tokens
 
-💵 $7.78 Estimated AI Cost This Week
+💵 $2.75 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 50 AI Prompts
+🧠 14 AI Sessions, 30 AI Prompts
 
-Mimo                     1,044 lines         █████████████████████░░░░   85.43 % 
-Deepseek                 118 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Gemini                   40 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Opencode-Cli             20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Mimo                     292 lines           ██████████████████████░░░   87.95 % 
+Gemini                   40 lines            ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Hy                       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 26.11% of written lines came from AI
-📚 Verbose Prompter — average 4,409 characters per prompt
+🧑‍💻 Mostly Hands-On — 11.05% of written lines came from AI
+📚 Verbose Prompter — average 1,511 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 76.73% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 90.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -369,7 +369,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on Wednesday, 26/08/26 at 08:32 AM UTC
+ Last Updated on Wednesday, 26/08/26 at 10:36 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

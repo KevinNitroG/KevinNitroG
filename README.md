@@ -306,42 +306,42 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 10 hrs 34 mins      ███████████████████░░░░░░   76.59 % 
-YAML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-TypeScript               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Markdown                 10 hrs 12 mins      ███████████████████░░░░░░   77.03 % 
+YAML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+TypeScript               1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-Obsidian                 10 hrs 2 mins       ██████████████████░░░░░░░   72.66 % 
-Neovim                   3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-OpenCode                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Antigravity CLI          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Claude Code              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Obsidian                 9 hrs 39 mins       ██████████████████░░░░░░░   72.93 % 
+Neovim                   2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+OpenCode                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Antigravity CLI          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Claude Code              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🐱‍💻 Projects: 
-obsidian-note            10 hrs 7 mins       ██████████████████░░░░░░░   73.27 % 
-coding                   1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-notopia                  56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-aws-etc                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-cv                       37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+obsidian-note            9 hrs 44 mins       ██████████████████░░░░░░░   73.57 % 
+coding                   1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+notopia                  56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+aws-etc                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+cv                       30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 💻 Operating System: 
-Linux                    13 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 8 mins (15.53%)
+⏱ AI Coding Time: 2 hrs 8 mins (16.19%)
 
-✍️ 192 lines written by AI, 3,407 lines written by hand (5.33% AI-written)
+✍️ 192 lines written by AI, 3,357 lines written by hand (5.41% AI-written)
 
-🔤 1,008,678 Input Tokens, 33,608 Output Tokens
+🔤 950,307 Input Tokens, 32,339 Output Tokens
 
-💵 $13.85 Estimated AI Cost This Week
+💵 $13.66 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 51 AI Prompts
+🧠 16 AI Sessions, 48 AI Prompts
 
 Mimo                     144 lines           ████████████████████░░░░░   78.26 % 
 Gemini                   40 lines            █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
@@ -350,10 +350,10 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.33% of written lines came from AI
-📄 Detailed Prompter — average 811 characters per prompt
+🧑‍💻 Mostly Hands-On — 5.41% of written lines came from AI
+📄 Detailed Prompter — average 832 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 95.46% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 95.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -369,7 +369,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on Friday, 28/08/26 at 07:47 PM UTC
+ Last Updated on Saturday, 29/08/26 at 02:37 AM UTC
 <!--END_SECTION:waka-->
 
 <hr>

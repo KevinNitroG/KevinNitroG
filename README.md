@@ -306,52 +306,52 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-Go                       1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-JSON                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-YAML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Lua                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Go                       1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+Markdown                 1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+JSON                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+YAML                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Lua                      42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 18 mins       █████████████░░░░░░░░░░░░   50.72 % 
-Claude Code              1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-VS Code                  1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Obsidian                 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-OpenCode                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Neovim                   3 hrs 46 mins       ██████████████░░░░░░░░░░░   54.54 % 
+VS Code                  1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Obsidian                 46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Claude Code              40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+OpenCode                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 
 🐱‍💻 Projects: 
-notopia                  3 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.93 % 
-Unknown Project          1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-vinuni-script            59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-homelab                  51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-obsidian-note            45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+notopia                  2 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   36.34 % 
+Unknown Project          51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+homelab                  51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+obsidian-note            42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+User                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
 
 💻 Operating System: 
-Linux                    8 hrs 28 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 36 mins (30.75%)
+⏱ AI Coding Time: 1 hr 55 mins (27.83%)
 
-✍️ 8,638 lines written by AI, 1,126 lines written by hand (88.47% AI-written)
+✍️ 1,612 lines written by AI, 204 lines written by hand (88.77% AI-written)
 
-🔤 24,923,832 Input Tokens, 211,967 Output Tokens
+🔤 7,470,646 Input Tokens, 103,033 Output Tokens
 
-💵 $129.80 Estimated AI Cost This Week
+💵 $40.01 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 54 AI Prompts
+🧠 9 AI Sessions, 32 AI Prompts
 
-Opus                     8,862 lines         ████████████████████████░   97.90 % 
-Mimo                     190 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Opus                     1,685 lines         ███████████████████████░░   92.53 % 
+Mimo                     136 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.47% of written lines came from AI
-📚 Verbose Prompter — average 1,847 characters per prompt
+🤖 AI-Driven — 88.77% of written lines came from AI
+📚 Verbose Prompter — average 2,894 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 22.97% of changed lines were hand-edited
+🚀 High AI Trust — 42.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -367,7 +367,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on Sunday, 06/09/26 at 11:50 AM UTC
+ Last Updated on Sunday, 06/09/26 at 09:51 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

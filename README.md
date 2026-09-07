@@ -306,68 +306,68 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-Markdown                 1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-JSON                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-YAML                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Lua                      42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Markdown                 3 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   39.37 % 
+Go                       1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+JSON                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+YAML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Lua                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 46 mins       ██████████████░░░░░░░░░░░   54.54 % 
-VS Code                  1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Obsidian                 46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Claude Code              40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-OpenCode                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Neovim                   3 hrs 47 mins       ███████████░░░░░░░░░░░░░░   42.78 % 
+Obsidian                 2 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.11 % 
+VS Code                  1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Claude Code              40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+OpenCode                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 🐱‍💻 Projects: 
-notopia                  2 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   36.34 % 
-Unknown Project          51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-homelab                  51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-obsidian-note            42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-User                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Unknown Project          3 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   35.52 % 
+notopia                  2 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   27.89 % 
+homelab                  51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+User                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+obsidian-note            32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 
 💻 Operating System: 
-Linux                    6 hrs 54 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 37 mins       ███████████████████░░░░░░   74.75 % 
+Windows                  2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 55 mins (27.83%)
+⏱ AI Coding Time: 1 hr 50 mins (20.72%)
 
-✍️ 1,612 lines written by AI, 204 lines written by hand (88.77% AI-written)
+✍️ 1,612 lines written by AI, 463 lines written by hand (77.69% AI-written)
 
-🔤 7,470,646 Input Tokens, 103,033 Output Tokens
+🔤 7,376,059 Input Tokens, 98,078 Output Tokens
 
-💵 $40.01 Estimated AI Cost This Week
+💵 $39.51 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 32 AI Prompts
+🧠 7 AI Sessions, 29 AI Prompts
 
 Opus                     1,685 lines         ███████████████████████░░   92.53 % 
 Mimo                     136 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.77% of written lines came from AI
-📚 Verbose Prompter — average 2,894 characters per prompt
+🤖 AI-Driven — 77.69% of written lines came from AI
+📚 Verbose Prompter — average 3,180 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 42.34% of changed lines were hand-edited
+🚀 High AI Trust — 46.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               27 repos            ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-JavaScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+TypeScript               27 repos            ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+JavaScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Go                       7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
 
 
 
- Last Updated on Monday, 07/09/26 at 01:49 PM UTC
+ Last Updated on Monday, 07/09/26 at 10:24 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

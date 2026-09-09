@@ -357,17 +357,17 @@ Mimo                     16 lines            ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               27 repos            ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-JavaScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Go                       7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+TypeScript               27 repos            ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+JavaScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Go                       7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Vim Script               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
 
 
 
- Last Updated on Tuesday, 08/09/26 at 10:11 PM UTC
+ Last Updated on Wednesday, 09/09/26 at 12:35 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

@@ -392,20 +392,20 @@ HCL                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ruschaaf/extended-embedded-languages](https://github.com/ruschaaf/extended-embedded-languages)<br>
-2. ⭐ Starred [harrydowning/vscode-yaml-embedded-languages](https://github.com/harrydowning/vscode-yaml-embedded-languages)<br>
-3. ⭐ Starred [rcieri/glab-tui](https://github.com/rcieri/glab-tui)<br>
-4. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-5. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+1. ⭐ Starred [mkobit/chezmoi-skills](https://github.com/mkobit/chezmoi-skills)<br>
+2. ⭐ Starred [and-rs/flash.tmux](https://github.com/and-rs/flash.tmux)<br>
+3. ⭐ Starred [ruschaaf/extended-embedded-languages](https://github.com/ruschaaf/extended-embedded-languages)<br>
+4. ⭐ Starred [harrydowning/vscode-yaml-embedded-languages](https://github.com/harrydowning/vscode-yaml-embedded-languages)<br>
+5. ⭐ Starred [rcieri/glab-tui](https://github.com/rcieri/glab-tui)<br>
 6. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-7. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-8. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+7. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+8. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 9. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-10. ⬆️ Pushed undefined commit(s) to [KevinNitroG/nx-cache-action](https://github.com/KevinNitroG/nx-cache-action)<br>
+10. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 13/9/26 4:09 AM
+Last Updated on Sunday, 13/9/26 7:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

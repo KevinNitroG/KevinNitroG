@@ -393,20 +393,20 @@ HCL                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+1. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 2. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-3. ⭐ Starred [tqmane/gunshot](https://github.com/tqmane/gunshot)<br>
-4. ⭐ Starred [mass8326/zsh-chezmoi](https://github.com/mass8326/zsh-chezmoi)<br>
-5. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-6. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+3. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+4. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+5. ⭐ Starred [tqmane/gunshot](https://github.com/tqmane/gunshot)<br>
+6. ⭐ Starred [mass8326/zsh-chezmoi](https://github.com/mass8326/zsh-chezmoi)<br>
 7. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-8. ⭐ Starred [mkobit/chezmoi-skills](https://github.com/mkobit/chezmoi-skills)<br>
-9. ⭐ Starred [and-rs/flash.tmux](https://github.com/and-rs/flash.tmux)<br>
-10. ⭐ Starred [ruschaaf/extended-embedded-languages](https://github.com/ruschaaf/extended-embedded-languages)<br>
+8. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+9. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+10. ⭐ Starred [mkobit/chezmoi-skills](https://github.com/mkobit/chezmoi-skills)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 15/9/26 8:09 PM
+Last Updated on Wednesday, 16/9/26 5:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

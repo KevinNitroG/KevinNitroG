@@ -393,20 +393,20 @@ HCL                      1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+1. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 2. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-3. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-4. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-5. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-6. ⭐ Starred [tqmane/gunshot](https://github.com/tqmane/gunshot)<br>
-7. ⭐ Starred [mass8326/zsh-chezmoi](https://github.com/mass8326/zsh-chezmoi)<br>
-8. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-9. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-10. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+3. ❗️ Opened issue [#3](https://github.com/KevinNitroG/vi-spell.vim/issues/3) in [KevinNitroG/vi-spell.vim](https://github.com/KevinNitroG/vi-spell.vim)<br>
+4. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+5. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+6. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+7. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+8. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+9. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+10. ⭐ Starred [tqmane/gunshot](https://github.com/tqmane/gunshot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Wednesday, 16/9/26 7:09 PM
+Last Updated on Thursday, 17/9/26 5:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

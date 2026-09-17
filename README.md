@@ -298,7 +298,7 @@
 <!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-146%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%203%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -306,72 +306,72 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 14 hrs 34 mins      ██████████░░░░░░░░░░░░░░░   38.52 % 
-Terraform                7 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Go Template              3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Other                    3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-YAML                     2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Markdown                 12 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   31.61 % 
+Terraform                10 hrs 52 mins      ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+Go Template              3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+YAML                     3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Other                    2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 
 🔥 Editors: 
-Obsidian                 12 hrs 18 mins      ████████░░░░░░░░░░░░░░░░░   32.52 % 
-VS Code                  11 hrs 28 mins      ████████░░░░░░░░░░░░░░░░░   30.34 % 
-Neovim                   11 hrs 28 mins      ████████░░░░░░░░░░░░░░░░░   30.31 % 
-Claude Code              2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-OpenCode                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Neovim                   17 hrs 15 mins      ███████████░░░░░░░░░░░░░░   43.78 % 
+Obsidian                 9 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
+VS Code                  9 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+Claude Code              2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+OpenCode                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🐱‍💻 Projects: 
-terraform-aws-intern-proj11 hrs 9 mins       ███████░░░░░░░░░░░░░░░░░░   29.51 % 
-chezmoi                  8 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
-Unknown Project          6 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-note                     4 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-notopia                  2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+terraform-aws-intern-proj15 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   39.46 % 
+chezmoi                  8 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+note                     6 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Unknown Project          3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+notopia                  2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 
 💻 Operating System: 
-Linux                    13 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   35.41 % 
-WSL                      12 hrs 15 mins      ████████░░░░░░░░░░░░░░░░░   32.40 % 
-Windows                  12 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   32.20 % 
+WSL                      16 hrs 56 mins      ███████████░░░░░░░░░░░░░░   43.00 % 
+Linux                    12 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   32.30 % 
+Windows                  9 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 1 min (13.27%)
+⏱ AI Coding Time: 4 hrs 5 mins (10.36%)
 
-✍️ 4,224 lines written by AI, 4,972 lines written by hand (45.93% AI-written)
+✍️ 4,240 lines written by AI, 6,827 lines written by hand (38.31% AI-written)
 
-🔤 41,185,187 Input Tokens, 432,947 Output Tokens
+🔤 44,256,554 Input Tokens, 481,106 Output Tokens
 
-💵 $243.36 Estimated AI Cost This Week
+💵 $269.51 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 169 AI Prompts
+🧠 38 AI Sessions, 162 AI Prompts
 
-Opus                     2,854 lines         ███████████████░░░░░░░░░░   61.39 % 
-Mimo                     1,275 lines         ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-Sonnet                   397 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Spark                    123 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Opus                     2,854 lines         ███████████████░░░░░░░░░░   60.92 % 
+Mimo                     1,249 lines         ███████░░░░░░░░░░░░░░░░░░   26.66 % 
+Sonnet                   397 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Spark                    185 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 45.93% of written lines came from AI
-📚 Verbose Prompter — average 2,095 characters per prompt
+⚖️ Balanced with AI — 38.31% of written lines came from AI
+📚 Verbose Prompter — average 3,213 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 58.56% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 64.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               27 repos            ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-JavaScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Go                       7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Vim Script               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+TypeScript               26 repos            █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+JavaScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Go                       7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Vim Script               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
 
 
 
- Last Updated on Thursday, 17/09/26 at 12:53 PM UTC
+ Last Updated on Thursday, 17/09/26 at 10:32 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

@@ -361,17 +361,17 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               26 repos            █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-JavaScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Go                       7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Vim Script               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+TypeScript               27 repos            █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+JavaScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Go                       7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Vim Script               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 ```
 
 
 
 
- Last Updated on Friday, 18/09/26 at 10:05 PM UTC
+ Last Updated on Saturday, 19/09/26 at 12:09 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

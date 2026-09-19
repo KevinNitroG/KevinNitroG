@@ -394,20 +394,20 @@ HCL                      2 repos             ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+1. ⭐ Starred [sammaji/markdown-preview.nvim](https://github.com/sammaji/markdown-preview.nvim)<br>
 2. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 3. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 4. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-5. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+5. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 6. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-7. ⭐ Starred [awslabs/eks-node-viewer](https://github.com/awslabs/eks-node-viewer)<br>
+7. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 8. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-9. ⭐ Starred [termux/termux-language-server](https://github.com/termux/termux-language-server)<br>
-10. ❗️ Opened issue [#3846](https://github.com/floci-io/floci/issues/3846) in [floci-io/floci](https://github.com/floci-io/floci)<br>
+9. ⭐ Starred [awslabs/eks-node-viewer](https://github.com/awslabs/eks-node-viewer)<br>
+10. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 19/9/26 7:09 PM
+Last Updated on Sunday, 20/9/26 4:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

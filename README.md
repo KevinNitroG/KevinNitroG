@@ -362,16 +362,16 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 
 ```text
 TypeScript               27 repos            █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-JavaScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 Go                       7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Vim Script               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Vim Script               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 ```
 
 
 
 
- Last Updated on Saturday, 19/09/26 at 09:57 PM UTC
+ Last Updated on Sunday, 20/09/26 at 12:46 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

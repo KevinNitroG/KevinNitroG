@@ -394,20 +394,20 @@ HCL                      2 repos             ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sammaji/markdown-preview.nvim](https://github.com/sammaji/markdown-preview.nvim)<br>
+1. ⭐ Starred [dotpm/obsidian-pm](https://github.com/dotpm/obsidian-pm)<br>
 2. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 3. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-4. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+4. ⭐ Starred [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify)<br>
 5. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 6. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-7. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
+7. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 8. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
-9. ⭐ Starred [awslabs/eks-node-viewer](https://github.com/awslabs/eks-node-viewer)<br>
+9. ⭐ Starred [sammaji/markdown-preview.nvim](https://github.com/sammaji/markdown-preview.nvim)<br>
 10. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 20/9/26 4:09 AM
+Last Updated on Sunday, 20/9/26 7:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

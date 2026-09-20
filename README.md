@@ -298,7 +298,7 @@
 <!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-148%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-150%20hrs%2023%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -306,56 +306,55 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 14 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   30.48 % 
-Terraform                11 hrs 49 mins      ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-Go Template              5 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-YAML                     3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Bash                     2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Markdown                 17 hrs 46 mins      █████████░░░░░░░░░░░░░░░░   37.66 % 
+Terraform                11 hrs 49 mins      ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+Go Template              4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+YAML                     3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Bash                     2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 
 🔥 Editors: 
-Neovim                   23 hrs 41 mins      █████████████░░░░░░░░░░░░   50.91 % 
-Obsidian                 11 hrs 12 mins      ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-VS Code                  8 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Claude Code              2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Antigravity CLI          24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Neovim                   22 hrs 44 mins      ████████████░░░░░░░░░░░░░   48.18 % 
+Obsidian                 13 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   28.28 % 
+VS Code                  8 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Claude Code              2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Antigravity CLI          24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🐱‍💻 Projects: 
-terraform-aws-intern-proj16 hrs 37 mins      █████████░░░░░░░░░░░░░░░░   35.73 % 
-chezmoi                  13 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   28.93 % 
-note                     9 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-notopia                  2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Unknown Project          1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+terraform-aws-intern-proj16 hrs 37 mins      █████████░░░░░░░░░░░░░░░░   35.23 % 
+note                     9 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+chezmoi                  9 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+itc-note                 5 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+notopia                  2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 
 💻 Operating System: 
-Linux                    18 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   39.48 % 
-WSL                      17 hrs 25 mins      █████████░░░░░░░░░░░░░░░░   37.44 % 
-Windows                  10 hrs 44 mins      ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Linux                    19 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   40.33 % 
+WSL                      17 hrs 25 mins      █████████░░░░░░░░░░░░░░░░   36.91 % 
+Windows                  10 hrs 44 mins      ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 16 mins (9.19%)
+⏱ AI Coding Time: 6 hrs 3 mins (12.85%)
 
-✍️ 3,658 lines written by AI, 8,277 lines written by hand (30.65% AI-written)
+✍️ 1,086 lines written by AI, 7,018 lines written by hand (13.4% AI-written)
 
-🔤 61,872,728 Input Tokens, 511,557 Output Tokens
+🔤 41,318,520 Input Tokens, 384,669 Output Tokens
 
-💵 $339.19 Estimated AI Cost This Week
+💵 $252.39 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 176 AI Prompts
+🧠 36 AI Sessions, 175 AI Prompts
 
-Opus                     3,308 lines         ████████████████████░░░░░   79.90 % 
-Sonnet                   397 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Spark                    331 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Mimo                     104 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Opus                     914 lines           █████████████████░░░░░░░░   67.75 % 
+Spark                    331 lines           ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+Mimo                     104 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 30.65% of written lines came from AI
-📚 Verbose Prompter — average 1,703 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 71.42% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 13.4% of written lines came from AI
+📚 Verbose Prompter — average 2,637 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 86.46% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -371,7 +370,7 @@ HCL                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on Sunday, 20/09/26 at 12:46 PM UTC
+ Last Updated on Sunday, 20/09/26 at 10:03 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

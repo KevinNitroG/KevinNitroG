@@ -306,54 +306,54 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 20 hrs 28 mins      ███████████░░░░░░░░░░░░░░   43.30 % 
-YAML                     9 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Terraform                4 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Go Template              3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Other                    2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Markdown                 18 hrs 25 mins      ███████████░░░░░░░░░░░░░░   44.97 % 
+YAML                     8 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Terraform                3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Go Template              3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Other                    2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 
 🔥 Editors: 
-Neovim                   23 hrs 22 mins      ████████████░░░░░░░░░░░░░   49.46 % 
-Obsidian                 16 hrs 43 mins      █████████░░░░░░░░░░░░░░░░   35.40 % 
-VS Code                  2 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Claude Code              2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Antigravity CLI          2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Neovim                   19 hrs 20 mins      ████████████░░░░░░░░░░░░░   47.22 % 
+Obsidian                 14 hrs 55 mins      █████████░░░░░░░░░░░░░░░░   36.42 % 
+Claude Code              2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+VS Code                  2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Antigravity CLI          1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🐱‍💻 Projects: 
-note                     13 hrs              ███████░░░░░░░░░░░░░░░░░░   27.53 % 
-terraform-aws-intern-proj10 hrs 56 mins      ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-chezmoi                  8 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-itc-note                 5 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-hnm-a                    2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+note                     8 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+terraform-aws-intern-proj7 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+chezmoi                  7 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+itc-note                 5 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+obsidian-note            4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
 
 💻 Operating System: 
-WSL                      19 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   41.08 % 
-Linux                    14 hrs 39 mins      ████████░░░░░░░░░░░░░░░░░   31.03 % 
-Windows                  13 hrs 10 mins      ███████░░░░░░░░░░░░░░░░░░   27.89 % 
+WSL                      16 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   39.61 % 
+Linux                    15 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   38.65 % 
+Windows                  8 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 52 mins (18.78%)
+⏱ AI Coding Time: 7 hrs 24 mins (18.07%)
 
-✍️ 868 lines written by AI, 5,263 lines written by hand (14.16% AI-written)
+✍️ 1,380 lines written by AI, 4,470 lines written by hand (23.59% AI-written)
 
-🔤 43,790,682 Input Tokens, 459,288 Output Tokens
+🔤 64,546,336 Input Tokens, 485,354 Output Tokens
 
-💵 $293.79 Estimated AI Cost This Week
+💵 $385.37 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 226 AI Prompts
+🧠 25 AI Sessions, 180 AI Prompts
 
-Opus                     924 lines           █████████████████████░░░░   83.39 % 
-Spark                    184 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Opus                     1,651 lines         ████████████████████████░   97.75 % 
+Spark                    38 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.16% of written lines came from AI
-📚 Verbose Prompter — average 1,795 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 86.14% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 23.59% of written lines came from AI
+📚 Verbose Prompter — average 1,706 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 78.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -369,7 +369,7 @@ HCL                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on Friday, 25/09/26 at 01:07 PM UTC
+ Last Updated on Friday, 25/09/26 at 10:58 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

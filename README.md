@@ -392,20 +392,20 @@ Just                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-2. ⬆️ Pushed undefined commit(s) to [mastercookvn/mastercookvn](https://github.com/mastercookvn/mastercookvn)<br>
+1. ⭐ Starred [blackhat-7/vellum.nvim](https://github.com/blackhat-7/vellum.nvim)<br>
+2. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 3. ⬆️ Pushed undefined commit(s) to [mastercookvn/mastercookvn](https://github.com/mastercookvn/mastercookvn)<br>
 4. ⬆️ Pushed undefined commit(s) to [mastercookvn/mastercookvn](https://github.com/mastercookvn/mastercookvn)<br>
 5. ⬆️ Pushed undefined commit(s) to [mastercookvn/mastercookvn](https://github.com/mastercookvn/mastercookvn)<br>
 6. ⬆️ Pushed undefined commit(s) to [mastercookvn/mastercookvn](https://github.com/mastercookvn/mastercookvn)<br>
 7. ⬆️ Pushed undefined commit(s) to [mastercookvn/mastercookvn](https://github.com/mastercookvn/mastercookvn)<br>
 8. ⬆️ Pushed undefined commit(s) to [mastercookvn/mastercookvn](https://github.com/mastercookvn/mastercookvn)<br>
-9. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-10. ⬆️ Pushed undefined commit(s) to [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles)<br>
+9. ⬆️ Pushed undefined commit(s) to [mastercookvn/mastercookvn](https://github.com/mastercookvn/mastercookvn)<br>
+10. ⬆️ Pushed undefined commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Sunday, 27/9/26 8:09 PM
+Last Updated on Monday, 28/9/26 5:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

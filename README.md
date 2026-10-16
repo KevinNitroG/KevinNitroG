@@ -298,7 +298,7 @@
 <!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-175%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-175%20hrs%202%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -306,72 +306,72 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 21 hrs 39 mins      █████████████░░░░░░░░░░░░   51.31 % 
-Terraform                6 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-YAML                     3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Other                    2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Python                   1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Markdown                 19 hrs 57 mins      ████████████░░░░░░░░░░░░░   48.13 % 
+Terraform                8 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+YAML                     4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Other                    1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Bash                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 🔥 Editors: 
-Neovim                   20 hrs 30 mins      ████████████░░░░░░░░░░░░░   48.60 % 
-Obsidian                 11 hrs 50 mins      ███████░░░░░░░░░░░░░░░░░░   28.08 % 
-Claude Code              6 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-OpenCode                 2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Neovim                   22 hrs 8 mins       █████████████░░░░░░░░░░░░   53.40 % 
+Obsidian                 10 hrs 9 mins       ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+Claude Code              6 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+OpenCode                 2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 Opencode Cli             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🐱‍💻 Projects: 
-note                     11 hrs 48 mins      ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-notopia                  10 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   26.06 % 
-sylvora-infra            8 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-chezmoi                  3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-wsg-infra                2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+notopia                  10 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   26.53 % 
+note                     10 hrs 6 mins       ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+sylvora-infra            8 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+wsg-infra                5 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+chezmoi                  2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 
 💻 Operating System: 
-WSL                      15 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   36.22 % 
-Linux                    15 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   35.81 % 
-Windows                  11 hrs 48 mins      ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+WSL                      17 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   41.52 % 
+Linux                    14 hrs 8 mins       █████████░░░░░░░░░░░░░░░░   34.10 % 
+Windows                  10 hrs 6 mins       ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 40 mins (22.93%)
+⏱ AI Coding Time: 9 hrs 39 mins (23.31%)
 
-✍️ 26,365 lines written by AI, 16,645 lines written by hand (61.3% AI-written)
+✍️ 26,140 lines written by AI, 17,718 lines written by hand (59.6% AI-written)
 
-🔤 220,240,165 Input Tokens, 2,082,055 Output Tokens
+🔤 219,774,883 Input Tokens, 1,990,684 Output Tokens
 
-💵 $841.48 Estimated AI Cost This Week
+💵 $827.51 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 320 AI Prompts
+🧠 45 AI Sessions, 293 AI Prompts
 
-Opus                     22,180 lines        █████████████████████░░░░   83.17 % 
-Spark                    2,385 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Sonnet                   1,193 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-Haiku                    822 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Opencode-Cli             87 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Opus                     22,180 lines        █████████████████████░░░░   84.35 % 
+Spark                    1,986 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Sonnet                   1,193 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Haiku                    822 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Opencode-Cli             113 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 61.3% of written lines came from AI
-📚 Verbose Prompter — average 2,318 characters per prompt
+⚖️ Balanced with AI — 59.6% of written lines came from AI
+📚 Verbose Prompter — average 2,473 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 51.45% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 52.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Go                       7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Vim Script               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Just                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Go                       6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Vim Script               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Just                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
 
 
 
- Last Updated on Friday, 16/10/26 at 12:52 PM UTC
+ Last Updated on Friday, 16/10/26 at 10:21 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

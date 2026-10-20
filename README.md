@@ -361,17 +361,17 @@ Sonnet                   173 lines           ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Go                       7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Vim Script               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Just                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Vim Script               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Just                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 
 
 
 
- Last Updated on Monday, 19/10/26 at 11:13 PM UTC
+ Last Updated on Tuesday, 20/10/26 at 01:09 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

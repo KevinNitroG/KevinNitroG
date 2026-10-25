@@ -306,56 +306,55 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 19 hrs 55 mins      ████████████████░░░░░░░░░   65.09 % 
-Terraform                2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-YAML                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Go Template              1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Go                       1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Markdown                 19 hrs 12 mins      ██████████████████░░░░░░░   72.13 % 
+Terraform                2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+YAML                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Go Template              1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Go                       54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 🔥 Editors: 
-Obsidian                 14 hrs 2 mins       ███████████░░░░░░░░░░░░░░   45.86 % 
-Neovim                   9 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   31.90 % 
-Claude Code              5 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-Opencode Cli             55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-OpenCode                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Obsidian                 15 hrs 58 mins      ███████████████░░░░░░░░░░   59.96 % 
+Neovim                   7 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   30.01 % 
+Claude Code              2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Opencode Cli             17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🐱‍💻 Projects: 
-note                     8 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.00 % 
-notopia                  7 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
-obsidian-note            5 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-sylvora-infra            2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-chezmoi                  1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+note                     8 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.03 % 
+obsidian-note            7 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+sylvora-infra            2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+notopia                  2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+wsg-infra                1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 
 💻 Operating System: 
-Linux                    17 hrs 8 mins       ██████████████░░░░░░░░░░░   55.96 % 
-Windows                  8 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.51 % 
-WSL                      5 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Linux                    13 hrs 9 mins       ████████████░░░░░░░░░░░░░   49.38 % 
+Windows                  8 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   31.62 % 
+WSL                      5 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 7 mins (23.29%)
+⏱ AI Coding Time: 2 hrs 51 mins (10.74%)
 
-✍️ 4,951 lines written by AI, 3,348 lines written by hand (59.66% AI-written)
+✍️ 2,504 lines written by AI, 2,543 lines written by hand (49.61% AI-written)
 
-🔤 87,472,715 Input Tokens, 822,459 Output Tokens
+🔤 2,878,070 Input Tokens, 250,917 Output Tokens
 
-💵 $353.76 Estimated AI Cost This Week
+💵 $21.44 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 96 AI Prompts
+🧠 15 AI Sessions, 60 AI Prompts
 
-Opus                     4,445 lines         ██████████████████████░░░   89.08 % 
-DeepSeek                 289 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Haiku                    149 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Sonnet                   60 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-MiMo                     47 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Opus                     2,346 lines         ███████████████████████░░   93.13 % 
+Haiku                    132 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+MiMo                     41 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 59.66% of written lines came from AI
-📄 Detailed Prompter — average 1,340 characters per prompt
+⚖️ Balanced with AI — 49.61% of written lines came from AI
+📄 Detailed Prompter — average 777 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 47.47% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 59.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -371,7 +370,7 @@ Just                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on Sunday, 25/10/26 at 12:51 PM UTC
+ Last Updated on Sunday, 25/10/26 at 10:10 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

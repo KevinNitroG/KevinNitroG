@@ -392,20 +392,20 @@ Just                     1 repo              ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [mastercookvn/mastercookvn](https://github.com/mastercookvn/mastercookvn)<br>
-2. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+1. ❌ Closed PR [#304](undefined) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+2. 💬 Commented on [#304](https://github.com/notopia-uit/notopia/pull/304#issuecomment-6543778510) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 3. ⬆️ Pushed undefined commit(s) to [mastercookvn/mastercookvn](https://github.com/mastercookvn/mastercookvn)<br>
-4. 💬 Commented on [#17](https://github.com/matcra587/claude-themes/issues/17#issuecomment-6459058723) in [matcra587/claude-themes](https://github.com/matcra587/claude-themes)<br>
-5. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-6. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+4. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+5. ⬆️ Pushed undefined commit(s) to [mastercookvn/mastercookvn](https://github.com/mastercookvn/mastercookvn)<br>
+6. 💬 Commented on [#17](https://github.com/matcra587/claude-themes/issues/17#issuecomment-6459058723) in [matcra587/claude-themes](https://github.com/matcra587/claude-themes)<br>
 7. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-8. 💬 Commented on [#350](https://github.com/notopia-uit/notopia/pull/350#issuecomment-6445721995) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+8. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 9. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-10. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+10. 💬 Commented on [#350](https://github.com/notopia-uit/notopia/pull/350#issuecomment-6445721995) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Saturday, 31/10/26 6:10 AM
+Last Updated on Saturday, 31/10/26 9:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

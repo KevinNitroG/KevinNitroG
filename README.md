@@ -361,8 +361,8 @@ Opus                     0 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-Go                       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+TypeScript               28 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
 HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 Vim Script               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
@@ -371,7 +371,7 @@ Vim Script               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on Tuesday, 10/11/26 at 02:27 AM UTC
+ Last Updated on Tuesday, 10/11/26 at 03:57 PM UTC
 <!--END_SECTION:waka-->
 
 <hr>

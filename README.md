@@ -306,55 +306,54 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 7 hrs 29 mins       ████████████░░░░░░░░░░░░░   48.31 % 
-YAML                     3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
-JSON                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Go                       1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Lua                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Markdown                 5 hrs 13 mins       ███████████░░░░░░░░░░░░░░   42.79 % 
+YAML                     3 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Go                       1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+TypeScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 43 mins       ████████████░░░░░░░░░░░░░   49.86 % 
-Obsidian                 3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-Opencode Cli             2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-OpenCode                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Claude Code              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Neovim                   6 hrs 21 mins       █████████████░░░░░░░░░░░░   52.06 % 
+Obsidian                 2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Opencode Cli             2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+OpenCode                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🐱‍💻 Projects: 
-notopia                  7 hrs               ███████████░░░░░░░░░░░░░░   45.22 % 
-note                     3 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-prometheus-community-helm2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Unknown Project          1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-azure-pipeline-gen       21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+notopia                  6 hrs 9 mins        █████████████░░░░░░░░░░░░   50.36 % 
+note                     2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+prometheus-community-helm1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Unknown Project          1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+azure-pipeline-gen       32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 💻 Operating System: 
-Linux                    7 hrs 59 mins       █████████████░░░░░░░░░░░░   51.60 % 
-WSL                      3 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
-Windows                  3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+Linux                    6 hrs 54 mins       ██████████████░░░░░░░░░░░   56.44 % 
+WSL                      2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+Windows                  2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 32 mins (42.25%)
+⏱ AI Coding Time: 4 hrs 50 mins (39.66%)
 
-✍️ 206 lines written by AI, 62,130 lines written by hand (0.33% AI-written)
+✍️ 0 lines written by AI, 62,050 lines written by hand (0.0% AI-written)
 
-🔤 3,487,608 Input Tokens, 449,504 Output Tokens
+🔤 2,347,373 Input Tokens, 287,398 Output Tokens
 
-💵 $135.04 Estimated AI Cost This Week
+💵 $83.78 Estimated AI Cost This Week
 
-🧠 88 AI Sessions, 186 AI Prompts
+🧠 62 AI Sessions, 142 AI Prompts
 
-Sonnet                   206 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 MiMo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.33% of written lines came from AI
-📄 Detailed Prompter — average 967 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 1,136 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.67% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -370,7 +369,7 @@ Vim Script               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on Wednesday, 11/11/26 at 03:43 PM UTC
+ Last Updated on Thursday, 12/11/26 at 01:44 AM UTC
 <!--END_SECTION:waka-->
 
 <hr>

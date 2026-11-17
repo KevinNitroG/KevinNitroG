@@ -392,20 +392,20 @@ Vim Script               2 repos             ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#3](https://github.com/mastercookvn/mastercookvn/pull/3#discussion_r4586456174) in [mastercookvn/mastercookvn](https://github.com/mastercookvn/mastercookvn)<br>
-2. 💬 Commented on [#238](https://github.com/notopia-uit/notopia/pull/238#issuecomment-6920837925) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-3. 💬 Commented on [#238](https://github.com/notopia-uit/notopia/pull/238#issuecomment-6920832341) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-4. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+1. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+2. 💬 Commented on [#3](https://github.com/mastercookvn/mastercookvn/pull/3#discussion_r4586456174) in [mastercookvn/mastercookvn](https://github.com/mastercookvn/mastercookvn)<br>
+3. 💬 Commented on [#238](https://github.com/notopia-uit/notopia/pull/238#issuecomment-6920837925) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+4. 💬 Commented on [#238](https://github.com/notopia-uit/notopia/pull/238#issuecomment-6920832341) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 5. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-6. ❌ Closed PR [#212](undefined) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-7. ❌ Closed PR [#72](undefined) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-8. ❌ Closed PR [#189](undefined) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-9. ❌ Closed PR [#296](undefined) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-10. ❌ Closed PR [#299](undefined) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+6. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+7. ❌ Closed PR [#212](undefined) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+8. ❌ Closed PR [#72](undefined) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+9. ❌ Closed PR [#189](undefined) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+10. ❌ Closed PR [#296](undefined) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Tuesday, 17/11/26 12:11 AM
+Last Updated on Tuesday, 17/11/26 9:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

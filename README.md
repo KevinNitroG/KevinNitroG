@@ -298,7 +298,7 @@
 <!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-214%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-220%20hrs%2018%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -306,53 +306,53 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 13 hrs 38 mins      █████████████░░░░░░░░░░░░   52.75 % 
-YAML                     3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Go                       2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Other                    1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-TypeScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Markdown                 12 hrs 52 mins      ████████████░░░░░░░░░░░░░   46.14 % 
+YAML                     3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Go                       2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+TypeScript               2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Other                    1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   37.67 % 
-Opencode Cli             8 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   33.61 % 
-Obsidian                 5 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-OpenCode                 1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Claude Code              22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Opencode Cli             12 hrs 25 mins      ███████████░░░░░░░░░░░░░░   44.49 % 
+Neovim                   9 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   34.04 % 
+Obsidian                 3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+OpenCode                 1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Claude Code              22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🐱‍💻 Projects: 
-notopia                  12 hrs 4 mins       ████████████░░░░░░░░░░░░░   46.68 % 
-mastercookvn             6 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
-obsidian-note            2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-note                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-homelab                  1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+notopia                  18 hrs 1 min        ████████████████░░░░░░░░░   64.55 % 
+mastercookvn             3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+note                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+homelab                  1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+obsidian-note            1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 💻 Operating System: 
-Linux                    22 hrs 56 mins      ██████████████████████░░░   88.69 % 
-Windows                  2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-WSL                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Linux                    24 hrs 59 mins      ██████████████████████░░░   89.53 % 
+Windows                  2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+WSL                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 12 mins (54.94%)
+⏱ AI Coding Time: 17 hrs 58 mins (64.38%)
 
-✍️ 283 lines written by AI, 949 lines written by hand (22.97% AI-written)
+✍️ 283 lines written by AI, 1,485 lines written by hand (16.01% AI-written)
 
-🔤 6,383,083 Input Tokens, 876,472 Output Tokens
+🔤 9,294,157 Input Tokens, 1,031,661 Output Tokens
 
-💵 $184.85 Estimated AI Cost This Week
+💵 $303.38 Estimated AI Cost This Week
 
-🧠 83 AI Sessions, 333 AI Prompts
+🧠 116 AI Sessions, 486 AI Prompts
 
 Opus                     268 lines           ███████████████████████░░   92.10 % 
 GPT                      23 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 22.97% of written lines came from AI
-📄 Detailed Prompter — average 526 characters per prompt
+🧑‍💻 Mostly Hands-On — 16.01% of written lines came from AI
+📄 Detailed Prompter — average 1,144 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 79.26% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 85.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -368,7 +368,7 @@ Vim Script               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on Sunday, 22/11/26 at 03:47 PM UTC
+ Last Updated on Monday, 23/11/26 at 12:31 AM UTC
 <!--END_SECTION:waka-->
 
 <hr>

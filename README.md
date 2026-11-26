@@ -306,38 +306,38 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 12 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   40.57 % 
-YAML                     8 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-Go                       2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-TypeScript               1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Bash                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Markdown                 11 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   38.73 % 
+YAML                     8 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+Go                       2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+TypeScript               1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Bash                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 
 🔥 Editors: 
-Opencode Cli             11 hrs 59 mins      ██████████░░░░░░░░░░░░░░░   39.97 % 
-Neovim                   10 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   34.61 % 
-Obsidian                 3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-OpenCode                 2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Claude Code              1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Opencode Cli             11 hrs 59 mins      ██████████░░░░░░░░░░░░░░░   40.02 % 
+Neovim                   10 hrs 54 mins      █████████░░░░░░░░░░░░░░░░   36.41 % 
+Obsidian                 3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+OpenCode                 2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Claude Code              1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 🐱‍💻 Projects: 
-notopia                  18 hrs 19 mins      ███████████████░░░░░░░░░░   61.07 % 
-note                     3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-terraform-aws-intern-proj2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-homelab                  2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-nvim                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+notopia                  18 hrs 19 mins      ███████████████░░░░░░░░░░   61.15 % 
+note                     3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+terraform-aws-intern-proj2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+homelab                  2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Unknown Project          48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 💻 Operating System: 
-Linux                    21 hrs 54 mins      ██████████████████░░░░░░░   73.00 % 
-WSL                      4 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Windows                  3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Linux                    21 hrs 54 mins      ██████████████████░░░░░░░   73.09 % 
+WSL                      5 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Windows                  3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 46 mins (59.2%)
+⏱ AI Coding Time: 17 hrs 46 mins (59.27%)
 
-✍️ 1,706 lines written by AI, 2,062 lines written by hand (45.28% AI-written)
+✍️ 1,706 lines written by AI, 2,222 lines written by hand (43.43% AI-written)
 
 🔤 8,114,803 Input Tokens, 829,478 Output Tokens
 
@@ -351,10 +351,10 @@ DeepSeek                 0 lines             ░░░░░░░░░░░�
 MiMo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 45.28% of written lines came from AI
+⚖️ Balanced with AI — 43.43% of written lines came from AI
 📄 Detailed Prompter — average 1,147 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 56.49% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 58.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -370,7 +370,7 @@ Vim Script               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on Wednesday, 25/11/26 at 06:17 PM UTC
+ Last Updated on Thursday, 26/11/26 at 02:32 AM UTC
 <!--END_SECTION:waka-->
 
 <hr>

@@ -393,20 +393,20 @@ Vim Script               2 repos             ░░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-2. ⭐ Starred [okineadev/vitepress-plugin-llms](https://github.com/okineadev/vitepress-plugin-llms)<br>
+1. ⭐ Starred [k8tz/k8tz](https://github.com/k8tz/k8tz)<br>
+2. ⭐ Starred [home-operations/renovate-presets](https://github.com/home-operations/renovate-presets)<br>
 3. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-4. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+4. ⭐ Starred [okineadev/vitepress-plugin-llms](https://github.com/okineadev/vitepress-plugin-llms)<br>
 5. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-6. ⬆️ Pushed undefined commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
-7. ⬆️ Pushed undefined commit(s) to [mastercookvn/mastercookvn](https://github.com/mastercookvn/mastercookvn)<br>
-8. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-9. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+6. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+7. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+8. ⬆️ Pushed undefined commit(s) to [KevinNitroG/homelab](https://github.com/KevinNitroG/homelab)<br>
+9. ⬆️ Pushed undefined commit(s) to [mastercookvn/mastercookvn](https://github.com/mastercookvn/mastercookvn)<br>
 10. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated on Friday, 27/11/26 9:11 AM
+Last Updated on Saturday, 28/11/26 12:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
